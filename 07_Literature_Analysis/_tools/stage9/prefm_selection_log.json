@@ -1,0 +1,153 @@
+{
+ "selected_new": {
+  "vandenBerg2008RVO": [
+   "P1",
+   3,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Thrun1999Minerva": [
+   "P1",
+   3,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Svenstrup2010Trajectory": [
+   "P1",
+   3,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Sisbot2007HAMP": [
+   "P1",
+   3,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Pandey2010Framework": [
+   "P1",
+   3,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Mavrogiannis2019HRI": [
+   "P1",
+   3,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Mavrogiannis2018SocialMomentum": [
+   "P1",
+   3,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Chung2010Spatial": [
+   "P2",
+   4,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Pacchierotti2006Passing": [
+   "P2",
+   3,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Charalampous2016SocialMaps": [
+   "P2",
+   3,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Shiomi2014Acceptable": [
+   "P3",
+   4,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Ferrer2013Companion": [
+   "P3",
+   3,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Truong2017Approach": [
+   "P4",
+   2,
+   "fill rule: paradigm below 3 works; next most-cited (n = 2)"
+  ],
+  "Wang2021GMPC": [
+   "P4",
+   1,
+   "fill rule: paradigm below 3 works; next most-cited (n = 1)"
+  ],
+  "Katyal2022GroupAware": [
+   "P4",
+   1,
+   "fill rule: paradigm below 3 works; next most-cited (n = 1)"
+  ],
+  "Pellegrini2009YNWA": [
+   "P5",
+   4,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Alahi2016SocialLSTM": [
+   "P5",
+   4,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Vemula2018SocialAttention": [
+   "P5",
+   3,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Vasquez2014IRLFeatures": [
+   "P6",
+   4,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Luber2012Learning": [
+   "P6",
+   4,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Kim2016SociallyAdaptive": [
+   "P6",
+   4,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Henry2010Crowded": [
+   "P6",
+   4,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Hamandi2019DeepMoTIon": [
+   "P7",
+   1,
+   "fill rule: paradigm below 3 works; next most-cited (n = 1)"
+  ],
+  "Liu2020DRLCrowded": [
+   "P8",
+   3,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Everett2018GA3C": [
+   "P8",
+   3,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Chen2020RGL": [
+   "P9",
+   4,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Sathyamoorthy2020Frozone": [
+   "P10",
+   3,
+   "cited by >= 3 of 7 reference surveys"
+  ],
+  "Brito2021Subgoal": [
+   "P10",
+   2,
+   "fill rule: paradigm below 3 works; next most-cited (n = 2)"
+  ]
+ },
+ "ineligible": {
+  "Moussaid2010Groups": "pedestrian-dynamics study without a robot navigation method",
+  "Zanlungo2011Explicit": "pedestrian model without a robot navigation method",
+  "Cristani2011FFormation": "F-formation detection without navigation",
+  "Yang2020GroupSpace": "placeholder fragment; no matching work",
+  "Pfeiffer2017Perception": "end-to-end collision avoidance without human-aware objective",
+  "Karnan2022SCAND": "dataset (S6 in the corpus), not a method",
+  "Long2018Decentralized": "multi-robot collision avoidance without humans"
+ }
+}

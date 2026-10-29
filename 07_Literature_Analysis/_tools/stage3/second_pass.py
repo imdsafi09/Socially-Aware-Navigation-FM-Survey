@@ -1,0 +1,20 @@
+"""Second-pass recode (final definitions only) of a stratified 41% sample (>=1 paper per interface category)."""
+P2 = {  # A, B, D, EV(off sim robot humans heval), capability families with a Yes leaf
+ '2026_Xiao_E-SocialNav': ('A5', 'R1 R2 R3', 'D0', 'Yes No none none none', ''),
+ '2025_Payandeh_Social-LLaVA': ('A5', 'R1 R2 R3', 'D0', 'Yes No demo none text-raters', ''),
+ '2025_Luo_GSON': ('A1 A2 A3 A4', 'R2', 'D1', 'Yes No systematic unscripted none', 'SPA'),
+ '2026_Bejarano_PAD': ('A1 A5', 'R1 R2 R5', 'D1 D8', 'No No systematic staged co-present participants', 'SAF EXP'),
+ '2025_Liang_MOSU': ('A6', 'R1 R3', 'D2 D3', 'Yes No demo none none', ''),
+ '2026_Fang_Obstacles-to-Etiquette': ('A1 A2 A3 A5', 'R2 R3', 'D2 D7', 'No No systematic staged none', 'SAF SPA HUM NOR'),
+ '2026_Chen_LISN': ('A1 A3 A5', 'R1 R2 R4', 'D3 D4', 'No Yes none simulated-only none', 'SAF SPA NOR'),
+ '2026_Wang_LE-Nav': ('A1 A5', 'R1 R2', 'D3', 'No No systematic unscripted co-present participants', 'SAF EXP NOR'),
+ '2026_Huo_NORM-Nav': ('A3 A5', 'R1 R4', 'D3', 'No Yes demo present-type-unreported none', 'SPA NOR'),
+ '2024_Sathyamoorthy_CoNVOI': ('A1 A6', 'R1 R3', 'D4', 'No No systematic present-type-unreported none', 'SPA NOR'),
+ '2026_Fang_Group-Joining': ('A1 A3 A4', 'R2 R4', 'D4', 'Yes No systematic present-type-unreported none', 'SPA NOR'),
+ '2026_Ahmadi_HUMA': ('A5 A6', 'R2 R3', 'D5', 'No Yes demo none none', 'SAF'),
+ '2026_Wang_SALSA': ('A6', 'R3', 'D6', 'Yes No demo none none', 'SAF'),
+ '2026_Zhang_Walk-With-Me': ('A6', 'R3 R4', 'D4 D6', 'No No systematic unscripted none', 'NOR'),
+ '2026_Payandeh_Narrate2Nav': ('A5 A6', 'R1 R2', 'D7', 'Yes No systematic present-type-unreported none', 'SAF'),
+ '2026_Zhao_EvoNav': ('A1', 'R3', 'D7', 'No Yes none simulated-only none', 'SAF SPA'),
+ '2025_Wen_HSAC-LLM': ('A1 A5', 'R5', 'D8', 'No Yes demo simulated-only none', 'SAF SPA'),
+}

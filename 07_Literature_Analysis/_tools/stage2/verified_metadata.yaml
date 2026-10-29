@@ -1,0 +1,868 @@
+1995_Helbing_Social-Force:
+  arxiv: cond-mat/9805244v1
+  doi: 10.1103/PhysRevE.51.4282
+  issue: '5'
+  pages: 4282-4286
+  sources:
+  - Crossref (exact title match, DOI 10.1103/PhysRevE.51.4282)
+  - arXiv abs page (cond-mat/9805244v1)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1103/PhysRevE.51.4282
+  venue: Physical Review E
+  version_relationship: arXiv copy posted 1998 after journal publication; journal version authoritative
+  volume: '51'
+2010_Trautman_Unfreezing-IGP:
+  arxiv: NA
+  doi: 10.1109/IROS.2010.5654369
+  issue: NA
+  pages: 797-803
+  sources:
+  - Crossref (exact title match, DOI 10.1109/IROS.2010.5654369)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/IROS.2010.5654369
+  venue: 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  version_relationship: Corpus copy is the published version
+  volume: NA
+2012_Kuderer_Feature-Based-Prediction:
+  arxiv: NA
+  doi: 10.15607/RSS.2012.VIII.025
+  issue: NA
+  pages: Not paginated (RSS)
+  sources:
+  - Crossref (exact title match, DOI 10.15607/RSS.2012.VIII.025)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.15607/RSS.2012.VIII.025
+  venue: 'Robotics: Science and Systems VIII (RSS 2012)'
+  version_relationship: Corpus copy is the published version
+  volume: NA
+2013_Kruse_Human-Aware-Navigation-Survey:
+  arxiv: NA
+  doi: 10.1016/j.robot.2013.05.007
+  issue: '12'
+  pages: 1726-1743
+  sources:
+  - Crossref (exact title match, DOI 10.1016/j.robot.2013.05.007)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1016/j.robot.2013.05.007
+  venue: Robotics and Autonomous Systems
+  version_relationship: Corpus copy is the published version
+  volume: '61'
+2016_Kretzschmar_Socially-Compliant-IRL:
+  arxiv: NA
+  doi: 10.1177/0278364915619772
+  issue: '11'
+  pages: 1289-1307
+  sources:
+  - Crossref (exact title match, DOI 10.1177/0278364915619772)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1177/0278364915619772
+  venue: The International Journal of Robotics Research
+  version_relationship: Corpus copy is an author manuscript; journal version authoritative
+  volume: '35'
+2016_Okal_Bayesian-IRL:
+  arxiv: NA
+  doi: 10.1109/ICRA.2016.7487452
+  issue: NA
+  pages: 2889-2895
+  sources:
+  - Crossref (exact title match, DOI 10.1109/ICRA.2016.7487452)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/ICRA.2016.7487452
+  venue: 2016 IEEE International Conference on Robotics and Automation (ICRA)
+  version_relationship: Corpus copy is the published version
+  volume: NA
+2017_Charalampous_Social-Aware-Navigation-Survey:
+  arxiv: NA
+  doi: 10.1016/j.robot.2017.03.002
+  issue: NA
+  pages: 85-104
+  sources:
+  - Crossref (exact title match, DOI 10.1016/j.robot.2017.03.002)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1016/j.robot.2017.03.002
+  venue: Robotics and Autonomous Systems
+  version_relationship: Corpus copy is the published version
+  volume: '93'
+2017_Chen_CADRL:
+  arxiv: 1609.07845v2
+  doi: 10.1109/ICRA.2017.7989037
+  issue: NA
+  pages: 285-292
+  sources:
+  - Crossref (exact title match, DOI 10.1109/ICRA.2017.7989037)
+  - arXiv abs page (1609.07845v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/ICRA.2017.7989037
+  venue: 2017 IEEE International Conference on Robotics and Automation (ICRA)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+2017_Chen_SA-CADRL:
+  arxiv: 1703.08862v2
+  doi: 10.1109/IROS.2017.8202312
+  issue: NA
+  pages: 1343-1350
+  sources:
+  - Crossref (exact title match, DOI 10.1109/IROS.2017.8202312)
+  - arXiv abs page (1703.08862v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/IROS.2017.8202312
+  venue: 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+2018_Tai_GAIL-Depth:
+  arxiv: 1710.02543v2
+  doi: 10.1109/ICRA.2018.8460968
+  issue: NA
+  pages: 1111-1117
+  sources:
+  - Crossref (exact title match, DOI 10.1109/ICRA.2018.8460968)
+  - arXiv abs page (1710.02543v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/ICRA.2018.8460968
+  venue: 2018 IEEE International Conference on Robotics and Automation (ICRA)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+2019_Chen_SARL-CrowdNav:
+  arxiv: 1809.08835v2
+  doi: 10.1109/ICRA.2019.8794134
+  issue: NA
+  pages: 6015-6022
+  sources:
+  - Crossref (exact title match, DOI 10.1109/ICRA.2019.8794134)
+  - arXiv abs page (1809.08835v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/ICRA.2019.8794134
+  venue: 2019 International Conference on Robotics and Automation (ICRA)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+2020_Tsoi_SEAN:
+  arxiv: 2009.04300v1
+  doi: 10.1145/3406499.3418760
+  issue: NA
+  pages: 281-283
+  sources:
+  - Crossref DOI 10.1145/3406499.3418760 (verified via DOI lookup; title search returned no match)
+  - arXiv abs page (2009.04300v1)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1145/3406499.3418760
+  venue: Proceedings of the 8th International Conference on Human-Agent Interaction (HAI 2020)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+2021_Kastner_Arena-Rosnav:
+  arxiv: 2104.03616v2
+  doi: 10.1109/IROS51168.2021.9636226
+  issue: NA
+  pages: 6456-6463
+  sources:
+  - Crossref DOI 10.1109/IROS51168.2021.9636226 (DOI lookup)
+  - arXiv abs page (2104.03616v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/IROS51168.2021.9636226
+  venue: 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  version_relationship: Corpus copy is the published IEEE version
+  volume: NA
+2021_Moller_Human-Aware-Navigation-Survey:
+  arxiv: 2106.11650v1
+  doi: 10.1016/j.robot.2021.103837
+  issue: NA
+  pages: Article 103837
+  sources:
+  - Crossref (exact title match, DOI 10.1016/j.robot.2021.103837)
+  - arXiv abs page (2106.11650v1)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1016/j.robot.2021.103837
+  venue: Robotics and Autonomous Systems
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: '145'
+2022_Ahn_SayCan:
+  arxiv: 2204.01691v2
+  doi: Not found / not applicable
+  issue: NA
+  pages: 287-318
+  sources:
+  - PMLR proceedings page (https://proceedings.mlr.press/v205/ichter23a.html)
+  - arXiv abs page (2204.01691v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://proceedings.mlr.press/v205/ichter23a.html
+  venue: Proceedings of The 6th Conference on Robot Learning (CoRL 2022), PMLR 205
+  version_relationship: Corpus copy is the PMLR published version; arXiv 2204.01691v2 alternate
+  volume: NA
+2022_Biswas_SocNavBench:
+  arxiv: 2103.00047v2
+  doi: 10.1145/3476413
+  issue: '3'
+  pages: 1-24
+  sources:
+  - Crossref (exact title match, DOI 10.1145/3476413)
+  - arXiv abs page (2103.00047v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1145/3476413
+  venue: ACM Transactions on Human-Robot Interaction
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: '11'
+2022_Gao_Evaluation-SAN-Review:
+  arxiv: NA
+  doi: 10.3389/frobt.2021.721317
+  issue: NA
+  pages: Article 721317
+  sources:
+  - Crossref (exact title match, DOI 10.3389/frobt.2021.721317)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.3389/frobt.2021.721317
+  venue: Frontiers in Robotics and AI
+  version_relationship: Corpus copy is the published version
+  volume: '8'
+2022_Karnan_SCAND:
+  arxiv: 2203.15041v2
+  doi: 10.1109/LRA.2022.3184025
+  issue: '4'
+  pages: 11807-11814
+  sources:
+  - Crossref (exact title match, DOI 10.1109/LRA.2022.3184025)
+  - arXiv abs page (2203.15041v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/LRA.2022.3184025
+  venue: IEEE Robotics and Automation Letters
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: '7'
+2022_Kim_Group-Estimation:
+  arxiv: NA
+  doi: 10.23919/ICCAS55662.2022.10003761
+  issue: NA
+  pages: 1421-1425
+  sources:
+  - Crossref (exact title match, DOI 10.23919/ICCAS55662.2022.10003761)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.23919/ICCAS55662.2022.10003761
+  venue: 2022 22nd International Conference on Control, Automation and Systems (ICCAS)
+  version_relationship: Corpus copy is the published version
+  volume: NA
+2022_Shah_LM-Nav:
+  arxiv: 2207.04429v2
+  doi: Not found / not applicable
+  issue: NA
+  pages: 492-504
+  sources:
+  - PMLR proceedings page (https://proceedings.mlr.press/v205/shah23b.html)
+  - arXiv abs page (2207.04429v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://proceedings.mlr.press/v205/shah23b.html
+  venue: Proceedings of The 6th Conference on Robot Learning (CoRL 2022), PMLR 205
+  version_relationship: Corpus copy is the PMLR published version; arXiv 2207.04429v2 alternate
+  volume: NA
+2023_Brohan_RT-2:
+  arxiv: 2307.15818v1
+  doi: Not found / not applicable
+  issue: NA
+  pages: 2165-2183
+  sources:
+  - PMLR proceedings page (https://proceedings.mlr.press/v229/zitkovich23a.html)
+  - arXiv abs page (2307.15818v1)
+  status_class: 'A: published, peer-reviewed'
+  url: https://proceedings.mlr.press/v229/zitkovich23a.html
+  venue: Proceedings of The 7th Conference on Robot Learning (CoRL 2023), PMLR 229
+  version_relationship: Corpus copy is the PMLR published version; arXiv 2307.15818v1 alternate
+  volume: NA
+2023_Driess_PaLM-E:
+  arxiv: 2303.03378v1
+  doi: Not found / not applicable
+  issue: NA
+  pages: 8469-8488
+  sources:
+  - PMLR proceedings page (https://proceedings.mlr.press/v202/driess23a.html)
+  - arXiv abs page (2303.03378v1)
+  status_class: 'A: published, peer-reviewed'
+  url: https://proceedings.mlr.press/v202/driess23a.html
+  venue: Proceedings of the 40th International Conference on Machine Learning (ICML 2023), PMLR 202
+  version_relationship: Corpus copy is the PMLR published version; arXiv 2303.03378v1 alternate
+  volume: NA
+2023_Huang_VLMaps:
+  arxiv: 2210.05714v4
+  doi: 10.1109/ICRA48891.2023.10160969
+  issue: NA
+  pages: 10608-10615
+  sources:
+  - Crossref (exact title match, DOI 10.1109/ICRA48891.2023.10160969)
+  - arXiv abs page (2210.05714v4)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/ICRA48891.2023.10160969
+  venue: 2023 IEEE International Conference on Robotics and Automation (ICRA)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+2023_Huang_VoxPoser:
+  arxiv: 2307.05973v2
+  doi: Not found / not applicable
+  issue: NA
+  pages: 540-562
+  sources:
+  - PMLR proceedings page (https://proceedings.mlr.press/v229/huang23b.html)
+  - arXiv abs page (2307.05973v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://proceedings.mlr.press/v229/huang23b.html
+  venue: Proceedings of The 7th Conference on Robot Learning (CoRL 2023), PMLR 229
+  version_relationship: Corpus copy is the PMLR published version; arXiv 2307.05973v2 alternate
+  volume: NA
+2023_Liang_Code-as-Policies:
+  arxiv: 2209.07753v4
+  doi: 10.1109/ICRA48891.2023.10160591
+  issue: NA
+  pages: 9493-9500
+  sources:
+  - Crossref (exact title match, DOI 10.1109/ICRA48891.2023.10160591)
+  - arXiv abs page (2209.07753v4)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/ICRA48891.2023.10160591
+  venue: 2023 IEEE International Conference on Robotics and Automation (ICRA)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+2023_Mavrogiannis_Core-Challenges-Survey:
+  arxiv: 2103.05668v2
+  doi: 10.1145/3583741
+  issue: '3'
+  pages: 1-39 (Article 36)
+  sources:
+  - Crossref (exact title match, DOI 10.1145/3583741)
+  - arXiv abs page (2103.05668v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1145/3583741
+  venue: ACM Transactions on Human-Robot Interaction
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: '12'
+2023_Shah_GNM:
+  arxiv: 2210.03370v2
+  doi: 10.1109/ICRA48891.2023.10161227
+  issue: NA
+  pages: 7226-7233
+  sources:
+  - Crossref (exact title match, DOI 10.1109/ICRA48891.2023.10161227)
+  - arXiv abs page (2210.03370v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/ICRA48891.2023.10161227
+  venue: 2023 IEEE International Conference on Robotics and Automation (ICRA)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+2023_Shah_ViNT:
+  arxiv: 2306.14846v2
+  doi: Not found / not applicable
+  issue: NA
+  pages: 711-733
+  sources:
+  - PMLR proceedings page (https://proceedings.mlr.press/v229/shah23a.html)
+  - arXiv abs page (2306.14846v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://proceedings.mlr.press/v229/shah23a.html
+  venue: Proceedings of The 7th Conference on Robot Learning (CoRL 2023), PMLR 229
+  version_relationship: Corpus copy is arXiv v2; PMLR version authoritative
+  volume: NA
+2023_Wang_NaviSTAR:
+  arxiv: 2304.05979v2
+  doi: 10.1109/IROS55552.2023.10341395
+  issue: NA
+  pages: 11348-11355
+  sources:
+  - Crossref (exact title match, DOI 10.1109/IROS55552.2023.10341395)
+  - arXiv abs page (2304.05979v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/IROS55552.2023.10341395
+  venue: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+2024_Karwowski_Requirements-Planning-Evaluation-Review:
+  arxiv: NA
+  doi: 10.3390/s24092794
+  issue: '9'
+  pages: Article 2794
+  sources:
+  - Crossref (exact title match, DOI 10.3390/s24092794)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.3390/s24092794
+  venue: Sensors
+  version_relationship: Corpus copy is the published version
+  volume: '24'
+2024_Li_HA-VLN:
+  arxiv: 2406.19236v3
+  doi: 10.52202/079017-3795
+  issue: NA
+  pages: 119411-119442
+  sources:
+  - Crossref (exact title match, DOI 10.52202/079017-3795)
+  - arXiv abs page (2406.19236v3)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.52202/079017-3795
+  venue: Advances in Neural Information Processing Systems 37 (NeurIPS 2024, Datasets and Benchmarks Track)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+2024_Mirsky_Conflict-Avoidance-Survey:
+  arxiv: 2106.12113v3
+  doi: 10.1145/3647983
+  issue: '1'
+  pages: 1-36 (Article 13)
+  sources:
+  - Crossref (exact title match, DOI 10.1145/3647983)
+  - arXiv abs page (2106.12113v3)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1145/3647983
+  venue: ACM Transactions on Human-Robot Interaction
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: '13'
+2024_Raj_Hybrid-Social-Nav:
+  arxiv: 2309.13466v2
+  doi: 10.1109/ICRA57147.2024.10611710
+  issue: NA
+  pages: 16330-16337
+  sources:
+  - Crossref (exact title match, DOI 10.1109/ICRA57147.2024.10611710)
+  - arXiv abs page (2309.13466v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/ICRA57147.2024.10611710
+  venue: 2024 IEEE International Conference on Robotics and Automation (ICRA)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+2024_Sathyamoorthy_CoNVOI:
+  arxiv: 2403.15637v1
+  doi: 10.1109/IROS58592.2024.10802716
+  issue: NA
+  pages: 13837-13844
+  sources:
+  - Crossref (exact title match, DOI 10.1109/IROS58592.2024.10802716)
+  - arXiv abs page (2403.15637v1)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/IROS58592.2024.10802716
+  venue: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+2024_Shcherbyna_Arena-4.0:
+  arxiv: 2409.12471v1
+  doi: 10.1109/ICRA55743.2025.11127635
+  issue: NA
+  pages: 9138-9144
+  peer_reviewed: 'Yes'
+  pub_status: conference (corpus copy is arXiv author version)
+  sources:
+  - Crossref (exact title match, DOI 10.1109/ICRA55743.2025.11127635)
+  - arXiv abs page (2409.12471v1)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/ICRA55743.2025.11127635
+  venue: 2025 IEEE International Conference on Robotics and Automation (ICRA)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+  year: 2025
+2024_Singamaneni_SAN-Taxonomy-Survey:
+  arxiv: 2311.06922v4
+  doi: 10.1177/02783649241230562
+  issue: '10'
+  pages: 1533-1572
+  sources:
+  - Crossref (exact title match, DOI 10.1177/02783649241230562)
+  - arXiv abs page (2311.06922v4)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1177/02783649241230562
+  venue: The International Journal of Robotics Research
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: '43'
+2024_Sridhar_NoMaD:
+  arxiv: 2310.07896v1
+  doi: 10.1109/ICRA57147.2024.10610665
+  issue: NA
+  pages: 63-70
+  sources:
+  - Crossref (exact title match, DOI 10.1109/ICRA57147.2024.10610665)
+  - arXiv abs page (2310.07896v1)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/ICRA57147.2024.10610665
+  venue: 2024 IEEE International Conference on Robotics and Automation (ICRA)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+2024_Yokoyama_VLFM:
+  arxiv: 2312.03275v1
+  doi: 10.1109/ICRA57147.2024.10610712
+  issue: NA
+  pages: 42-48
+  sources:
+  - Crossref (exact title match, DOI 10.1109/ICRA57147.2024.10610712)
+  - arXiv abs page (2312.03275v1)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/ICRA57147.2024.10610712
+  venue: 2024 IEEE International Conference on Robotics and Automation (ICRA)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+2024_Zhou_NavGPT:
+  arxiv: 2305.16986v3
+  doi: 10.1609/aaai.v38i7.28597
+  issue: '7'
+  pages: 7641-7649
+  sources:
+  - Crossref (exact title match, DOI 10.1609/aaai.v38i7.28597)
+  - arXiv abs page (2305.16986v3)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1609/aaai.v38i7.28597
+  venue: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-24)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: '38'
+2025_Alyassi_Learning-SocialNav-Review-Benchmark:
+  arxiv: NA
+  doi: 10.3389/frobt.2025.1658643
+  issue: NA
+  pages: Article 1658643
+  sources:
+  - Crossref (exact title match, DOI 10.3389/frobt.2025.1658643)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.3389/frobt.2025.1658643
+  venue: Frontiers in Robotics and AI
+  version_relationship: Corpus copy is the published version
+  volume: '12'
+2025_Francis_Principles-Guidelines:
+  arxiv: 2306.16740v4
+  doi: 10.1145/3700599
+  issue: '2'
+  pages: 1-65
+  sources:
+  - Crossref (exact title match, DOI 10.1145/3700599)
+  - arXiv abs page (2306.16740v4)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1145/3700599
+  venue: ACM Transactions on Human-Robot Interaction
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: '14'
+2025_Kawabata_SocialNav-MoE:
+  arxiv: 2512.14757v1
+  doi: Not found / not applicable
+  peer_reviewed_note: No verified peer-reviewed version found as of corpus freeze date
+  publication_status: Preprint
+  sources:
+  - arXiv abs page (2512.14757v1)
+  - 'Crossref title search: no match'
+  status_class: 'C: preprint only'
+  url: https://arxiv.org/abs/2512.14757
+  version_relationship: arXiv only
+2025_Kong_AutoSpatial:
+  arxiv: 2503.07557v2
+  doi: 10.1109/IROS60139.2025.11245987
+  issue: NA
+  pages: 11298-11304
+  sources:
+  - Crossref (exact title match, DOI 10.1109/IROS60139.2025.11245987)
+  - arXiv abs page (2503.07557v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/IROS60139.2025.11245987
+  venue: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+2025_Luo_GSON:
+  arxiv: 2409.18084v3
+  doi: 10.1109/LRA.2025.3595038
+  issue: '10'
+  pages: 9646-9653
+  sources:
+  - Crossref (exact title match, DOI 10.1109/LRA.2025.3595038)
+  - arXiv abs page (2409.18084v3)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/LRA.2025.3595038
+  venue: IEEE Robotics and Automation Letters
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: '10'
+2025_Munje_SocialNav-SUB:
+  arxiv: 2509.08757v1
+  doi: Not found / not applicable
+  issue: NA
+  pages: 1120-1143
+  sources:
+  - PMLR proceedings page (https://proceedings.mlr.press/v305/munje25a.html)
+  - arXiv abs page (2509.08757v1)
+  status_class: 'A: published, peer-reviewed'
+  url: https://proceedings.mlr.press/v305/munje25a.html
+  venue: Proceedings of The 9th Conference on Robot Learning (CoRL 2025), PMLR 305
+  version_relationship: Corpus copy is the PMLR published version; arXiv 2509.08757v1 alternate
+  volume: NA
+2025_Narasimhan_OLiVia-Nav:
+  arxiv: 2409.13675v2
+  doi: 10.1109/ICRA55743.2025.11128004
+  issue: NA
+  pages: 9130-9137
+  sources:
+  - Crossref (exact title match, DOI 10.1109/ICRA55743.2025.11128004)
+  - arXiv abs page (2409.13675v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/ICRA55743.2025.11128004
+  venue: 2025 IEEE International Conference on Robotics and Automation (ICRA)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+2025_Payandeh_Social-LLaVA:
+  arxiv: 2501.09024 (different title)
+  doi: 10.1109/IROS60139.2025.11247618
+  issue: NA
+  pages: 17192-17198
+  sources:
+  - Crossref (exact title match, DOI 10.1109/IROS60139.2025.11247618)
+  - arXiv abs page (2501.09024 (different title))
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/IROS60139.2025.11247618
+  venue: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  version_relationship: Corpus copy is the published IROS version; arXiv 2501.09024 carries a different title (alternate version)
+  volume: NA
+2025_Song_VL-TGS:
+  arxiv: 2408.02454v6
+  doi: 10.1109/LRA.2025.3559822
+  issue: '6'
+  pages: 5791-5798
+  sources:
+  - Crossref (exact title match, DOI 10.1109/LRA.2025.3559822)
+  - arXiv abs page (2408.02454v6)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/LRA.2025.3559822
+  venue: IEEE Robotics and Automation Letters
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: '10'
+2025_Song_VLM-Social-Nav:
+  arxiv: 2404.00210v3
+  doi: 10.1109/LRA.2024.3511409
+  issue: '1'
+  pages: 508-515
+  sources:
+  - Crossref (exact title match, DOI 10.1109/LRA.2024.3511409)
+  - arXiv abs page (2404.00210v3)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/LRA.2024.3511409
+  venue: IEEE Robotics and Automation Letters
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: '10'
+2025_Weerakoon_BehAV:
+  arxiv: 2409.16484v2
+  doi: 10.1109/ICRA55743.2025.11127890
+  issue: NA
+  pages: 7044-7051
+  sources:
+  - Crossref (exact title match, DOI 10.1109/ICRA55743.2025.11127890)
+  - arXiv abs page (2409.16484v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/ICRA55743.2025.11127890
+  venue: 2025 IEEE International Conference on Robotics and Automation (ICRA)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+2025_Wen_HSAC-LLM:
+  arxiv: 2409.04965v2
+  doi: 10.1109/IROS60139.2025.11246738
+  issue: NA
+  pages: 15314-15321
+  sources:
+  - Crossref (exact title match, DOI 10.1109/IROS60139.2025.11246738)
+  - arXiv abs page (2409.04965v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/IROS60139.2025.11246738
+  venue: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+2026_Bejarano_PAD:
+  arxiv: NA
+  doi: 10.1145/3776734.3794394
+  issue: NA
+  pages: 258-262
+  sources:
+  - Crossref (exact title match, DOI 10.1145/3776734.3794394)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1145/3776734.3794394
+  venue: Companion Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction (HRI 2026 Companion)
+  version_relationship: Corpus copy is the published version
+  volume: NA
+2026_Cai_VLM-Deployable-SRN-Survey:
+  arxiv: 2606.28760v1
+  doi: Not found / not applicable
+  peer_reviewed_note: No verified peer-reviewed version found as of corpus freeze date
+  publication_status: Preprint
+  sources:
+  - arXiv abs page (2606.28760v1)
+  - 'Crossref title search: no match'
+  status_class: 'C: preprint only'
+  url: https://arxiv.org/abs/2606.28760
+  version_relationship: arXiv only; v1 only
+2026_Chu_SocialNav-CVPR:
+  arxiv: 2511.21135v2
+  authors:
+  - Ziyi Chen
+  - Yingnan Guo
+  - Zedong Chu
+  - Minghua Luo
+  - Yanfen Shen
+  - Mingchao Sun
+  - Junjun Hu
+  - Shichao Xie
+  - Kuan Yang
+  - Pei Shi
+  - Zhining Gu
+  - Lu Liu
+  - Honglin Han
+  - Xiaolong Wu
+  - Mu Xu
+  - Yu Zhang
+  doi: Not found / not applicable
+  issue: NA
+  new_id: 2026_Chen_SocialNav-CVPR
+  pages: 28796-28806
+  sources:
+  - CVF Open Access page (author list, pages)
+  - arXiv abs page (2511.21135v2)
+  status_class: 'A: published, peer-reviewed'
+  url: https://openaccess.thecvf.com/content/CVPR2026/html/Chen_SocialNav_Training_Human-Inspired_Foundation_Model_for_Socially-Aware_Embodied_Navigation_CVPR_2026_paper.html
+  venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)
+  version_relationship: Corpus copy is the CVF open-access version; arXiv 2511.21135v2 alternate. IEEE Xplore DOI not found as of freeze date.
+  volume: NA
+2026_Dong_HA-VLN-2.0:
+  arxiv: 2503.14229v5
+  doi: Not found / not applicable
+  peer_reviewed: Accepted (not yet indexed)
+  pub_status: accepted per author statement; not yet indexed
+  sources:
+  - 'arXiv abs page (2503.14229v5): v5 (18 Aug 2026) comment "Accepted to IROS 2026"'
+  - 'Crossref title search: no match'
+  - OpenReview shows only a withdrawn ICLR 2026 submission; IROS 2026 proceedings not yet indexed
+  status_class: 'B: accepted per authors/arXiv; proceedings not yet available'
+  url: https://arxiv.org/abs/2503.14229
+  version_relationship: arXiv only; published version not yet available
+2026_Elnoor_ViLAM:
+  arxiv: 2503.09820v2
+  doi: Not found / not applicable
+  peer_reviewed_note: No verified peer-reviewed version found as of corpus freeze date
+  publication_status: Preprint
+  sources:
+  - arXiv abs page (2503.09820v2)
+  - 'Crossref title search: no match'
+  status_class: 'C: preprint only'
+  url: https://arxiv.org/abs/2503.09820
+  version_relationship: arXiv only; no venue on UMD project page
+2026_Fang_Obstacles-to-Etiquette:
+  arxiv: 2602.09002v1
+  doi: 10.1109/LRA.2026.3662586
+  issue: '4'
+  pages: 3947-3954
+  sources:
+  - Crossref (exact title match, DOI 10.1109/LRA.2026.3662586)
+  - arXiv abs page (2602.09002v1)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/LRA.2026.3662586
+  venue: IEEE Robotics and Automation Letters
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: '11'
+2026_Kabir_DRL-SAN-Survey:
+  arxiv: 2512.00049v1
+  doi: 10.1007/s10489-025-06982-5
+  issue: '1'
+  pages: Article 38
+  sources:
+  - Crossref (exact title match, DOI 10.1007/s10489-025-06982-5)
+  - arXiv abs page (2512.00049v1)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1007/s10489-025-06982-5
+  venue: Applied Intelligence
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: '56'
+2026_Liao_G2-Nav:
+  arxiv: 2607.16956v2
+  doi: Not found / not applicable
+  peer_reviewed: Accepted (not yet indexed)
+  pub_status: accepted per author statement; not yet indexed
+  sources:
+  - 'arXiv abs page (2607.16956v2): v2 (1 Oct 2026) comment "CoRL 2026"'
+  - 'Crossref title search: no match'
+  - Not located on OpenReview CoRL 2026 listing at freeze date; acceptance is author-reported
+  status_class: 'B: accepted per authors/arXiv; proceedings not yet available'
+  url: https://arxiv.org/abs/2607.16956
+  version_relationship: arXiv only; published version not yet available
+2026_Liu_MUSON:
+  arxiv: 2512.22867v2
+  doi: Not found / not applicable
+  peer_reviewed_note: No verified peer-reviewed version found as of corpus freeze date
+  publication_status: Preprint
+  sources:
+  - arXiv abs page (2512.22867v2)
+  - 'Crossref title search: no match'
+  status_class: 'C: preprint only'
+  url: https://arxiv.org/abs/2512.22867
+  version_relationship: arXiv only; dataset on Hugging Face (MARSLab/MUSON)
+2026_Pan_Foundation-LM-Navigation-Review:
+  arxiv: NA
+  doi: 10.1145/3802539
+  issue: '11'
+  pages: 1-38 (Article 291)
+  sources:
+  - Crossref (exact title match, DOI 10.1145/3802539)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1145/3802539
+  venue: ACM Computing Surveys
+  version_relationship: Corpus copy is the published version
+  volume: '58'
+2026_Wang_MAction-SocialNav:
+  arxiv: 2512.21722v1
+  doi: 10.1109/LRA.2026.3706951
+  issue: '8'
+  pages: 9747-9754
+  sources:
+  - Crossref (exact title match, DOI 10.1109/LRA.2026.3706951)
+  - arXiv abs page (2512.21722v1)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/LRA.2026.3706951
+  venue: IEEE Robotics and Automation Letters
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: '11'
+2026_Xiao_E-SocialNav:
+  arxiv: 2603.20664v1
+  doi: 10.1109/ICASSP55912.2026.11462076
+  issue: NA
+  pages: 20077-20081
+  sources:
+  - Crossref (exact title match, DOI 10.1109/ICASSP55912.2026.11462076)
+  - arXiv abs page (2603.20664v1)
+  status_class: 'A: published, peer-reviewed'
+  url: https://doi.org/10.1109/ICASSP55912.2026.11462076
+  venue: ICASSP 2026 - IEEE International Conference on Acoustics, Speech and Signal Processing
+  version_relationship: Corpus copy is the arXiv author version; published version authoritative
+  volume: NA
+2026_Xiao_Prompting-VLMs-JSAI:
+  arxiv: NA (related version arXiv 2601.14622 "Probing Prompt Design ...")
+  doi: 10.11517/pjsai.JSAI2026.0_2E5GS10o01
+  issue: '0'
+  pages: 2E5GS10o01 (4 pp.)
+  peer_review_note: Conference acceptance verified; peer-review status not independently established
+  peer_reviewed: Not established
+  pub_status: conference paper (acceptance verified)
+  sources:
+  - J-STAGE record (DOI 10.11517/pjsai.JSAI2026.0_2E5GS10o01; published online 2026/07/17; Japanese title on record)
+  - 'JSAI 2026 call for papers: acceptance decided by the programme committee (no peer-review statement)'
+  status_class: 'D: conference paper; acceptance verified, peer review not established'
+  url: https://doi.org/10.11517/pjsai.JSAI2026.0_2E5GS10o01
+  venue: Proceedings of the Annual Conference of JSAI, JSAI2026 (40th Annual Conference of the Japanese Society for Artificial Intelligence)
+  version_relationship: Corpus copy is the JSAI proceedings PDF; arXiv 2601.14622 is a related, differently titled version
+  volume: JSAI2026
+2026_Xu_HCSG:
+  arxiv: 2605.13321v1
+  doi: Not found / not applicable
+  peer_reviewed_note: No verified peer-reviewed version found as of corpus freeze date
+  publication_status: Preprint
+  sources:
+  - arXiv abs page (2605.13321v1)
+  - 'Crossref title search: no match'
+  status_class: 'C: preprint only'
+  url: https://arxiv.org/abs/2605.13321
+  version_relationship: arXiv only
+2026_Zhang_GCL:
+  arxiv: 2603.11447v1
+  doi: Not found / not applicable
+  peer_reviewed_note: No verified peer-reviewed version found as of corpus freeze date
+  publication_status: Preprint
+  sources:
+  - arXiv abs page (2603.11447v1)
+  - 'Crossref title search: no match'
+  status_class: 'C: preprint only'
+  url: https://arxiv.org/abs/2603.11447
+  version_relationship: arXiv only; an IEICE technical report is a related (non-archival) version
+2026_Zhang_SOPD-SocialNav:
+  arxiv: 2607.19850v1
+  doi: Not found / not applicable
+  peer_reviewed: Accepted (not yet indexed)
+  pub_status: accepted per author statement; not yet indexed
+  sources:
+  - 'arXiv abs page (2607.19850v1): comment "accepted to 2026 WRC Symposium on Advanced Robotics and Automation (WRC SARA)"'
+  - 'Crossref title search: no match'
+  - Symposium held 21 Aug 2026; IEEE Xplore record pending
+  status_class: 'B: accepted per authors/arXiv; proceedings not yet available'
+  url: https://arxiv.org/abs/2607.19850
+  version_relationship: arXiv only; published version not yet available

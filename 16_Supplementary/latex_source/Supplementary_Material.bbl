@@ -1,0 +1,302 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Thrun1999Minerva}
+S.~Thrun, M.~Beetz, M.~Bennewitz, W.~Burgard, A.~B. Cremers, F.~Dellaert,
+  D.~Fox, D.~Hähnel, C.~Rosenberg, N.~Roy, J.~Schulte, D.~Schulz,
+  {Probabilistic Algorithms and the Interactive Museum Tour-Guide Robot
+  Minerva}, The International Journal of Robotics Research 19~(11) (2000)
+  972--999.
+\newblock \href {https://doi.org/10.1177/02783640022067922}
+  {\path{doi:10.1177/02783640022067922}}.
+
+\bibitem{Sisbot2007SisbotHAMP}
+E.~Sisbot, L.~Marin-Urias, R.~Alami, T.~Simeon, {A Human Aware Mobile Robot
+  Motion Planner}, IEEE Transactions on Robotics 23~(5) (2007) 874--883.
+\newblock \href {https://doi.org/10.1109/tro.2007.904911}
+  {\path{doi:10.1109/tro.2007.904911}}.
+
+\bibitem{vandenBerg2008RVO}
+J.~van~den Berg, M.~Lin, D.~Manocha, {Reciprocal Velocity Obstacles for
+  real-time multi-agent navigation}, in: 2008 IEEE International Conference on
+  Robotics and Automation, IEEE, 2008, pp. 1928--1935.
+\newblock \href {https://doi.org/10.1109/robot.2008.4543489}
+  {\path{doi:10.1109/robot.2008.4543489}}.
+
+\bibitem{Pandey2010Framework}
+A.~K. Pandey, R.~Alami, {A framework towards a socially aware Mobile Robot
+  motion in Human-Centered dynamic environment}, in: 2010 IEEE/RSJ
+  International Conference on Intelligent Robots and Systems, IEEE, 2010, pp.
+  5855--5860.
+\newblock \href {https://doi.org/10.1109/iros.2010.5649688}
+  {\path{doi:10.1109/iros.2010.5649688}}.
+
+\bibitem{Svenstrup2010Trajectory}
+M.~Svenstrup, T.~Bak, H.~J. Andersen, {Trajectory planning for robots in
+  dynamic human environments}, in: 2010 IEEE/RSJ International Conference on
+  Intelligent Robots and Systems, IEEE, 2010, pp. 4293--4298.
+\newblock \href {https://doi.org/10.1109/iros.2010.5651531}
+  {\path{doi:10.1109/iros.2010.5651531}}.
+
+\bibitem{Mavrogiannis2018SocialMomentum}
+C.~I. Mavrogiannis, W.~B. Thomason, R.~A. Knepper, {Social Momentum: A
+  Framework for Legible Navigation in Dynamic Multi-Agent Environments}, in:
+  Proceedings of the 2018 ACM/IEEE International Conference on Human-Robot
+  Interaction (HRI), ACM, 2018, pp. 361--369.
+\newblock \href {https://doi.org/10.1145/3171221.3171255}
+  {\path{doi:10.1145/3171221.3171255}}.
+
+\bibitem{Mavrogiannis2019MavrogiannisHRI2019}
+C.~Mavrogiannis, A.~M. Hutchinson, J.~Macdonald, P.~Alves-Oliveira, R.~A.
+  Knepper, {Effects of Distinct Robot Navigation Strategies on Human Behavior
+  in a Crowded Environment}, in: 2019 14th ACM/IEEE International Conference on
+  Human-Robot Interaction (HRI), IEEE, 2019, pp. 421--430.
+\newblock \href {https://doi.org/10.1109/hri.2019.8673115}
+  {\path{doi:10.1109/hri.2019.8673115}}.
+
+\bibitem{Pacchierotti2006Passing}
+E.~Pacchierotti, H.~Christensen, P.~Jensfelt, {Evaluation of Passing Distance
+  for Social Robots}, in: ROMAN 2006 - The 15th IEEE International Symposium on
+  Robot and Human Interactive Communication, IEEE, 2006, pp. 315--320.
+\newblock \href {https://doi.org/10.1109/roman.2006.314436}
+  {\path{doi:10.1109/roman.2006.314436}}.
+
+\bibitem{Chung2010Spatial}
+S.-Y. Chung, H.-P. Huang, {A mobile robot that understands pedestrian spatial
+  behaviors}, in: 2010 IEEE/RSJ International Conference on Intelligent Robots
+  and Systems, IEEE, 2010, pp. 5861--5866.
+\newblock \href {https://doi.org/10.1109/iros.2010.5649718}
+  {\path{doi:10.1109/iros.2010.5649718}}.
+
+\bibitem{Charalampous2016SocialMaps}
+K.~Charalampous, I.~Kostavelis, A.~Gasteratos, {Robot navigation in large-scale
+  social maps: An action recognition approach}, Expert Systems with
+  Applications 66 (2016) 261--273.
+\newblock \href {https://doi.org/10.1016/j.eswa.2016.09.026}
+  {\path{doi:10.1016/j.eswa.2016.09.026}}.
+
+\bibitem{Helbing1995SocialForce}
+D.~Helbing, P.~Molnár, {Social force model for pedestrian dynamics}, Physical
+  Review E 51~(5) (1995) 4282--4286.
+\newblock \href {https://doi.org/10.1103/PhysRevE.51.4282}
+  {\path{doi:10.1103/PhysRevE.51.4282}}.
+
+\bibitem{Ferrer2013Companion}
+G.~Ferrer, A.~Garrell, A.~Sanfeliu, {Robot companion: A social-force based
+  approach with human awareness-navigation in crowded environments}, in: 2013
+  IEEE/RSJ International Conference on Intelligent Robots and Systems, IEEE,
+  2013, pp. 1688--1694.
+\newblock \href {https://doi.org/10.1109/iros.2013.6696576}
+  {\path{doi:10.1109/iros.2013.6696576}}.
+
+\bibitem{Shiomi2014Acceptable}
+M.~Shiomi, F.~Zanlungo, K.~Hayashi, T.~Kanda, {Towards a Socially Acceptable
+  Collision Avoidance for a Mobile Robot Navigating Among Pedestrians Using a
+  Pedestrian Model}, International Journal of Social Robotics 6~(3) (2014)
+  443--455.
+\newblock \href {https://doi.org/10.1007/s12369-014-0238-y}
+  {\path{doi:10.1007/s12369-014-0238-y}}.
+
+\bibitem{Kim2022GroupEstimation}
+M.~Kim, Y.~Kwon, S.-E. Yoon, {Group Estimation for Social Robot Navigation in
+  Crowded Environments}, in: 2022 22nd International Conference on Control,
+  Automation and Systems (ICCAS), IEEE, 2022, pp. 1421--1425.
+\newblock \href {https://doi.org/10.23919/ICCAS55662.2022.10003761}
+  {\path{doi:10.23919/ICCAS55662.2022.10003761}}.
+
+\bibitem{Truong2017Approach}
+X.-T. Truong, T.-D. Ngo, {“To Approach Humans?”: A Unified Framework for
+  Approaching Pose Prediction and Socially Aware Robot Navigation}, IEEE
+  Transactions on Cognitive and Developmental Systems 10~(3) (2018) 557--572.
+\newblock \href {https://doi.org/10.1109/tcds.2017.2751963}
+  {\path{doi:10.1109/tcds.2017.2751963}}.
+
+\bibitem{Wang2022GMPC}
+A.~Wang, C.~Mavrogiannis, A.~Steinfeld, {Group-based Motion Prediction for
+  Navigation in Crowded Environments}, in: Proceedings of the 5th Conference on
+  Robot Learning (CoRL), Vol. 164 of Proceedings of Machine Learning Research,
+  PMLR, 2022, pp. 871--882.
+
+\bibitem{Katyal2022GroupAware}
+K.~Katyal, Y.~Gao, J.~Markowitz, S.~Pohland, C.~Rivera, I.-J. Wang, C.-M.
+  Huang, {Learning a Group-Aware Policy for Robot Navigation}, in: 2022
+  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),
+  IEEE, 2022, pp. 11328--11335.
+\newblock \href {https://doi.org/10.1109/iros47612.2022.9981183}
+  {\path{doi:10.1109/iros47612.2022.9981183}}.
+
+\bibitem{Trautman2010UnfreezingIGP}
+P.~Trautman, A.~Krause, {Unfreezing the Robot: Navigation in Dense, Interacting
+  Crowds}, in: 2010 IEEE/RSJ International Conference on Intelligent Robots and
+  Systems (IROS), IEEE, 2010, pp. 797--803.
+\newblock \href {https://doi.org/10.1109/IROS.2010.5654369}
+  {\path{doi:10.1109/IROS.2010.5654369}}.
+
+\bibitem{Pellegrini2009ETH}
+S.~Pellegrini, A.~Ess, K.~Schindler, L.~van Gool, {You'll never walk alone:
+  Modeling social behavior for multi-target tracking}, in: 2009 IEEE 12th
+  International Conference on Computer Vision, IEEE, 2009, pp. 261--268.
+\newblock \href {https://doi.org/10.1109/iccv.2009.5459260}
+  {\path{doi:10.1109/iccv.2009.5459260}}.
+
+\bibitem{al2016SocialLSTM}
+A.~Alahi, K.~Goel, V.~Ramanathan, A.~Robicquet, L.~Fei-Fei, S.~Savarese,
+  {Social LSTM: Human Trajectory Prediction in Crowded Spaces}, in: 2016 IEEE
+  Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, 2016, pp.
+  961--971.
+\newblock \href {https://doi.org/10.1109/cvpr.2016.110}
+  {\path{doi:10.1109/cvpr.2016.110}}.
+
+\bibitem{Vemula2018SocialAttention}
+A.~Vemula, K.~Muelling, J.~Oh, {Social Attention: Modeling Attention in Human
+  Crowds}, in: 2018 IEEE International Conference on Robotics and Automation
+  (ICRA), IEEE, 2018, pp. 4601--4607.
+\newblock \href {https://doi.org/10.1109/icra.2018.8460504}
+  {\path{doi:10.1109/icra.2018.8460504}}.
+
+\bibitem{Kuderer2012FeatureBasedPrediction}
+M.~Kuderer, H.~Kretzschmar, C.~Sprunk, W.~Burgard, {Feature-Based Prediction of
+  Trajectories for Socially Compliant Navigation}, in: Robotics: Science and
+  Systems VIII (RSS 2012), Robotics: Science and Systems Foundation, 2012.
+\newblock \href {https://doi.org/10.15607/RSS.2012.VIII.025}
+  {\path{doi:10.15607/RSS.2012.VIII.025}}.
+
+\bibitem{Kretzschmar2016SociallyCompliantIRL}
+H.~Kretzschmar, M.~Spies, C.~Sprunk, W.~Burgard, {Socially Compliant Mobile
+  Robot Navigation via Inverse Reinforcement Learning}, The International
+  Journal of Robotics Research 35~(11) (2016) 1289--1307.
+\newblock \href {https://doi.org/10.1177/0278364915619772}
+  {\path{doi:10.1177/0278364915619772}}.
+
+\bibitem{Okal2016BayesianIRL}
+B.~Okal, K.~O. Arras, {Learning Socially Normative Robot Navigation Behaviors
+  with Bayesian Inverse Reinforcement Learning}, in: 2016 IEEE International
+  Conference on Robotics and Automation (ICRA), IEEE, 2016, pp. 2889--2895.
+\newblock \href {https://doi.org/10.1109/ICRA.2016.7487452}
+  {\path{doi:10.1109/ICRA.2016.7487452}}.
+
+\bibitem{Henry2010Crowded}
+P.~Henry, C.~Vollmer, B.~Ferris, D.~Fox, {Learning to navigate through crowded
+  environments}, in: 2010 IEEE International Conference on Robotics and
+  Automation, IEEE, 2010, pp. 981--986.
+\newblock \href {https://doi.org/10.1109/robot.2010.5509772}
+  {\path{doi:10.1109/robot.2010.5509772}}.
+
+\bibitem{Luber2012Learning}
+M.~Luber, L.~Spinello, J.~Silva, K.~O. Arras, {Socially-aware robot navigation:
+  A learning approach}, in: 2012 IEEE/RSJ International Conference on
+  Intelligent Robots and Systems, IEEE, 2012, pp. 902--907.
+\newblock \href {https://doi.org/10.1109/iros.2012.6385716}
+  {\path{doi:10.1109/iros.2012.6385716}}.
+
+\bibitem{Vasquez2014IRLFeatures}
+D.~Vasquez, B.~Okal, K.~O. Arras, {Inverse Reinforcement Learning algorithms
+  and features for robot navigation in crowds: An experimental comparison}, in:
+  2014 IEEE/RSJ International Conference on Intelligent Robots and Systems,
+  IEEE, 2014, pp. 1341--1346.
+\newblock \href {https://doi.org/10.1109/iros.2014.6942731}
+  {\path{doi:10.1109/iros.2014.6942731}}.
+
+\bibitem{Kim2016SociallyAdaptive}
+B.~Kim, J.~Pineau, {Socially Adaptive Path Planning in Human Environments Using
+  Inverse Reinforcement Learning}, International Journal of Social Robotics
+  8~(1) (2016) 51--66.
+\newblock \href {https://doi.org/10.1007/s12369-015-0310-2}
+  {\path{doi:10.1007/s12369-015-0310-2}}.
+
+\bibitem{Tai2018GAILDepth}
+L.~Tai, J.~Zhang, M.~Liu, W.~Burgard, {Socially Compliant Navigation through
+  Raw Depth Inputs with Generative Adversarial Imitation Learning}, in: 2018
+  IEEE International Conference on Robotics and Automation (ICRA), IEEE, 2018,
+  pp. 1111--1117.
+\newblock \href {https://doi.org/10.1109/ICRA.2018.8460968}
+  {\path{doi:10.1109/ICRA.2018.8460968}}.
+
+\bibitem{Hamandi2019DeepMoTIon}
+M.~Hamandi, M.~D’Arcy, P.~Fazli, {DeepMoTIon: Learning to Navigate Like
+  Humans}, in: 2019 28th IEEE International Conference on Robot and Human
+  Interactive Communication (RO-MAN), IEEE, 2019, pp. 1--7.
+\newblock \href {https://doi.org/10.1109/ro-man46459.2019.8956408}
+  {\path{doi:10.1109/ro-man46459.2019.8956408}}.
+
+\bibitem{Chen2017CADRL}
+Y.~F. Chen, M.~Liu, M.~Everett, J.~P. How, {Decentralized Non-communicating
+  Multiagent Collision Avoidance with Deep Reinforcement Learning}, in: 2017
+  IEEE International Conference on Robotics and Automation (ICRA), IEEE, 2017,
+  pp. 285--292.
+\newblock \href {https://doi.org/10.1109/ICRA.2017.7989037}
+  {\path{doi:10.1109/ICRA.2017.7989037}}.
+
+\bibitem{Chen2017SACADRL}
+Y.~F. Chen, M.~Everett, M.~Liu, J.~P. How, {Socially Aware Motion Planning with
+  Deep Reinforcement Learning}, in: 2017 IEEE/RSJ International Conference on
+  Intelligent Robots and Systems (IROS), IEEE, 2017, pp. 1343--1350.
+\newblock \href {https://doi.org/10.1109/IROS.2017.8202312}
+  {\path{doi:10.1109/IROS.2017.8202312}}.
+
+\bibitem{Everett2018GA3CCADRL}
+M.~Everett, Y.~F. Chen, J.~P. How, {Motion Planning Among Dynamic,
+  Decision-Making Agents with Deep Reinforcement Learning}, in: 2018 IEEE/RSJ
+  International Conference on Intelligent Robots and Systems (IROS), IEEE,
+  2018, pp. 3052--3059.
+\newblock \href {https://doi.org/10.1109/iros.2018.8593871}
+  {\path{doi:10.1109/iros.2018.8593871}}.
+
+\bibitem{Liu2020DRLCrowded}
+L.~Liu, D.~Dugas, G.~Cesari, R.~Siegwart, R.~Dube, {Robot Navigation in Crowded
+  Environments Using Deep Reinforcement Learning}, in: 2020 IEEE/RSJ
+  International Conference on Intelligent Robots and Systems (IROS), IEEE,
+  2020, pp. 5671--5677.
+\newblock \href {https://doi.org/10.1109/iros45743.2020.9341540}
+  {\path{doi:10.1109/iros45743.2020.9341540}}.
+
+\bibitem{Chen2019SARLCrowdNav}
+C.~Chen, Y.~Liu, S.~Kreiss, A.~Alahi, {Crowd-Robot Interaction: Crowd-aware
+  Robot Navigation with Attention-based Deep Reinforcement Learning}, in: 2019
+  International Conference on Robotics and Automation (ICRA), IEEE, 2019, pp.
+  6015--6022.
+\newblock \href {https://doi.org/10.1109/ICRA.2019.8794134}
+  {\path{doi:10.1109/ICRA.2019.8794134}}.
+
+\bibitem{Wang2023NaviSTAR}
+W.~Wang, R.~Wang, L.~Mao, B.-C. Min, {NaviSTAR: Socially Aware Robot Navigation
+  with Hybrid Spatio-Temporal Graph Transformer and Preference Learning}, in:
+  2023 IEEE/RSJ International Conference on Intelligent Robots and Systems
+  (IROS), IEEE, 2023, pp. 11348--11355.
+\newblock \href {https://doi.org/10.1109/IROS55552.2023.10341395}
+  {\path{doi:10.1109/IROS55552.2023.10341395}}.
+
+\bibitem{Chen2020RGL}
+C.~Chen, S.~Hu, P.~Nikdel, G.~Mori, M.~Savva, {Relational Graph Learning for
+  Crowd Navigation}, in: 2020 IEEE/RSJ International Conference on Intelligent
+  Robots and Systems (IROS), IEEE, 2020, pp. 10007--10013.
+\newblock \href {https://doi.org/10.1109/iros45743.2020.9340705}
+  {\path{doi:10.1109/iros45743.2020.9340705}}.
+
+\bibitem{Raj2024HybridSocialNav}
+A.~H. Raj, Z.~Hu, H.~Karnan, R.~Chandra, A.~Payandeh, L.~Mao, P.~Stone,
+  J.~Biswas, X.~Xiao, {Rethinking Social Robot Navigation: Leveraging the Best
+  of Two Worlds}, in: 2024 IEEE International Conference on Robotics and
+  Automation (ICRA), IEEE, 2024, pp. 16330--16337.
+\newblock \href {https://doi.org/10.1109/ICRA57147.2024.10611710}
+  {\path{doi:10.1109/ICRA57147.2024.10611710}}.
+
+\bibitem{Sathyamoorthy2020Frozone}
+A.~J. Sathyamoorthy, U.~Patel, T.~Guan, D.~Manocha, {Frozone: Freezing-Free,
+  Pedestrian-Friendly Navigation in Human Crowds}, IEEE Robotics and Automation
+  Letters 5~(3) (2020) 4352--4359.
+\newblock \href {https://doi.org/10.1109/lra.2020.2996593}
+  {\path{doi:10.1109/lra.2020.2996593}}.
+
+\bibitem{Brito2021Subgoal}
+B.~Brito, M.~Everett, J.~P. How, J.~Alonso-Mora, {Where to go Next: Learning a
+  Subgoal Recommendation Policy for Navigation in Dynamic Environments}, IEEE
+  Robotics and Automation Letters 6~(3) (2021) 4616--4623.
+\newblock \href {https://doi.org/10.1109/lra.2021.3068662}
+  {\path{doi:10.1109/lra.2021.3068662}}.
+
+\end{thebibliography}

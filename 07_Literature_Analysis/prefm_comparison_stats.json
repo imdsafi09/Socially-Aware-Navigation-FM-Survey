@@ -1,0 +1,466 @@
+{
+ "prefm": {
+  "n": 40,
+  "A": {
+   "A0": 0,
+   "A1": 31,
+   "A2": 14,
+   "A3": 12,
+   "A4": 17,
+   "A5": 1,
+   "A6": 5
+  },
+  "eval": {
+   "SAF1": 12,
+   "SAF2": 6,
+   "SPA1": 4,
+   "SPA2": 4,
+   "SPA3": 4,
+   "SPA4": 11,
+   "HUM1": 5,
+   "HUM2": 0,
+   "NOR1": 2,
+   "NOR2": 0,
+   "NOR3": 1,
+   "NOR4": 0,
+   "EXP1": 4,
+   "EXP2": 2,
+   "EXP3": 3
+  },
+  "addr": {
+   "SAF1": 32,
+   "SAF2": 11,
+   "SPA1": 23,
+   "SPA2": 9,
+   "SPA3": 14,
+   "SPA4": 22,
+   "HUM1": 17,
+   "HUM2": 6,
+   "NOR1": 7,
+   "NOR2": 0,
+   "NOR3": 4,
+   "NOR4": 2,
+   "EXP1": 13,
+   "EXP2": 6,
+   "EXP3": 13
+  },
+  "fam_eval": {
+   "SAF": 16,
+   "SPA": 16,
+   "HUM": 5,
+   "NOR": 2,
+   "EXP": 8
+  },
+  "any_eval": 25
+ },
+ "direct": {
+  "n": 45,
+  "A": {
+   "A0": 0,
+   "A1": 21,
+   "A2": 7,
+   "A3": 11,
+   "A4": 3,
+   "A5": 30,
+   "A6": 15
+  },
+  "eval": {
+   "SAF1": 17,
+   "SAF2": 7,
+   "SPA1": 13,
+   "SPA2": 3,
+   "SPA3": 8,
+   "SPA4": 1,
+   "HUM1": 0,
+   "HUM2": 2,
+   "NOR1": 3,
+   "NOR2": 8,
+   "NOR3": 9,
+   "NOR4": 0,
+   "EXP1": 2,
+   "EXP2": 0,
+   "EXP3": 1
+  },
+  "addr": {
+   "SAF1": 32,
+   "SAF2": 12,
+   "SPA1": 26,
+   "SPA2": 13,
+   "SPA3": 28,
+   "SPA4": 22,
+   "HUM1": 21,
+   "HUM2": 16,
+   "NOR1": 26,
+   "NOR2": 15,
+   "NOR3": 36,
+   "NOR4": 0,
+   "EXP1": 13,
+   "EXP2": 6,
+   "EXP3": 14
+  },
+  "fam_eval": {
+   "SAF": 20,
+   "SPA": 18,
+   "HUM": 2,
+   "NOR": 14,
+   "EXP": 3
+  },
+  "any_eval": 29
+ },
+ "prefm_evidence": {
+  "robot_systematic": 8,
+  "robot_any": 21,
+  "robot_det": 37,
+  "robot_ND": 3,
+  "human_eval": 7,
+  "human_det": 34,
+  "human_ND": 6,
+  "open_world": 1
+ },
+ "direct_evidence": {
+  "robot_systematic": 18,
+  "robot_any": 28,
+  "robot_det": 45,
+  "robot_ND": 0,
+  "human_eval": 5,
+  "human_det": 45,
+  "human_ND": 0,
+  "open_world": 0
+ },
+ "prefm_fulltext": {
+  "n": 28,
+  "A": {
+   "A0": 0,
+   "A1": 19,
+   "A2": 10,
+   "A3": 7,
+   "A4": 14,
+   "A5": 0,
+   "A6": 4
+  },
+  "eval": {
+   "SAF1": 11,
+   "SAF2": 6,
+   "SPA1": 4,
+   "SPA2": 4,
+   "SPA3": 4,
+   "SPA4": 11,
+   "HUM1": 4,
+   "HUM2": 0,
+   "NOR1": 2,
+   "NOR2": 0,
+   "NOR3": 1,
+   "NOR4": 0,
+   "EXP1": 4,
+   "EXP2": 2,
+   "EXP3": 3
+  },
+  "addr": {
+   "SAF1": 25,
+   "SAF2": 11,
+   "SPA1": 16,
+   "SPA2": 7,
+   "SPA3": 13,
+   "SPA4": 18,
+   "HUM1": 15,
+   "HUM2": 5,
+   "NOR1": 6,
+   "NOR2": 0,
+   "NOR3": 2,
+   "NOR4": 2,
+   "EXP1": 10,
+   "EXP2": 5,
+   "EXP3": 11
+  },
+  "fam_eval": {
+   "SAF": 15,
+   "SPA": 16,
+   "HUM": 4,
+   "NOR": 2,
+   "EXP": 8
+  },
+  "any_eval": 23,
+  "evidence": {
+   "robot_systematic": 7,
+   "robot_any": 15,
+   "robot_det": 28,
+   "robot_ND": 0,
+   "human_eval": 6,
+   "human_det": 28,
+   "human_ND": 0,
+   "open_world": 0
+  }
+ },
+ "prefm_corpus12": {
+  "n": 12,
+  "A": {
+   "A0": 0,
+   "A1": 7,
+   "A2": 3,
+   "A3": 2,
+   "A4": 7,
+   "A5": 0,
+   "A6": 3
+  },
+  "eval": {
+   "SAF1": 4,
+   "SAF2": 4,
+   "SPA1": 2,
+   "SPA2": 2,
+   "SPA3": 4,
+   "SPA4": 5,
+   "HUM1": 2,
+   "HUM2": 0,
+   "NOR1": 2,
+   "NOR2": 0,
+   "NOR3": 1,
+   "NOR4": 0,
+   "EXP1": 1,
+   "EXP2": 1,
+   "EXP3": 3
+  },
+  "addr": {
+   "SAF1": 12,
+   "SAF2": 9,
+   "SPA1": 11,
+   "SPA2": 5,
+   "SPA3": 7,
+   "SPA4": 8,
+   "HUM1": 10,
+   "HUM2": 5,
+   "NOR1": 6,
+   "NOR2": 0,
+   "NOR3": 2,
+   "NOR4": 2,
+   "EXP1": 7,
+   "EXP2": 3,
+   "EXP3": 5
+  },
+  "fam_eval": {
+   "SAF": 7,
+   "SPA": 9,
+   "HUM": 2,
+   "NOR": 2,
+   "EXP": 4
+  },
+  "any_eval": 10,
+  "evidence": {
+   "robot_systematic": 3,
+   "robot_any": 8,
+   "robot_det": 12,
+   "robot_ND": 0,
+   "human_eval": 2,
+   "human_det": 12,
+   "human_ND": 0,
+   "open_world": 0
+  }
+ },
+ "prefm_balanced": {
+  "eval_SAF1": 0.356,
+  "eval_SAF2": 0.164,
+  "eval_SPA1": 0.098,
+  "eval_SPA2": 0.089,
+  "eval_SPA3": 0.087,
+  "eval_SPA4": 0.306,
+  "eval_HUM1": 0.104,
+  "eval_HUM2": 0.0,
+  "eval_NOR1": 0.039,
+  "eval_NOR2": 0.0,
+  "eval_NOR3": 0.014,
+  "eval_NOR4": 0.0,
+  "eval_EXP1": 0.114,
+  "eval_EXP2": 0.048,
+  "eval_EXP3": 0.062,
+  "A_A1": 0.746,
+  "A_A2": 0.349,
+  "A_A3": 0.299,
+  "A_A4": 0.424,
+  "A_A5": 0.033,
+  "A_A6": 0.192,
+  "robot_systematic": 0.231,
+  "human_eval": 0.267
+ },
+ "by_paradigm": {
+  "P1 Geometric and socially aware planning": {
+   "n": 7,
+   "fulltext": 3,
+   "eval_leaves": {
+    "SAF1": 1,
+    "EXP2": 1,
+    "EXP1": 1
+   },
+   "robot_systematic": 2,
+   "human_eval": 3,
+   "A5": 0
+  },
+  "P2 Proxemics and social costmaps": {
+   "n": 3,
+   "fulltext": 1,
+   "eval_leaves": {
+    "SPA1": 1,
+    "EXP1": 1
+   },
+   "robot_systematic": 1,
+   "human_eval": 1,
+   "A5": 1
+  },
+  "P3 Social-force models": {
+   "n": 3,
+   "fulltext": 2,
+   "eval_leaves": {
+    "SAF2": 1,
+    "EXP1": 1
+   },
+   "robot_systematic": 1,
+   "human_eval": 1,
+   "A5": 0
+  },
+  "P4 Group and F-formation navigation": {
+   "n": 4,
+   "fulltext": 3,
+   "eval_leaves": {
+    "SPA4": 3,
+    "SPA2": 3,
+    "SPA1": 2,
+    "SAF2": 1,
+    "SAF1": 2
+   },
+   "robot_systematic": 0,
+   "human_eval": 0,
+   "A5": 0
+  },
+  "P5 Trajectory prediction and prediction-coupled planning": {
+   "n": 4,
+   "fulltext": 3,
+   "eval_leaves": {
+    "SPA4": 1,
+    "SAF2": 1,
+    "HUM1": 3
+   },
+   "robot_systematic": 0,
+   "human_eval": 0,
+   "A5": 0
+  },
+  "P6 Inverse reinforcement learning": {
+   "n": 7,
+   "fulltext": 5,
+   "eval_leaves": {
+    "SPA3": 2,
+    "EXP3": 2,
+    "HUM1": 2,
+    "SAF2": 1,
+    "NOR3": 1,
+    "SPA4": 1,
+    "NOR1": 1,
+    "SPA2": 1,
+    "SPA1": 1
+   },
+   "robot_systematic": 1,
+   "human_eval": 0,
+   "A5": 0
+  },
+  "P7 Imitation learning": {
+   "n": 2,
+   "fulltext": 2,
+   "eval_leaves": {
+    "SAF1": 1
+   },
+   "robot_systematic": 0,
+   "human_eval": 0,
+   "A5": 0
+  },
+  "P8 Deep reinforcement learning": {
+   "n": 4,
+   "fulltext": 3,
+   "eval_leaves": {
+    "SAF1": 3,
+    "SPA3": 1,
+    "NOR1": 1,
+    "SPA4": 1
+   },
+   "robot_systematic": 1,
+   "human_eval": 0,
+   "A5": 0
+  },
+  "P9 Attention, graph and transformer models": {
+   "n": 3,
+   "fulltext": 3,
+   "eval_leaves": {
+    "SPA4": 3,
+    "SAF2": 1,
+    "SAF1": 3,
+    "EXP3": 1,
+    "EXP1": 1
+   },
+   "robot_systematic": 1,
+   "human_eval": 1,
+   "A5": 0
+  },
+  "P10 Hybrid model-based and learned": {
+   "n": 3,
+   "fulltext": 3,
+   "eval_leaves": {
+    "SPA3": 1,
+    "EXP2": 1,
+    "SAF2": 1,
+    "SPA4": 2,
+    "SAF1": 2
+   },
+   "robot_systematic": 1,
+   "human_eval": 1,
+   "A5": 0
+  }
+ },
+ "prefm_A5_works": [
+  "Charalampous2016SocialMaps"
+ ],
+ "prefm_NOR_eval_works": {
+  "NOR1": [
+   "Okal2016BayesianIRL",
+   "Chen2017SACADRL"
+  ],
+  "NOR2": [],
+  "NOR3": [
+   "Okal2016BayesianIRL"
+  ],
+  "NOR4": []
+ },
+ "prefm_NOR_addr_works": {
+  "NOR1": [
+   "Pandey2010Framework",
+   "Kim2022GroupEstimation",
+   "Kretzschmar2016SociallyCompliantIRL",
+   "Okal2016BayesianIRL",
+   "Chen2017SACADRL",
+   "Wang2023NaviSTAR",
+   "Raj2024HybridSocialNav"
+  ],
+  "NOR2": [],
+  "NOR3": [
+   "Chung2010Spatial",
+   "Charalampous2016SocialMaps",
+   "Okal2016BayesianIRL",
+   "Raj2024HybridSocialNav"
+  ],
+  "NOR4": [
+   "Kretzschmar2016SociallyCompliantIRL",
+   "Chen2017SACADRL"
+  ]
+ },
+ "prefm_human_eval_works": [
+  "Thrun1999Minerva",
+  "Mavrogiannis2018SocialMomentum",
+  "Mavrogiannis2019HRI",
+  "Pacchierotti2006Passing",
+  "Shiomi2014Acceptable",
+  "Wang2023NaviSTAR",
+  "Raj2024HybridSocialNav"
+ ],
+ "prefm_open_world_works": [
+  "Thrun1999Minerva"
+ ],
+ "n_paradigms": 10,
+ "n_fulltext": 28,
+ "n_secondary": 12,
+ "n_new": 28
+}

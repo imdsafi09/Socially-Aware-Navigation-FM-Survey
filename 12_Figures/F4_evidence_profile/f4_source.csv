@@ -1,0 +1,46 @@
+paper_id,interface_group,EV1,EV2,EV3,EV4,EV5,EV6,Stat
+2025_Luo_GSON,D1 semantic state,Yes,No,systematic,unscripted,none,No,No
+2025_Sotomi_Transparent-Social-Nav-VLM,D1 semantic state,Yes,No,systematic,present-type-unreported,observers/video,No,No (percentages; preference score)
+2026_Bejarano_PAD,D1 semantic state,No,No,systematic,staged,co-present participants,No,No (explicitly not run due to small sample)
+2026_Xu_HCSG,D1 semantic state,No,Yes,systematic,present-type-unreported,none,No,No
+2026_Zhang_SAATT-Nav,D1 semantic state,No,Yes,none,simulated-only,none,No,Yes
+2024_Wang_SALM,D2 candidate selection,No,Yes,none,simulated-only,none,No,No
+2024_Yu_PANav,D2 candidate selection,Yes,No,demo,none,none,No,No
+2025_Liang_MOSU,D2 candidate selection,Yes,No,demo,none,none,No,No
+2025_Wang_SAMALM,D2 candidate selection,No,Yes,none,simulated-only,none,No,No
+2026_Fang_Obstacles-to-Etiquette,D2 candidate selection,No,No,systematic,staged,none,No,No
+2026_Zhang_AHead-VLN,D2 candidate selection,No,Yes,none,simulated-only,none,No,No
+2025_Martinez-Baselga_Hey-Robot,D3 objective shaping,No,Yes,demo,staged,none,No,No
+2025_Ruo_LLM-Social-Cues,D3 objective shaping,Yes,Yes,none,simulated-only,none,No,No
+2025_Saito_VLM-Crowd-Mapping,D3 objective shaping,No,No,demo,staged,none,No,No
+2025_Song_VLM-Social-Nav,D3 objective shaping,No,No,systematic,staged,co-present participants,No,No (means ± std/SE only)
+2025_Weerakoon_BehAV,D3 objective shaping,Yes,No,systematic,staged,none,No,No
+2026_Chen_LISN,D3 objective shaping,No,Yes,none,simulated-only,none,No,No
+2026_Huo_NORM-Nav,D3 objective shaping,No,Yes,demo,present-type-unreported,none,No,No
+2026_Liao_G2-Nav,D3 objective shaping,Yes,No,systematic,present-type-unreported,none,No,No
+2026_Park_TACET,D3 objective shaping,No,No,systematic,staged,observers/video,No,Not reported
+2026_Sethuraman_Context-Aware-Preferences,D3 objective shaping,No,No,systematic,present-type-unreported,text-raters,No,Not reported
+2026_Wang_LE-Nav,D3 objective shaping,No,No,systematic,present-type-unreported,co-present participants,No,Not reported
+2024_Sathyamoorthy_CoNVOI,D4 goal / waypoint,No,No,systematic,present-type-unreported,none,No,No
+2026_Fang_Group-Joining,D4 goal / waypoint,Yes,No,systematic,present-type-unreported,none,No,No
+2026_Gandotra_RBTLR,D4 goal / waypoint,No,Yes,none,simulated-only,none,No,No
+2026_Zhang_Walk-With-Me,D4 goal / waypoint,No,No,systematic,present-type-unreported,none,No,No
+2025_Narasimhan_OLiVia-Nav,D5 latent conditioning,Yes,No,systematic,staged,none,No,Yes
+2026_Ahmadi_HUMA,D5 latent conditioning,No,Yes,demo,not-reported,none,No,No
+2026_Hu_SPARK-VLN,D5 latent conditioning,No,Yes,none,simulated-only,none,No,No
+2026_Chen_SocialNav-CVPR,D6 direct action,No,Yes,systematic,not-reported,none,No,No
+2026_Oush_VLA-TurtleBot,D6 direct action,No,Yes,none,simulated-only,none,No,No
+2026_Wang_SALSA,D6 direct action,Yes,No,demo,none,none,No,No
+2025_Kawabata_SocialNav-MoE,D0 non-executed,Yes,No,none,none,none,No,No
+2025_Kong_AutoSpatial,D0 non-executed,Yes,No,none,none,text-raters,No,No
+2025_Payandeh_Social-LLaVA,D0 non-executed,Yes,No,demo,none,text-raters,No,No
+2026_Wang_MAction-SocialNav,D0 non-executed,Yes,No,none,none,none,No,Yes
+2026_Xiao_E-SocialNav,D0 non-executed,Yes,No,none,none,none,No,No
+2026_Xiao_Prompting-VLMs-JSAI,D0 non-executed,Yes,No,none,none,none,No,No
+2026_Zhang_GCL,D0 non-executed,Yes,No,none,none,none,No,No
+2026_Zhang_SOPD-SocialNav,D0 non-executed,Yes,No,demo,none,none,No,No
+2024_Holk_PREDILECT,D7 training-time only,No,Yes,none,simulated-only,none,No,Not reported for social navigation
+2026_Elnoor_ViLAM,D7 training-time only,No,No,systematic,present-type-unreported,none,No,No
+2026_Payandeh_Narrate2Nav,D7 training-time only,Yes,No,systematic,present-type-unreported,none,No,No
+2026_Zhao_EvoNav,D7 training-time only,No,Yes,none,simulated-only,none,No,No
+2025_Wen_HSAC-LLM,D8 human-facing only,No,Yes,demo,not-reported,none,No,No (± std reported)

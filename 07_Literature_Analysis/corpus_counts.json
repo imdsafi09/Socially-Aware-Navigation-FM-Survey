@@ -1,0 +1,1065 @@
+{
+ "total_pdfs": 103,
+ "unique_papers": 98,
+ "papers_with_duplicate_pdf_copies": 5,
+ "duplicate_pdf_files": 5,
+ "papers_with_related_versions_noted": 62,
+ "peer_reviewed": {
+  "Yes": 71,
+  "No": 21,
+  "Accepted (not yet indexed)": 4,
+  "Not established": 2
+ },
+ "peer_reviewed_via_external_citation": [],
+ "external_status_class": {
+  "A": 71,
+  "C": 21,
+  "B": 4,
+  "D": 2
+ },
+ "direct_external_status_class": {
+  "A": 24,
+  "C": 16,
+  "B": 3,
+  "D": 2
+ },
+ "stage2_added": [
+  "2023_Nguyen_MuSoHu",
+  "2024_Hirose_SACSoN",
+  "2024_Holk_PREDILECT",
+  "2024_Marpally_SocRATES",
+  "2024_Wang_SALM",
+  "2024_Yu_PANav",
+  "2025_Liang_MOSU",
+  "2025_Martinez-Baselga_Hey-Robot",
+  "2025_Ruo_LLM-Social-Cues",
+  "2025_Saito_VLM-Crowd-Mapping",
+  "2025_Sotomi_Transparent-Social-Nav-VLM",
+  "2025_Wang_SAMALM",
+  "2025_Zhang_FewShot-Perception",
+  "2026_Ahmadi_HUMA",
+  "2026_Chen_LISN",
+  "2026_Dai_DPed-VLN",
+  "2026_Fang_Group-Joining",
+  "2026_Gandotra_RBTLR",
+  "2026_Hu_SPARK-VLN",
+  "2026_Huang_SONG",
+  "2026_Huo_NORM-Nav",
+  "2026_Oush_VLA-TurtleBot",
+  "2026_Park_TACET",
+  "2026_Payandeh_Narrate2Nav",
+  "2026_Sethuraman_Context-Aware-Preferences",
+  "2026_Wang_LE-Nav",
+  "2026_Wang_SALSA",
+  "2026_Zhang_AHead-VLN",
+  "2026_Zhang_SAATT-Nav",
+  "2026_Zhang_Walk-With-Me",
+  "2026_Zhao_EvoNav"
+ ],
+ "taxonomy_review_required": {
+  "2024_Yu_PANav": "Privacy-aware navigation not represented in C1-C25.",
+  "2025_Sotomi_Transparent-Social-Nav-VLM": "Explanation/transparency of social-navigation decisions is not represented by F1-F11 or C1-C25.",
+  "2026_Park_TACET": "Acoustic social appropriateness not represented in C1-C25.",
+  "2026_Zhang_SAATT-Nav": "Transparency/explanation to rider not represented in F1-F11 / C1-C25."
+ },
+ "analytical_category": {
+  "S1": 2,
+  "S2": 10,
+  "S0": 13,
+  "S6": 15,
+  "S3": 13,
+  "S4": 24,
+  "S5": 21
+ },
+ "physical_folder": {
+  "01_Classical_Social_Navigation": 5,
+  "00_Existing_Surveys": 13,
+  "02_Learning_Based_Social_Navigation": 6,
+  "06_Datasets_Benchmarks_Evaluation": 12,
+  "03_Adjacent_Foundation_Model_Navigation": 12,
+  "04_Direct_VLM_SocialNav/B_Peer_Reviewed_Boundary": 5,
+  "04_Direct_VLM_SocialNav/A_Peer_Reviewed_Core": 23,
+  "05_Direct_VLM_SocialNav_Preprints": 22
+ },
+ "folder_vs_category": {
+  "01_Classical_Social_Navigation -> S1": 2,
+  "01_Classical_Social_Navigation -> S2": 3,
+  "00_Existing_Surveys -> S0": 13,
+  "02_Learning_Based_Social_Navigation -> S2": 6,
+  "06_Datasets_Benchmarks_Evaluation -> S6": 12,
+  "03_Adjacent_Foundation_Model_Navigation -> S3": 12,
+  "04_Direct_VLM_SocialNav/B_Peer_Reviewed_Boundary -> S2": 1,
+  "04_Direct_VLM_SocialNav/A_Peer_Reviewed_Core -> S4": 23,
+  "04_Direct_VLM_SocialNav/B_Peer_Reviewed_Boundary -> S6": 1,
+  "05_Direct_VLM_SocialNav_Preprints -> S5": 20,
+  "04_Direct_VLM_SocialNav/B_Peer_Reviewed_Boundary -> S3": 1,
+  "04_Direct_VLM_SocialNav/B_Peer_Reviewed_Boundary -> S4": 1,
+  "05_Direct_VLM_SocialNav_Preprints -> S6": 2,
+  "04_Direct_VLM_SocialNav/B_Peer_Reviewed_Boundary -> S5": 1
+ },
+ "folder_category_match": {
+  "Yes": 84,
+  "Partial": 13,
+  "No": 1
+ },
+ "per_year": {
+  "1995": 1,
+  "2010": 1,
+  "2012": 1,
+  "2013": 1,
+  "2016": 2,
+  "2017": 3,
+  "2018": 1,
+  "2019": 1,
+  "2020": 1,
+  "2021": 2,
+  "2022": 6,
+  "2023": 10,
+  "2024": 13,
+  "2025": 20,
+  "2026": 35
+ },
+ "fm_used": {
+  "No": 31,
+  "Yes": 67
+ },
+ "fm_social_benchmarks": [
+  "2024_Li_HA-VLN",
+  "2024_Marpally_SocRATES",
+  "2025_Munje_SocialNav-SUB",
+  "2025_Zhang_FewShot-Perception",
+  "2026_Dai_DPed-VLN",
+  "2026_Dong_HA-VLN-2.0",
+  "2026_Huang_SONG",
+  "2026_Liu_MUSON"
+ ],
+ "evidence_all_nonsurvey": {
+  "NA": 2,
+  "E2": 32,
+  "E1": 14,
+  "E3": 26,
+  "E4": 9,
+  "E0": 2
+ },
+ "direct_total": 45,
+ "direct_peer_reviewed": {
+  "Yes": 24,
+  "No": 16,
+  "Accepted (not yet indexed)": 3,
+  "Not established": 2
+ },
+ "direct_per_year": {
+  "2024": 4,
+  "2025": 14,
+  "2026": 27
+ },
+ "direct_roles": {
+  "F1": 35,
+  "F2": 19,
+  "F3": 3,
+  "F4": 29,
+  "F5": 8,
+  "F6": 14,
+  "F7": 10,
+  "F8": 8,
+  "F9": 3,
+  "F10": 7,
+  "F11": 7
+ },
+ "direct_integration": {
+  "I0": 0,
+  "I1": 8,
+  "I2": 5,
+  "I3": 4,
+  "I4": 12,
+  "I5": 2,
+  "I6": 7,
+  "I7": 7
+ },
+ "direct_evidence": {
+  "E0": 1,
+  "E1": 11,
+  "E2": 15,
+  "E3": 13,
+  "E4": 5,
+  "E5": 0
+ },
+ "direct_capabilities": {
+  "C1_Physical collision safety": {
+   "No": 13,
+   "Partial": 14,
+   "Yes": 18
+  },
+  "C2_Near-collision avoidance": {
+   "No": 34,
+   "Partial": 6,
+   "Yes": 5
+  },
+  "C3_Proxemics/personal space": {
+   "Partial": 17,
+   "No": 19,
+   "Yes": 9
+  },
+  "C4_Perceived safety": {
+   "No": 40,
+   "Partial": 4,
+   "Yes": 1
+  },
+  "C5_Human motion understanding": {
+   "No": 26,
+   "Partial": 17,
+   "Yes": 2
+  },
+  "C6_Trajectory prediction": {
+   "No": 30,
+   "Partial": 11,
+   "Not reported": 1,
+   "Yes": 3
+  },
+  "C7_Human-intention inference": {
+   "No": 30,
+   "Partial": 14,
+   "Yes": 1
+  },
+  "C8_Activity understanding": {
+   "No": 40,
+   "Partial": 4,
+   "Yes": 1
+  },
+  "C9_Group awareness": {
+   "No": 33,
+   "Partial": 9,
+   "Yes": 3
+  },
+  "C10_F-formation/conversation preservation": {
+   "No": 36,
+   "Partial": 6,
+   "Yes": 3
+  },
+  "C11_Social etiquette": {
+   "No": 19,
+   "Partial": 22,
+   "Yes": 4
+  },
+  "C12_Yielding": {
+   "No": 24,
+   "Partial": 19,
+   "Yes": 2
+  },
+  "C13_Passing convention": {
+   "No": 36,
+   "Partial": 8,
+   "Yes": 1
+  },
+  "C14_Doorway behavior": {
+   "No": 41,
+   "Partial": 3,
+   "Yes": 1
+  },
+  "C15_Crosswalk/sidewalk behavior": {
+   "No": 33,
+   "Yes": 4,
+   "Partial": 8
+  },
+  "C16_Queue behavior": {
+   "No": 40,
+   "Yes": 3,
+   "Partial": 2
+  },
+  "C17_Crowd behavior": {
+   "No": 23,
+   "Partial": 21,
+   "Yes": 1
+  },
+  "C18_Legibility": {
+   "No": 38,
+   "Not reported": 1,
+   "Partial": 6
+  },
+  "C19_Predictability": {
+   "No": 42,
+   "Not reported": 3
+  },
+  "C20_Naturalness": {
+   "No": 29,
+   "Partial": 13,
+   "Not reported": 2,
+   "Yes": 1
+  },
+  "C21_Human comfort": {
+   "Partial": 10,
+   "No": 33,
+   "Not reported": 1,
+   "Yes": 1
+  },
+  "C22_Politeness": {
+   "No": 40,
+   "Not reported": 3,
+   "Partial": 2
+  },
+  "C23_Explicit social instruction following": {
+   "No": 29,
+   "Partial": 7,
+   "Yes": 9
+  },
+  "C24_Context-dependent behavior": {
+   "Partial": 26,
+   "Yes": 10,
+   "No": 9
+  },
+  "C25_Cultural/social-norm adaptation": {
+   "No": 45
+  }
+ },
+ "direct_offline_only_E0_E1": 12,
+ "direct_simulation_only_E2": 15,
+ "direct_real_robot_systematic": 18,
+ "direct_real_robot_demo_only": 10,
+ "direct_real_robot_any": 28,
+ "direct_formal_human_study": 5,
+ "direct_text_raters_only": 4,
+ "direct_latency_reported": {
+  "No": 21,
+  "Yes": 23,
+  "Partial": 1
+ },
+ "direct_safety_mechanism": {
+  "Yes": 21,
+  "No": 24
+ },
+ "direct_uncertainty_treatment": {
+  "No": 36,
+  "Partial": 9
+ },
+ "direct_hallucination_treatment": {
+  "No": 21,
+  "Partial": 13,
+  "Yes": 10,
+  "NA": 1
+ },
+ "direct_code_released": {
+  "No": 36,
+  "Yes": 5,
+  "Promised": 3,
+  "Partial": 1
+ },
+ "direct_new_dataset_released": {
+  "NA": 30,
+  "No": 14,
+  "Yes": 1
+ },
+ "direct_closed_loop_total": 33,
+ "direct_closed_loop_safety_yes": 19,
+ "direct_closed_loop_latency_yes": 18,
+ "direct_integration_groups": {
+  "offline decision/classification (I0-I1)": 8,
+  "semantic representation/critic/cost (I2-I4)": 21,
+  "waypoint/policy/direct action (I5-I7)": 16
+ },
+ "direct_capability_prevalence": {
+  "C1_Physical collision safety": {
+   "Yes": 18,
+   "Yes_or_Partial": 32
+  },
+  "C2_Near-collision avoidance": {
+   "Yes": 5,
+   "Yes_or_Partial": 11
+  },
+  "C3_Proxemics/personal space": {
+   "Yes": 9,
+   "Yes_or_Partial": 26
+  },
+  "C4_Perceived safety": {
+   "Yes": 1,
+   "Yes_or_Partial": 5
+  },
+  "C5_Human motion understanding": {
+   "Yes": 2,
+   "Yes_or_Partial": 19
+  },
+  "C6_Trajectory prediction": {
+   "Yes": 3,
+   "Yes_or_Partial": 14
+  },
+  "C7_Human-intention inference": {
+   "Yes": 1,
+   "Yes_or_Partial": 15
+  },
+  "C8_Activity understanding": {
+   "Yes": 1,
+   "Yes_or_Partial": 5
+  },
+  "C9_Group awareness": {
+   "Yes": 3,
+   "Yes_or_Partial": 12
+  },
+  "C10_F-formation/conversation preservation": {
+   "Yes": 3,
+   "Yes_or_Partial": 9
+  },
+  "C11_Social etiquette": {
+   "Yes": 4,
+   "Yes_or_Partial": 26
+  },
+  "C12_Yielding": {
+   "Yes": 2,
+   "Yes_or_Partial": 21
+  },
+  "C13_Passing convention": {
+   "Yes": 1,
+   "Yes_or_Partial": 9
+  },
+  "C14_Doorway behavior": {
+   "Yes": 1,
+   "Yes_or_Partial": 4
+  },
+  "C15_Crosswalk/sidewalk behavior": {
+   "Yes": 4,
+   "Yes_or_Partial": 12
+  },
+  "C16_Queue behavior": {
+   "Yes": 3,
+   "Yes_or_Partial": 5
+  },
+  "C17_Crowd behavior": {
+   "Yes": 1,
+   "Yes_or_Partial": 22
+  },
+  "C18_Legibility": {
+   "Yes": 0,
+   "Yes_or_Partial": 6
+  },
+  "C19_Predictability": {
+   "Yes": 0,
+   "Yes_or_Partial": 0
+  },
+  "C20_Naturalness": {
+   "Yes": 1,
+   "Yes_or_Partial": 14
+  },
+  "C21_Human comfort": {
+   "Yes": 1,
+   "Yes_or_Partial": 11
+  },
+  "C22_Politeness": {
+   "Yes": 0,
+   "Yes_or_Partial": 2
+  },
+  "C23_Explicit social instruction following": {
+   "Yes": 9,
+   "Yes_or_Partial": 16
+  },
+  "C24_Context-dependent behavior": {
+   "Yes": 10,
+   "Yes_or_Partial": 36
+  },
+  "C25_Cultural/social-norm adaptation": {
+   "Yes": 0,
+   "Yes_or_Partial": 0
+  }
+ },
+ "direct_closedloop_capability_yes": {
+  "C1_Physical collision safety": 18,
+  "C2_Near-collision avoidance": 4,
+  "C3_Proxemics/personal space": 9,
+  "C4_Perceived safety": 1,
+  "C5_Human motion understanding": 2,
+  "C6_Trajectory prediction": 3,
+  "C7_Human-intention inference": 1,
+  "C8_Activity understanding": 1,
+  "C9_Group awareness": 3,
+  "C10_F-formation/conversation preservation": 3,
+  "C11_Social etiquette": 4,
+  "C12_Yielding": 2,
+  "C13_Passing convention": 1,
+  "C14_Doorway behavior": 1,
+  "C15_Crosswalk/sidewalk behavior": 4,
+  "C16_Queue behavior": 3,
+  "C17_Crowd behavior": 1,
+  "C18_Legibility": 0,
+  "C19_Predictability": 0,
+  "C20_Naturalness": 1,
+  "C21_Human comfort": 1,
+  "C22_Politeness": 0,
+  "C23_Explicit social instruction following": 9,
+  "C24_Context-dependent behavior": 9,
+  "C25_Cultural/social-norm adaptation": 0
+ },
+ "direct_xtab_integration_evidence": {
+  "I1": {
+   "E1": 8
+  },
+  "I2": {
+   "E2": 1,
+   "E3": 2,
+   "E4": 2
+  },
+  "I3": {
+   "E1": 2,
+   "E2": 1,
+   "E3": 1
+  },
+  "I4": {
+   "E0": 1,
+   "E2": 4,
+   "E3": 4,
+   "E4": 3
+  },
+  "I5": {
+   "E3": 2
+  },
+  "I6": {
+   "E2": 5,
+   "E3": 2
+  },
+  "I7": {
+   "E1": 1,
+   "E2": 4,
+   "E3": 2
+  }
+ },
+ "direct_xtab_peer_reviewed_evidence": {
+  "Accepted (not yet indexed)": {
+   "E1": 2,
+   "E3": 1
+  },
+  "No": {
+   "E1": 4,
+   "E2": 6,
+   "E3": 5,
+   "E4": 1
+  },
+  "Not established": {
+   "E1": 1,
+   "E2": 1
+  },
+  "Yes": {
+   "E0": 1,
+   "E1": 4,
+   "E2": 8,
+   "E3": 7,
+   "E4": 4
+  }
+ },
+ "direct_xtab_year_evidence": {
+  "2024": {
+   "E1": 1,
+   "E2": 2,
+   "E3": 1
+  },
+  "2025": {
+   "E0": 1,
+   "E1": 4,
+   "E2": 4,
+   "E3": 3,
+   "E4": 2
+  },
+  "2026": {
+   "E1": 6,
+   "E2": 9,
+   "E3": 9,
+   "E4": 3
+  }
+ },
+ "direct_xtab_real_robot_safety": {
+  "Demo": {
+   "No": 6,
+   "Yes": 4
+  },
+  "No": {
+   "No": 11,
+   "Yes": 6
+  },
+  "Systematic": {
+   "No": 7,
+   "Yes": 11
+  }
+ },
+ "direct_xtab_real_robot_latency": {
+  "Demo": {
+   "No": 6,
+   "Yes": 4
+  },
+  "No": {
+   "No": 10,
+   "Partial": 1,
+   "Yes": 6
+  },
+  "Systematic": {
+   "No": 5,
+   "Yes": 13
+  }
+ },
+ "direct_closed_loop_integration": {
+  "I2": 5,
+  "I3": 2,
+  "I4": 11,
+  "I5": 2,
+  "I6": 7,
+  "I7": 6
+ },
+ "direct_offline_ids": [
+  "2024_Yu_PANav",
+  "2025_Kawabata_SocialNav-MoE",
+  "2025_Kong_AutoSpatial",
+  "2025_Liang_MOSU",
+  "2025_Payandeh_Social-LLaVA",
+  "2025_Saito_VLM-Crowd-Mapping",
+  "2026_Wang_MAction-SocialNav",
+  "2026_Wang_SALSA",
+  "2026_Xiao_E-SocialNav",
+  "2026_Xiao_Prompting-VLMs-JSAI",
+  "2026_Zhang_GCL",
+  "2026_Zhang_SOPD-SocialNav"
+ ],
+ "direct_human_study_ids": [
+  "2025_Song_VLM-Social-Nav",
+  "2025_Sotomi_Transparent-Social-Nav-VLM",
+  "2026_Bejarano_PAD",
+  "2026_Park_TACET",
+  "2026_Wang_LE-Nav"
+ ],
+ "direct_real_robot_systematic_ids": [
+  "2024_Sathyamoorthy_CoNVOI",
+  "2025_Luo_GSON",
+  "2025_Narasimhan_OLiVia-Nav",
+  "2025_Song_VLM-Social-Nav",
+  "2025_Sotomi_Transparent-Social-Nav-VLM",
+  "2025_Weerakoon_BehAV",
+  "2026_Bejarano_PAD",
+  "2026_Chen_SocialNav-CVPR",
+  "2026_Elnoor_ViLAM",
+  "2026_Fang_Group-Joining",
+  "2026_Fang_Obstacles-to-Etiquette",
+  "2026_Liao_G2-Nav",
+  "2026_Park_TACET",
+  "2026_Payandeh_Narrate2Nav",
+  "2026_Sethuraman_Context-Aware-Preferences",
+  "2026_Wang_LE-Nav",
+  "2026_Xu_HCSG",
+  "2026_Zhang_Walk-With-Me"
+ ],
+ "metric_rows_total": 338,
+ "metric_rows_direct": 189,
+ "metric_categories_direct": {
+  "NAV": 45,
+  "VLM": 40,
+  "SOCIAL": 29,
+  "DEPLOY": 25,
+  "OTHER": 21,
+  "SAFETY": 21,
+  "HUMAN": 8
+ },
+ "direct_limitation_flags": {
+  "no-human-study": 34,
+  "limited-scenarios": 28,
+  "cloud-dependence": 20,
+  "latency": 17,
+  "sim-to-real": 9,
+  "dataset-bias": 8,
+  "low-level-grounding": 7,
+  "spatial-reasoning-failure": 5,
+  "intention-ambiguity": 5,
+  "resource-requirements": 5,
+  "hallucination": 4,
+  "sim-only": 4,
+  "prompt-sensitivity": 2,
+  "no-latency": 2,
+  "temporal-inconsistency": 2,
+  "group-detection-error": 1,
+  "weak-baselines": 1,
+  "early-stage": 1,
+  "fm-unnamed": 1,
+  "cultural-bias": 1,
+  "cloud-dependency": 1
+ },
+ "final": {
+  "note": "Authoritative Stage-3 codes (final_* columns). Keys outside this block are legacy Stage-1/2 codes (F/I/E/C).",
+  "direct_total": 45,
+  "A_social_representation_direct": {
+   "A1": 21,
+   "A2": 7,
+   "A3": 11,
+   "A4": 3,
+   "A5": 30,
+   "A6": 15
+  },
+  "A_social_representation_by_category": {
+   "S1": {
+    "A1": 1,
+    "A2": 1,
+    "A3": 1,
+    "A4": 2
+   },
+   "S2": {
+    "A1": 6,
+    "A2": 2,
+    "A3": 1,
+    "A4": 5,
+    "A6": 3
+   },
+   "S3": {
+    "A0": 11,
+    "A6": 2
+   },
+   "S4": {
+    "A1": 12,
+    "A2": 5,
+    "A3": 6,
+    "A4": 1,
+    "A5": 19,
+    "A6": 6
+   },
+   "S5": {
+    "A1": 9,
+    "A2": 2,
+    "A3": 5,
+    "A4": 2,
+    "A5": 11,
+    "A6": 9
+   },
+   "S6": {
+    "A0": 1,
+    "A1": 10,
+    "A2": 3,
+    "A3": 1,
+    "A4": 3,
+    "A5": 4,
+    "A6": 3
+   }
+  },
+  "A_social_representation_n_by_category": {
+   "S1": 2,
+   "S2": 10,
+   "S3": 13,
+   "S4": 24,
+   "S5": 21,
+   "S6": 15
+  },
+  "B_roles": {
+   "R1": 29,
+   "R2": 21,
+   "R3": 25,
+   "R4": 13,
+   "R5": 5
+  },
+  "B_roles_per_paper": {
+   "1": 10,
+   "2": 22,
+   "3": 13
+  },
+  "D_interface": {
+   "D0": 8,
+   "D1": 5,
+   "D2": 6,
+   "D3": 12,
+   "D4": 7,
+   "D5": 4,
+   "D6": 7,
+   "D7": 8,
+   "D8": 5
+  },
+  "D_interface_per_paper": {
+   "1": 29,
+   "2": 15,
+   "3": 1
+  },
+  "temporal_coupling": {
+   "asynchronous": 9,
+   "event-triggered": 2,
+   "hierarchical": 1,
+   "offline": 8,
+   "per-decision": 19,
+   "per-instruction": 2,
+   "training-only": 4
+  },
+  "EV1_offline": {
+   "No": 26,
+   "Yes": 19
+  },
+  "EV2_closed_loop_sim": {
+   "No": 28,
+   "Yes": 17
+  },
+  "EV3_physical_robot": {
+   "demo": 10,
+   "none": 17,
+   "systematic": 18
+  },
+  "EV4_real_humans_in_trials": {
+   "none": 11,
+   "not-reported": 3,
+   "present-type-unreported": 11,
+   "simulated-only": 11,
+   "staged": 8,
+   "unscripted": 1
+  },
+  "EV5_human_evaluation": {
+   "co-present participants": 3,
+   "none": 37,
+   "observers/video": 2,
+   "text-raters": 3
+  },
+  "EV6_open_world_deployment": {
+   "No": 45
+  },
+  "EV_profiles": {
+   "N|Y|none|none": 10,
+   "Y|N|systematic|none": 6,
+   "Y|N|none|none": 5,
+   "N|N|systematic|none": 4,
+   "Y|N|demo|none": 4,
+   "N|Y|demo|none": 4,
+   "N|N|systematic|co-present participants": 3,
+   "N|Y|systematic|none": 2,
+   "Y|N|none|text-raters": 1,
+   "Y|N|demo|text-raters": 1,
+   "Y|Y|none|none": 1,
+   "N|N|demo|none": 1,
+   "Y|N|systematic|observers/video": 1,
+   "N|N|systematic|observers/video": 1,
+   "N|N|systematic|text-raters": 1
+  },
+  "EV_no_closed_loop": 12,
+  "EV_sim_only": 15,
+  "EV_robot_systematic_with_real_humans": 17,
+  "EV_robot_systematic_unscripted_humans": 1,
+  "EV_statistical_testing_yes": 3,
+  "EV_cross_environment": 12,
+  "C_leaves": {
+   "SAF1": {
+    "Yes": 17,
+    "Yes_or_Partial": 32
+   },
+   "SAF2": {
+    "Yes": 7,
+    "Yes_or_Partial": 12
+   },
+   "SPA1": {
+    "Yes": 13,
+    "Yes_or_Partial": 26
+   },
+   "SPA2": {
+    "Yes": 3,
+    "Yes_or_Partial": 13
+   },
+   "SPA3": {
+    "Yes": 8,
+    "Yes_or_Partial": 28
+   },
+   "SPA4": {
+    "Yes": 1,
+    "Yes_or_Partial": 22
+   },
+   "HUM1": {
+    "Yes": 0,
+    "Yes_or_Partial": 21
+   },
+   "HUM2": {
+    "Yes": 2,
+    "Yes_or_Partial": 16
+   },
+   "NOR1": {
+    "Yes": 3,
+    "Yes_or_Partial": 26
+   },
+   "NOR2": {
+    "Yes": 8,
+    "Yes_or_Partial": 15
+   },
+   "NOR3": {
+    "Yes": 9,
+    "Yes_or_Partial": 36
+   },
+   "NOR4": {
+    "Yes": 0,
+    "Yes_or_Partial": 0
+   },
+   "EXP1": {
+    "Yes": 2,
+    "Yes_or_Partial": 13
+   },
+   "EXP2": {
+    "Yes": 0,
+    "Yes_or_Partial": 6
+   },
+   "EXP3": {
+    "Yes": 1,
+    "Yes_or_Partial": 14
+   }
+  },
+  "C_families": {
+   "SAF": {
+    "Yes": 20,
+    "Yes_or_Partial": 32
+   },
+   "SPA": {
+    "Yes": 18,
+    "Yes_or_Partial": 44
+   },
+   "HUM": {
+    "Yes": 2,
+    "Yes_or_Partial": 24
+   },
+   "NOR": {
+    "Yes": 14,
+    "Yes_or_Partial": 39
+   },
+   "EXP": {
+    "Yes": 3,
+    "Yes_or_Partial": 25
+   }
+  },
+  "C_leaves_all_nonsurvey": {
+   "SAF1": 28,
+   "SAF2": 12,
+   "SPA1": 17,
+   "SPA2": 5,
+   "SPA3": 12,
+   "SPA4": 6,
+   "HUM1": 2,
+   "HUM2": 2,
+   "NOR1": 5,
+   "NOR2": 8,
+   "NOR3": 10,
+   "NOR4": 0,
+   "EXP1": 4,
+   "EXP2": 1,
+   "EXP3": 4
+  },
+  "xc": {
+   "memory": {
+    "No": 43,
+    "lifelong caption/embedding database": 1,
+    "persistent rule memory updated from user feedback": 1
+   },
+   "continual_adaptation": {
+    "No": 43,
+    "online lifelong update": 1,
+    "rule updating from user feedback": 1
+   },
+   "explanation_output": {
+    "No": 36,
+    "Yes (text output, not delivered to people)": 4,
+    "Yes (human-facing)": 5
+   },
+   "safety_guard": {
+    "Yes": 21,
+    "No": 24
+   },
+   "uncertainty": {
+    "No": 36,
+    "Partial": 9
+   },
+   "hallucination_mitigation": {
+    "No": 21,
+    "Partial": 13,
+    "Yes": 10,
+    "NA": 1
+   },
+   "privacy_constraint": {
+    "No": 44,
+    "privacy of occupants is the navigation objective": 1
+   },
+   "inference_location": {
+    "n/a (FM used at training time only)": 4,
+    "hybrid (local + cloud)": 6,
+    "cloud API": 13,
+    "n/a (offline evaluation only)": 8,
+    "local/onboard or local server": 7,
+    "not reported": 4,
+    "remote server": 3
+   }
+  },
+  "xtab_interface_EV3": {
+   "D0": {
+    "none": 6,
+    "demo": 2
+   },
+   "D1": {
+    "systematic": 4,
+    "none": 1
+   },
+   "D2": {
+    "none": 3,
+    "demo": 2,
+    "systematic": 1
+   },
+   "D3": {
+    "demo": 4,
+    "none": 2,
+    "systematic": 6
+   },
+   "D4": {
+    "systematic": 4,
+    "none": 3
+   },
+   "D5": {
+    "systematic": 1,
+    "demo": 1,
+    "none": 2
+   },
+   "D6": {
+    "none": 4,
+    "systematic": 2,
+    "demo": 1
+   },
+   "D7": {
+    "none": 2,
+    "systematic": 6
+   },
+   "D8": {
+    "systematic": 2,
+    "demo": 1,
+    "none": 2
+   }
+  },
+  "xtab_role_interface": {
+   "R1": {
+    "D4": 4,
+    "D2": 3,
+    "D0": 8,
+    "D3": 10,
+    "D5": 3,
+    "D7": 4,
+    "D1": 2,
+    "D8": 3,
+    "D6": 3
+   },
+   "R2": {
+    "D0": 7,
+    "D1": 4,
+    "D3": 5,
+    "D4": 3,
+    "D5": 1,
+    "D8": 2,
+    "D7": 3,
+    "D2": 1
+   },
+   "R3": {
+    "D4": 4,
+    "D6": 7,
+    "D2": 6,
+    "D0": 8,
+    "D3": 5,
+    "D5": 1,
+    "D7": 4
+   },
+   "R4": {
+    "D7": 1,
+    "D6": 3,
+    "D2": 2,
+    "D3": 6,
+    "D4": 6,
+    "D5": 2,
+    "D8": 1
+   },
+   "R5": {
+    "D1": 3,
+    "D8": 5,
+    "D5": 1,
+    "D4": 1
+   }
+  }
+ }
+}

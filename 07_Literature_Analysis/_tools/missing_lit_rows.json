@@ -1,0 +1,1600 @@
+[
+ {
+  "key": "ORCA",
+  "title": "Reciprocal n-body collision avoidance (ORCA) / Reciprocal velocity obstacles (RVO)",
+  "authors": "J. van den Berg, S. Guy, M. Lin, D. Manocha",
+  "year": 2011,
+  "venue_as_cited": "ISRR 2009 (Springer 2011) / ICRA 2008",
+  "relevance": "The most frequently mentioned baseline and crowd simulator in the corpus (count = mentions incl. baseline use).",
+  "proposed_category": "S1",
+  "priority": "Critical",
+  "scope": "core",
+  "citing_ids": [
+   "2010_Trautman_Unfreezing-IGP",
+   "2012_Kuderer_Feature-Based-Prediction",
+   "2013_Kruse_Human-Aware-Navigation-Survey",
+   "2016_Kretzschmar_Socially-Compliant-IRL",
+   "2017_Chen_CADRL",
+   "2017_Chen_SA-CADRL",
+   "2019_Chen_SARL-CrowdNav",
+   "2022_Biswas_SocNavBench",
+   "2022_Gao_Evaluation-SAN-Review",
+   "2022_Kim_Group-Estimation",
+   "2023_Mavrogiannis_Core-Challenges-Survey",
+   "2023_Nguyen_MuSoHu",
+   "2023_Wang_NaviSTAR",
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2024_Mirsky_Conflict-Avoidance-Survey",
+   "2024_Singamaneni_SAN-Taxonomy-Survey",
+   "2024_Wang_SALM",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Francis_Principles-Guidelines",
+   "2025_Payandeh_Social-LLaVA",
+   "2025_Sotomi_Transparent-Social-Nav-VLM",
+   "2025_Wang_SAMALM",
+   "2025_Wen_HSAC-LLM",
+   "2026_Ahmadi_HUMA",
+   "2026_Chen_LISN",
+   "2026_Dai_DPed-VLN",
+   "2026_Fang_Obstacles-to-Etiquette",
+   "2026_Hu_SPARK-VLN",
+   "2026_Huang_SONG",
+   "2026_Kabir_DRL-SAN-Survey",
+   "2026_Liao_G2-Nav",
+   "2026_Zhao_EvoNav"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM classical/proxemics anchor (fails criterion B); cite in historical background, no full coding"
+ },
+ {
+  "key": "TrautmanIJRR2015",
+  "title": "Robot navigation in dense human crowds: Statistical models and experimental studies of human-robot cooperation (IJRR 2015; ICRA 2013 \"the case for cooperation\")",
+  "authors": "P. Trautman, J. Ma, R. M. Murray, A. Krause",
+  "year": 2015,
+  "venue_as_cited": "IJRR 34(3):335-356 / ICRA 2013",
+  "relevance": "Real-crowd experimental extension of IGP (2010 in corpus); classical cornerstone also cited by Cai.",
+  "proposed_category": "S1 (related version of 2010_Trautman)",
+  "priority": "Critical",
+  "scope": "core",
+  "citing_ids": [
+   "2016_Kretzschmar_Socially-Compliant-IRL",
+   "2017_Chen_CADRL",
+   "2017_Chen_SA-CADRL",
+   "2019_Chen_SARL-CrowdNav",
+   "2020_Tsoi_SEAN",
+   "2022_Biswas_SocNavBench",
+   "2022_Gao_Evaluation-SAN-Review",
+   "2023_Mavrogiannis_Core-Challenges-Survey",
+   "2023_Wang_NaviSTAR",
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2024_Singamaneni_SAN-Taxonomy-Survey",
+   "2024_Wang_SALM",
+   "2025_Francis_Principles-Guidelines",
+   "2025_Luo_GSON",
+   "2025_Saito_VLM-Crowd-Mapping",
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Dong_HA-VLN-2.0",
+   "2026_Fang_Obstacles-to-Etiquette"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM classical/proxemics anchor (fails criterion B); cite in historical background, no full coding"
+ },
+ {
+  "key": "HallHidden",
+  "title": "The Hidden Dimension",
+  "authors": "E. T. Hall",
+  "year": 1966,
+  "venue_as_cited": "Book (Anchor Books)",
+  "relevance": "Origin of proxemic zones used for C3 and PSV thresholds.",
+  "proposed_category": "S1 (theory)",
+  "priority": "Critical",
+  "scope": "core",
+  "citing_ids": [
+   "2013_Kruse_Human-Aware-Navigation-Survey",
+   "2016_Kretzschmar_Socially-Compliant-IRL",
+   "2017_Charalampous_Social-Aware-Navigation-Survey",
+   "2022_Gao_Evaluation-SAN-Review",
+   "2022_Kim_Group-Estimation",
+   "2023_Mavrogiannis_Core-Challenges-Survey",
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2024_Marpally_SocRATES",
+   "2024_Mirsky_Conflict-Avoidance-Survey",
+   "2025_Francis_Principles-Guidelines",
+   "2025_Zhang_FewShot-Perception",
+   "2026_Chen_SocialNav-CVPR",
+   "2026_Hu_SPARK-VLN",
+   "2026_Park_TACET",
+   "2026_Payandeh_Narrate2Nav"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM classical/proxemics anchor (fails criterion B); cite in historical background, no full coding"
+ },
+ {
+  "key": "MuSoHu",
+  "title": "Toward human-like social robot navigation: A large-scale, multi-modal, social human navigation dataset (MuSoHu)",
+  "authors": "D. M. Nguyen, M. Nazeri, A. Payandeh, A. Datar, X. Xiao",
+  "year": 2023,
+  "venue_as_cited": "IROS 2023, pp. 7442-7447",
+  "relevance": "Egocentric human social-navigation dataset; source data of MUSON (in corpus) and cited by several direct papers.",
+  "proposed_category": "S6",
+  "priority": "Critical",
+  "scope": "core",
+  "citing_ids": [
+   "2024_Hirose_SACSoN",
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Francis_Principles-Guidelines",
+   "2025_Kawabata_SocialNav-MoE",
+   "2025_Narasimhan_OLiVia-Nav",
+   "2025_Payandeh_Social-LLaVA",
+   "2025_Song_VLM-Social-Nav",
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Liu_MUSON",
+   "2026_Park_TACET",
+   "2026_Payandeh_Narrate2Nav",
+   "2026_Xiao_E-SocialNav"
+  ],
+  "decision": "INCLUDED (2023_Nguyen_MuSoHu; IROS 2023)"
+ },
+ {
+  "key": "RiosMartinez",
+  "title": "From proxemics theory to socially-aware navigation: A survey",
+  "authors": "J. Rios-Martinez, A. Spalanzani, C. Laugier",
+  "year": 2015,
+  "venue_as_cited": "Int. J. Social Robotics 7:137-153",
+  "relevance": "The core proxemics-to-navigation survey; directly underpins the working title (\"From Proxemics ...\").",
+  "proposed_category": "S0",
+  "priority": "Critical",
+  "scope": "core",
+  "citing_ids": [
+   "2021_Moller_Human-Aware-Navigation-Survey",
+   "2022_Gao_Evaluation-SAN-Review",
+   "2023_Mavrogiannis_Core-Challenges-Survey",
+   "2023_Wang_NaviSTAR",
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2024_Mirsky_Conflict-Avoidance-Survey",
+   "2024_Singamaneni_SAN-Taxonomy-Survey",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Francis_Principles-Guidelines",
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Kabir_DRL-SAN-Survey",
+   "2026_Zhang_SAATT-Nav"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM classical/proxemics anchor (fails criterion B); cite in historical background, no full coding; no legitimate open full text located (IJSR 7(2):137-153, DOI 10.1007/s12369-014-0251-1)"
+ },
+ {
+  "key": "GA3C-CADRL",
+  "title": "Motion planning among dynamic, decision-making agents with deep reinforcement learning (GA3C-CADRL / LSTM-RL)",
+  "authors": "M. Everett, Y. F. Chen, J. P. How",
+  "year": 2018,
+  "venue_as_cited": "IROS 2018",
+  "relevance": "Standard DRL crowd-navigation baseline (CADRL line); cited by Cai Table 3.",
+  "proposed_category": "S2",
+  "priority": "Critical",
+  "scope": "core",
+  "citing_ids": [
+   "2019_Chen_SARL-CrowdNav",
+   "2021_Kastner_Arena-Rosnav",
+   "2023_Mavrogiannis_Core-Challenges-Survey",
+   "2024_Hirose_SACSoN",
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2024_Mirsky_Conflict-Avoidance-Survey",
+   "2024_Shcherbyna_Arena-4.0",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Francis_Principles-Guidelines",
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Kabir_DRL-SAN-Survey"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM learning-based method/baseline (fails criterion B); cite as baseline/lineage"
+ },
+ {
+  "key": "Habitat3",
+  "title": "Habitat 3.0: A co-habitat for humans, avatars and robots",
+  "authors": "X. Puig et al.",
+  "year": 2023,
+  "venue_as_cited": "arXiv:2310.13724",
+  "relevance": "Photorealistic human-robot simulation used by human-aware VLN work.",
+  "proposed_category": "S6",
+  "priority": "Critical",
+  "scope": "core",
+  "citing_ids": [
+   "2024_Li_HA-VLN",
+   "2024_Shcherbyna_Arena-4.0",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2026_Ahmadi_HUMA",
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Chen_LISN",
+   "2026_Dai_DPed-VLN",
+   "2026_Dong_HA-VLN-2.0",
+   "2026_Hu_SPARK-VLN",
+   "2026_Huang_SONG",
+   "2026_Xu_HCSG"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM simulator/dataset/protocol/metric work; S6 corpus slice restricted to FM-based benchmarks and the documented source datasets of FM social-navigation datasets"
+ },
+ {
+  "key": "SACSoN",
+  "title": "SACSoN: Scalable autonomous control for social navigation (incl. HuRoN dataset)",
+  "authors": "N. Hirose, D. Shah, A. Sridhar, S. Levine",
+  "year": 2024,
+  "venue_as_cited": "IEEE RA-L 9(1):49-56 (Jan 2024)",
+  "relevance": "Large real-robot social-navigation dataset and policy; used/cited by FM navigation (ViNT, NoMaD) and direct papers.",
+  "proposed_category": "S6 (dataset) / S2",
+  "priority": "Critical",
+  "scope": "core",
+  "citing_ids": [
+   "2023_Shah_ViNT",
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2024_Sridhar_NoMaD",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Francis_Principles-Guidelines",
+   "2025_Narasimhan_OLiVia-Nav",
+   "2025_Song_VLM-Social-Nav",
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Fang_Obstacles-to-Etiquette",
+   "2026_Hu_SPARK-VLN"
+  ],
+  "decision": "INCLUDED (2024_Hirose_SACSoN; RA-L 2024)"
+ },
+ {
+  "key": "CrowdNav++",
+  "title": "Intention aware robot crowd navigation with attention-based interaction graph (CrowdNav++)",
+  "authors": "S. Liu et al.",
+  "year": 2023,
+  "venue_as_cited": "ICRA 2023",
+  "relevance": "Intention-aware DRL crowd navigation; baseline in direct papers (Etiquette) and SocialNav-SUB.",
+  "proposed_category": "S2",
+  "priority": "Critical",
+  "scope": "core",
+  "citing_ids": [
+   "2024_Wang_SALM",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Munje_SocialNav-SUB",
+   "2025_Wang_SAMALM",
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Fang_Obstacles-to-Etiquette",
+   "2026_Huang_SONG",
+   "2026_Zhang_AHead-VLN",
+   "2026_Zhang_Walk-With-Me",
+   "2026_Zhao_EvoNav"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM learning-based method/baseline (fails criterion B); cite as baseline/lineage"
+ },
+ {
+  "key": "PirkProtocol",
+  "title": "A protocol for validating social navigation policies",
+  "authors": "S. Pirk, E. Lee, X. Xiao, L. Takayama, A. Francis, A. Toshev",
+  "year": 2022,
+  "venue_as_cited": "arXiv:2204.05443",
+  "relevance": "Scenario-based evaluation protocol cited by direct papers (Social-LLaVA, VLM-Social-Nav) and by Cai; needed for the evaluation section.",
+  "proposed_category": "S6 (evaluation)",
+  "priority": "Critical",
+  "scope": "core",
+  "citing_ids": [
+   "2023_Nguyen_MuSoHu",
+   "2024_Mirsky_Conflict-Avoidance-Survey",
+   "2024_Raj_Hybrid-Social-Nav",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Francis_Principles-Guidelines",
+   "2025_Payandeh_Social-LLaVA",
+   "2025_Song_VLM-Social-Nav",
+   "2025_Zhang_FewShot-Perception",
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Payandeh_Narrate2Nav"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM simulator/dataset/protocol/metric work; S6 corpus slice restricted to FM-based benchmarks and the documented source datasets of FM social-navigation datasets"
+ },
+ {
+  "key": "SocialMomentum",
+  "title": "Social momentum: A framework for legible navigation in dynamic multi-agent environments",
+  "authors": "C. Mavrogiannis, W. B. Thomason, R. A. Knepper",
+  "year": 2018,
+  "venue_as_cited": "HRI 2018",
+  "relevance": "Legibility-oriented classical method (C18, a gap in the direct set).",
+  "proposed_category": "S1",
+  "priority": "Critical",
+  "scope": "core",
+  "citing_ids": [
+   "2022_Biswas_SocNavBench",
+   "2022_Gao_Evaluation-SAN-Review",
+   "2023_Mavrogiannis_Core-Challenges-Survey",
+   "2024_Hirose_SACSoN",
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2024_Mirsky_Conflict-Avoidance-Survey",
+   "2024_Singamaneni_SAN-Taxonomy-Survey",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Weerakoon_BehAV",
+   "2025_Zhang_FewShot-Perception"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM classical/proxemics anchor (fails criterion B); cite in historical background, no full coding"
+ },
+ {
+  "key": "JRDB",
+  "title": "JRDB: A dataset and benchmark of egocentric robot visual perception of humans in built environments",
+  "authors": "R. Martin-Martin et al.",
+  "year": 2021,
+  "venue_as_cited": "IEEE TPAMI (per citing tables)",
+  "relevance": "Egocentric robot perception of humans (and JRDB-Social extensions); relevant for VLM social perception.",
+  "proposed_category": "S6",
+  "priority": "Critical",
+  "scope": "core",
+  "citing_ids": [
+   "2022_Gao_Evaluation-SAN-Review",
+   "2022_Karnan_SCAND",
+   "2024_Hirose_SACSoN",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Francis_Principles-Guidelines",
+   "2025_Payandeh_Social-LLaVA",
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Fang_Group-Joining",
+   "2026_Park_TACET"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM simulator/dataset/protocol/metric work; S6 corpus slice restricted to FM-based benchmarks and the documented source datasets of FM social-navigation datasets"
+ },
+ {
+  "key": "HuNavSim",
+  "title": "HuNavSim: A ROS 2 human navigation simulator for benchmarking human-aware robot navigation",
+  "authors": "N. Perez-Higueras, R. Otero, F. Caballero, L. Merino",
+  "year": 2023,
+  "venue_as_cited": "IEEE RA-L 8:7130-7137",
+  "relevance": "Human-behaviour simulator for benchmarking.",
+  "proposed_category": "S6",
+  "priority": "Critical",
+  "scope": "core",
+  "citing_ids": [
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2024_Marpally_SocRATES",
+   "2024_Shcherbyna_Arena-4.0",
+   "2025_Francis_Principles-Guidelines",
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Chen_LISN",
+   "2026_Hu_SPARK-VLN"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM simulator/dataset/protocol/metric work; S6 corpus slice restricted to FM-based benchmarks and the documented source datasets of FM social-navigation datasets"
+ },
+ {
+  "key": "DS-RNN",
+  "title": "Decentralized structural-RNN for robot crowd navigation with deep reinforcement learning",
+  "authors": "S. Liu, P. Chang, W. Liang, N. Chakraborty, K. Driggs-Campbell",
+  "year": 2021,
+  "venue_as_cited": "ICRA 2021, pp. 3517-3524",
+  "relevance": "DRL crowd navigation baseline (used as comparison by Etiquette).",
+  "proposed_category": "S2",
+  "priority": "Critical",
+  "scope": "core",
+  "citing_ids": [
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2026_Fang_Obstacles-to-Etiquette",
+   "2026_Kabir_DRL-SAN-Survey",
+   "2026_Zhang_Walk-With-Me",
+   "2026_Zhao_EvoNav"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM learning-based method/baseline (fails criterion B); cite as baseline/lineage"
+ },
+ {
+  "key": "GMPC",
+  "title": "Group-based motion prediction for navigation in crowded environments",
+  "authors": "A. Wang, C. Mavrogiannis, A. Steinfeld",
+  "year": 2022,
+  "venue_as_cited": "CoRL (5th), PMLR",
+  "relevance": "Group-aware prediction/navigation; compared with by GSON and Etiquette.",
+  "proposed_category": "S2",
+  "priority": "Critical",
+  "scope": "core",
+  "citing_ids": [
+   "2022_Kim_Group-Estimation",
+   "2023_Mavrogiannis_Core-Challenges-Survey",
+   "2025_Luo_GSON",
+   "2026_Fang_Group-Joining",
+   "2026_Fang_Obstacles-to-Etiquette"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM learning-based method/baseline (fails criterion B); cite as baseline/lineage"
+ },
+ {
+  "key": "LISN",
+  "title": "LISN: Language-instructed social navigation with VLM-based controller modulating",
+  "authors": "J. Chen, Y. Li, P. Jiang, et al.",
+  "year": 2025,
+  "venue_as_cited": "arXiv:2512.09920",
+  "relevance": "VLM modulating a controller from social language instructions; direct-set candidate (C23 instruction following).",
+  "proposed_category": "S5 (direct FM, preprint)",
+  "priority": "Critical",
+  "scope": "direct",
+  "citing_ids": [
+   "2026_Ahmadi_HUMA",
+   "2026_Hu_SPARK-VLN",
+   "2026_Liao_G2-Nav"
+  ],
+  "decision": "INCLUDED (2026_Chen_LISN; ICRA 2026)"
+ },
+ {
+  "key": "SRLM",
+  "title": "SRLM: Human-in-Loop Interactive Social Robot Navigation with Large Language Model and Deep Reinforcement Learning",
+  "authors": "W. Wang, L. Mao, R. Wang, B.-C. Min",
+  "year": 2024,
+  "venue_as_cited": "arXiv (Mar 2024)",
+  "relevance": "LLM + DRL social navigation with human-in-the-loop language requests; a direct FM social-navigation method missing from the direct set.",
+  "proposed_category": "S5 (direct FM, preprint) unless published",
+  "priority": "Critical",
+  "scope": "direct",
+  "citing_ids": [
+   "2025_Narasimhan_OLiVia-Nav",
+   "2026_Kabir_DRL-SAN-Survey",
+   "2026_Pan_Foundation-LM-Navigation-Review",
+   "2026_Sethuraman_Context-Aware-Preferences"
+  ],
+  "decision": "INCLUDED (2024_Wang_SALM; arXiv v3 title \"Unifying Large Language Model and Deep Reinforcement Learning ...\")"
+ },
+ {
+  "key": "Kathuria",
+  "title": "Learning implicit social navigation behavior using deep inverse reinforcement learning",
+  "authors": "T. Kathuria, K. Liu, J. Jang, X. J. Yang, M. Ghaffari",
+  "year": 2025,
+  "venue_as_cited": "IEEE RA-L 10(5)",
+  "relevance": "Deep IRL social navigation; cited only by one author group (E-SocialNav, MAction, JSAI).",
+  "proposed_category": "S2",
+  "priority": "Critical",
+  "scope": "core",
+  "citing_ids": [
+   "2026_Wang_MAction-SocialNav",
+   "2026_Xiao_E-SocialNav",
+   "2026_Xiao_Prompting-VLMs-JSAI"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM learning-based method/baseline (fails criterion B); cite as baseline/lineage"
+ },
+ {
+  "key": "SELFI",
+  "title": "SELFI: Autonomous self-improvement with reinforcement learning for social navigation",
+  "authors": "N. Hirose, D. Shah, K. Stachowicz, A. Sridhar, S. Levine",
+  "year": 2024,
+  "venue_as_cited": "arXiv:2403.00991",
+  "relevance": "Real-world RL self-improvement for social navigation; Cai \u00a75.5.",
+  "proposed_category": "S2",
+  "priority": "Critical",
+  "scope": "core",
+  "citing_ids": [
+   "2025_Narasimhan_OLiVia-Nav",
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Wang_SALSA"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM learning-based method/baseline (fails criterion B); cite as baseline/lineage"
+ },
+ {
+  "key": "WalkWithMe",
+  "title": "Walk with me: Long-horizon social navigation for human-centric outdoor assistance",
+  "authors": "L. Zhang, X. Hao, X. Bu, et al.",
+  "year": 2026,
+  "venue_as_cited": "arXiv:2604.26839",
+  "relevance": "Recent FM-based social navigation (cited by Cai as an action-interface example); falls in the direct set if FM use and social evaluation are confirmed.",
+  "proposed_category": "S4/S5 (direct FM) - verify",
+  "priority": "Critical",
+  "scope": "direct",
+  "citing_ids": [
+   "2026_Ahmadi_HUMA",
+   "2026_Cai_VLM-Deployable-SRN-Survey"
+  ],
+  "decision": "INCLUDED (2026_Zhang_Walk-With-Me)"
+ },
+ {
+  "key": "ETH",
+  "title": "You'll never walk alone: Modeling social behavior for multi-target tracking (ETH dataset)",
+  "authors": "S. Pellegrini, A. Ess, K. Schindler, L. van Gool",
+  "year": 2009,
+  "venue_as_cited": "ICCV 2009",
+  "relevance": "Standard pedestrian trajectory dataset (prediction, C6).",
+  "proposed_category": "S6 (prediction dataset)",
+  "priority": "High",
+  "scope": "support",
+  "citing_ids": [
+   "2010_Trautman_Unfreezing-IGP",
+   "2016_Kretzschmar_Socially-Compliant-IRL",
+   "2021_Moller_Human-Aware-Navigation-Survey",
+   "2022_Biswas_SocNavBench",
+   "2022_Gao_Evaluation-SAN-Review",
+   "2023_Mavrogiannis_Core-Challenges-Survey",
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Francis_Principles-Guidelines",
+   "2026_Kabir_DRL-SAN-Survey"
+  ],
+  "decision": "BACKGROUND ONLY: pedestrian-prediction method/dataset (fails A and B); cite for C5/C6 background"
+ },
+ {
+  "key": "UCY",
+  "title": "Crowds by example (UCY dataset)",
+  "authors": "A. Lerner, Y. Chrysanthou, D. Lischinski",
+  "year": 2007,
+  "venue_as_cited": "Computer Graphics Forum 26(3):655-664",
+  "relevance": "Standard pedestrian trajectory dataset (prediction, C6).",
+  "proposed_category": "S6 (prediction dataset)",
+  "priority": "High",
+  "scope": "support",
+  "citing_ids": [
+   "2012_Kuderer_Feature-Based-Prediction",
+   "2016_Kretzschmar_Socially-Compliant-IRL",
+   "2021_Moller_Human-Aware-Navigation-Survey",
+   "2022_Biswas_SocNavBench",
+   "2022_Gao_Evaluation-SAN-Review",
+   "2023_Mavrogiannis_Core-Challenges-Survey",
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Francis_Principles-Guidelines",
+   "2026_Kabir_DRL-SAN-Survey"
+  ],
+  "decision": "BACKGROUND ONLY: pedestrian-prediction method/dataset (fails A and B); cite for C5/C6 background"
+ },
+ {
+  "key": "SocialLSTM",
+  "title": "Social LSTM: Human trajectory prediction in crowded spaces",
+  "authors": "A. Alahi et al.",
+  "year": 2016,
+  "venue_as_cited": "CVPR 2016",
+  "relevance": "Learning-based prediction cornerstone.",
+  "proposed_category": "S2 (prediction)",
+  "priority": "High",
+  "scope": "support",
+  "citing_ids": [
+   "2019_Chen_SARL-CrowdNav",
+   "2021_Moller_Human-Aware-Navigation-Survey",
+   "2022_Biswas_SocNavBench",
+   "2022_Gao_Evaluation-SAN-Review",
+   "2023_Mavrogiannis_Core-Challenges-Survey",
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2024_Singamaneni_SAN-Taxonomy-Survey",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Wen_HSAC-LLM"
+  ],
+  "decision": "BACKGROUND ONLY: pedestrian-prediction method/dataset (fails A and B); cite for C5/C6 background"
+ },
+ {
+  "key": "FanDRL",
+  "title": "Distributed multi-robot collision avoidance via deep reinforcement learning for navigation in complex scenarios",
+  "authors": "T. Fan, P. Long, W. Liu, J. Pan",
+  "year": 2020,
+  "venue_as_cited": "IJRR 39:856-892",
+  "relevance": "DRL collision-avoidance baseline (not human-specific).",
+  "proposed_category": "S2",
+  "priority": "High",
+  "scope": "support",
+  "citing_ids": [
+   "2019_Chen_SARL-CrowdNav",
+   "2022_Kim_Group-Estimation",
+   "2024_Mirsky_Conflict-Avoidance-Survey",
+   "2024_Sathyamoorthy_CoNVOI",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Francis_Principles-Guidelines",
+   "2025_Luo_GSON",
+   "2026_Chen_LISN"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM learning-based method/baseline (fails criterion B); cite as baseline/lineage"
+ },
+ {
+  "key": "NaVILA",
+  "title": "NaVILA: Legged robot vision-language-action model for navigation",
+  "authors": "A.-C. Cheng et al.",
+  "year": 2025,
+  "venue_as_cited": "RSS 2025",
+  "relevance": "VLA for navigation with low-level locomotion policy; in Cai \u00a73.5.",
+  "proposed_category": "S3",
+  "priority": "High",
+  "scope": "support",
+  "citing_ids": [
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Chen_LISN",
+   "2026_Dai_DPed-VLN",
+   "2026_Dong_HA-VLN-2.0",
+   "2026_Fang_Group-Joining",
+   "2026_Hu_SPARK-VLN",
+   "2026_Wang_SALSA",
+   "2026_Zhang_Walk-With-Me"
+  ],
+  "decision": "BACKGROUND ONLY: generic navigation VLA without social capability (fails C); used as baseline by 7 corpus papers"
+ },
+ {
+  "key": "SisbotHAMP",
+  "title": "A human aware mobile robot motion planner",
+  "authors": "E. A. Sisbot, L. F. Marin-Urias, R. Alami, T. Simeon",
+  "year": 2007,
+  "venue_as_cited": "IEEE T-RO 23(5):874-883",
+  "relevance": "Classical human-aware cost-based planner (safety/visibility costs).",
+  "proposed_category": "S1",
+  "priority": "High",
+  "scope": "core",
+  "citing_ids": [
+   "2013_Kruse_Human-Aware-Navigation-Survey",
+   "2016_Okal_Bayesian-IRL",
+   "2017_Charalampous_Social-Aware-Navigation-Survey",
+   "2022_Gao_Evaluation-SAN-Review",
+   "2023_Mavrogiannis_Core-Challenges-Survey",
+   "2024_Hirose_SACSoN",
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2024_Mirsky_Conflict-Avoidance-Survey"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM classical/proxemics anchor (fails criterion B); cite in historical background, no full coding"
+ },
+ {
+  "key": "SocialGAN",
+  "title": "Social GAN: Socially acceptable trajectories with generative adversarial networks",
+  "authors": "A. Gupta et al.",
+  "year": 2018,
+  "venue_as_cited": "CVPR 2018",
+  "relevance": "Prediction method.",
+  "proposed_category": "S2 (prediction)",
+  "priority": "High",
+  "scope": "support",
+  "citing_ids": [
+   "2019_Chen_SARL-CrowdNav",
+   "2022_Biswas_SocNavBench",
+   "2022_Gao_Evaluation-SAN-Review",
+   "2023_Mavrogiannis_Core-Challenges-Survey",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Luo_GSON",
+   "2025_Wen_HSAC-LLM",
+   "2026_Chen_LISN"
+  ],
+  "decision": "BACKGROUND ONLY: pedestrian-prediction method/dataset (fails A and B); cite for C5/C6 background"
+ },
+ {
+  "key": "SocialGym",
+  "title": "SocialGym 2.0: Simulator for multi-agent social robot navigation in shared human spaces (and SocialGym 1.0)",
+  "authors": "Z. Sprague, R. Chandra, J. Holtz, J. Biswas",
+  "year": 2023,
+  "venue_as_cited": "arXiv:2303.05584 (AAAI 2024 per one citing note - verify)",
+  "relevance": "Social-navigation simulator/benchmark.",
+  "proposed_category": "S6",
+  "priority": "High",
+  "scope": "core",
+  "citing_ids": [
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2024_Raj_Hybrid-Social-Nav",
+   "2024_Shcherbyna_Arena-4.0",
+   "2024_Singamaneni_SAN-Taxonomy-Survey",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Francis_Principles-Guidelines",
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Kabir_DRL-SAN-Survey"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM simulator/dataset/protocol/metric work; S6 corpus slice restricted to FM-based benchmarks and the documented source datasets of FM social-navigation datasets"
+ },
+ {
+  "key": "VLN-CE",
+  "title": "Beyond the nav-graph: Vision-and-language navigation in continuous environments (VLN-CE)",
+  "authors": "J. Krantz et al.",
+  "year": 2020,
+  "venue_as_cited": "ECCV 2020",
+  "relevance": "Continuous VLN setting underlying HA-VLN/HCSG.",
+  "proposed_category": "S6 (VLN benchmark)",
+  "priority": "High",
+  "scope": "support",
+  "citing_ids": [
+   "2024_Li_HA-VLN",
+   "2026_Dai_DPed-VLN",
+   "2026_Dong_HA-VLN-2.0",
+   "2026_Hu_SPARK-VLN",
+   "2026_Liu_MUSON",
+   "2026_Pan_Foundation-LM-Navigation-Review",
+   "2026_Xu_HCSG",
+   "2026_Zhang_AHead-VLN"
+  ],
+  "decision": "BACKGROUND ONLY: generic continuous VLN benchmark (fails C); substrate of HA-VLN/HCSG/DPed-VLN"
+ },
+ {
+  "key": "MavrogiannisHRI2019",
+  "title": "Effects of distinct robot navigation strategies on human behavior in a crowded environment",
+  "authors": "C. Mavrogiannis, A. M. Hutchinson, J. Macdonald, P. Alves-Oliveira, R. A. Knepper",
+  "year": 2019,
+  "venue_as_cited": "HRI 2019",
+  "relevance": "Human-subject study of navigation strategies; reference point for human-study evidence (E4).",
+  "proposed_category": "S1/S6 (human study)",
+  "priority": "High",
+  "scope": "core",
+  "citing_ids": [
+   "2020_Tsoi_SEAN",
+   "2021_Moller_Human-Aware-Navigation-Survey",
+   "2024_Mirsky_Conflict-Avoidance-Survey",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Francis_Principles-Guidelines",
+   "2026_Cai_VLM-Deployable-SRN-Survey"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM classical/proxemics anchor (fails criterion B); cite in historical background, no full coding"
+ },
+ {
+  "key": "MoussaidGroups",
+  "title": "The walking behaviour of pedestrian social groups and its impact on crowd dynamics",
+  "authors": "M. Moussaid, N. Perozo, S. Garnier, D. Helbing, G. Theraulaz",
+  "year": 2010,
+  "venue_as_cited": "PLoS ONE 5(4)",
+  "relevance": "Empirical basis for group modelling (C9/C10).",
+  "proposed_category": "S1 (theory)",
+  "priority": "High",
+  "scope": "core",
+  "citing_ids": [
+   "2016_Okal_Bayesian-IRL",
+   "2022_Kim_Group-Estimation",
+   "2024_Mirsky_Conflict-Avoidance-Survey",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Francis_Principles-Guidelines",
+   "2025_Munje_SocialNav-SUB"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM classical/proxemics anchor (fails criterion B); cite in historical background, no full coding"
+ },
+ {
+  "key": "RGL",
+  "title": "Relational graph learning for crowd navigation",
+  "authors": "C. Chen, S. Hu, P. Nikdel, G. Mori, M. Savva",
+  "year": 2020,
+  "venue_as_cited": "IROS 2020",
+  "relevance": "Graph-based DRL crowd navigation (successor of SARL).",
+  "proposed_category": "S2",
+  "priority": "High",
+  "scope": "core",
+  "citing_ids": [
+   "2022_Gao_Evaluation-SAN-Review",
+   "2023_Mavrogiannis_Core-Challenges-Survey",
+   "2023_Wang_NaviSTAR",
+   "2024_Singamaneni_SAN-Taxonomy-Survey",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2026_Kabir_DRL-SAN-Survey"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM learning-based method/baseline (fails criterion B); cite as baseline/lineage"
+ },
+ {
+  "key": "SEAN2",
+  "title": "SEAN 2.0: Formalizing and generating social situations for robot navigation",
+  "authors": "N. Tsoi et al.",
+  "year": 2022,
+  "venue_as_cited": "IEEE RA-L 7(4):11047-11054",
+  "relevance": "Successor of SEAN (in corpus); cited by Cai Table 3.",
+  "proposed_category": "S6 (related version of 2020_Tsoi_SEAN)",
+  "priority": "High",
+  "scope": "core",
+  "citing_ids": [
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2024_Marpally_SocRATES",
+   "2025_Francis_Principles-Guidelines",
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Chen_LISN",
+   "2026_Kabir_DRL-SAN-Survey"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM simulator/dataset/protocol/metric work; S6 corpus slice restricted to FM-based benchmarks and the documented source datasets of FM social-navigation datasets"
+ },
+ {
+  "key": "THOR",
+  "title": "THOR: Human-robot navigation data collection and accurate motion trajectories dataset",
+  "authors": "A. Rudenko, T. P. Kucner, C. S. Swaminathan, R. T. Chadalavada, K. O. Arras, A. J. Lilienthal",
+  "year": 2020,
+  "venue_as_cited": "IEEE RA-L 5(2):676-682",
+  "relevance": "Human trajectory dataset with robot, groups, gaze.",
+  "proposed_category": "S6",
+  "priority": "High",
+  "scope": "core",
+  "citing_ids": [
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Francis_Principles-Guidelines",
+   "2025_Song_VLM-Social-Nav",
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Kabir_DRL-SAN-Survey"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM simulator/dataset/protocol/metric work; S6 corpus slice restricted to FM-based benchmarks and the documented source datasets of FM social-navigation datasets"
+ },
+ {
+  "key": "WangConformity",
+  "title": "Metrics for evaluating social conformity of crowd navigation algorithms",
+  "authors": "J. Wang, W. P. Chan, P. Carreno-Medrano, A. Cosgun, E. Croft",
+  "year": 2022,
+  "venue_as_cited": "IEEE ARSO 2022",
+  "relevance": "Metric definitions for social conformity; supports the metric-comparability analysis.",
+  "proposed_category": "S6 (evaluation)",
+  "priority": "High",
+  "scope": "core",
+  "citing_ids": [
+   "2024_Hirose_SACSoN",
+   "2024_Singamaneni_SAN-Taxonomy-Survey",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Francis_Principles-Guidelines",
+   "2025_Narasimhan_OLiVia-Nav",
+   "2026_Cai_VLM-Deployable-SRN-Survey"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM simulator/dataset/protocol/metric work; S6 corpus slice restricted to FM-based benchmarks and the documented source datasets of FM social-navigation datasets"
+ },
+ {
+  "key": "LayeredCostmaps",
+  "title": "Layered costmaps for context-sensitive navigation",
+  "authors": "D. V. Lu, D. Hershberger, W. D. Smart",
+  "year": 2014,
+  "venue_as_cited": "IROS 2014",
+  "relevance": "Social cost layers in ROS stacks; relevant to cost-generator integration (F6/I4).",
+  "proposed_category": "S1",
+  "priority": "High",
+  "scope": "core",
+  "citing_ids": [
+   "2017_Charalampous_Social-Aware-Navigation-Survey",
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2024_Marpally_SocRATES",
+   "2024_Raj_Hybrid-Social-Nav",
+   "2026_Park_TACET"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM classical/proxemics anchor (fails criterion B); cite in historical background, no full coding"
+ },
+ {
+  "key": "NaVid",
+  "title": "NaVid: Video-based VLM plans the next step for vision-and-language navigation (and Uni-NaVid)",
+  "authors": "J. Zhang et al.",
+  "year": 2024,
+  "venue_as_cited": "arXiv:2402.15852 (RSS 2024 - verify)",
+  "relevance": "VLM navigation policy (I7-type); in Cai \u00a73.5; baseline in HA-VLN.",
+  "proposed_category": "S3",
+  "priority": "High",
+  "scope": "support",
+  "citing_ids": [
+   "2024_Li_HA-VLN",
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Chen_LISN",
+   "2026_Dong_HA-VLN-2.0",
+   "2026_Hu_SPARK-VLN"
+  ],
+  "decision": "BACKGROUND ONLY: generic video-VLM VLN policy without social capability (fails C); baseline in HA-VLN, LISN, SPARK-VLN"
+ },
+ {
+  "key": "PIVOT",
+  "title": "PIVOT: Iterative visual prompting elicits actionable knowledge for VLMs",
+  "authors": "S. Nasiriany et al.",
+  "year": 2024,
+  "venue_as_cited": "ICML 2024, pp. 37321-37341",
+  "relevance": "Visual-prompting technique used or compared with by direct papers (CoNVOI, VLM-Social-Nav, Etiquette) and VL-TGS.",
+  "proposed_category": "S3",
+  "priority": "High",
+  "scope": "support",
+  "citing_ids": [
+   "2024_Sathyamoorthy_CoNVOI",
+   "2025_Liang_MOSU",
+   "2025_Song_VL-TGS",
+   "2025_Song_VLM-Social-Nav",
+   "2026_Fang_Obstacles-to-Etiquette"
+  ],
+  "decision": "BACKGROUND ONLY: adjacent FM navigation/technique without social capability (fails C)"
+ },
+ {
+  "key": "RudenkoSurvey",
+  "title": "Human motion trajectory prediction: A survey",
+  "authors": "A. Rudenko, L. Palmieri, M. Herman, K. M. Kitani, D. M. Gavrila, K. O. Arras",
+  "year": 2020,
+  "venue_as_cited": "IJRR 39:895-935",
+  "relevance": "Prediction survey; needed for C5/C6 background.",
+  "proposed_category": "S0",
+  "priority": "High",
+  "scope": "core",
+  "citing_ids": [
+   "2021_Moller_Human-Aware-Navigation-Survey",
+   "2023_Mavrogiannis_Core-Challenges-Survey",
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2024_Singamaneni_SAN-Taxonomy-Survey",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark"
+  ],
+  "decision": "BACKGROUND ONLY: pedestrian-prediction method/dataset (fails A and B); cite for C5/C6 background"
+ },
+ {
+  "key": "SocNav2",
+  "title": "SocNav2 dataset (with SocNav1)",
+  "authors": "P. Bachiller et al. (SocNav1: L. J. Manso et al.)",
+  "year": 2022,
+  "venue_as_cited": "Not determined",
+  "relevance": "Human-feedback datasets for learning social-navigation conventions; in Cai Table 2.",
+  "proposed_category": "S6",
+  "priority": "High",
+  "scope": "core",
+  "citing_ids": [
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2024_Singamaneni_SAN-Taxonomy-Survey",
+   "2025_Francis_Principles-Guidelines",
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Kabir_DRL-SAN-Survey"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM simulator/dataset/protocol/metric work; S6 corpus slice restricted to FM-based benchmarks and the documented source datasets of FM social-navigation datasets"
+ },
+ {
+  "key": "GazeNav-Chen2020",
+  "title": "Robot navigation in crowds by graph convolutional networks with attention learned from human gaze",
+  "authors": "Y. Chen et al.",
+  "year": 2020,
+  "venue_as_cited": "IEEE RA-L 2020 (verify)",
+  "relevance": "Gaze-attention DRL crowd navigation (distinct from GazeNav 2026).",
+  "proposed_category": "S2",
+  "priority": "High",
+  "scope": "core",
+  "citing_ids": [
+   "2022_Kim_Group-Estimation",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2026_Kabir_DRL-SAN-Survey"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM learning-based method/baseline (fails criterion B); cite as baseline/lineage"
+ },
+ {
+  "key": "KirbyCOMPANION",
+  "title": "COMPANION framework (social robot navigation thesis)",
+  "authors": "R. Kirby",
+  "year": 2010,
+  "venue_as_cited": "PhD thesis, CMU",
+  "relevance": "Classical constraint-based social conventions (passing on the right).",
+  "proposed_category": "S1",
+  "priority": "High",
+  "scope": "core",
+  "citing_ids": [
+   "2013_Kruse_Human-Aware-Navigation-Survey",
+   "2023_Mavrogiannis_Core-Challenges-Survey",
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM classical/proxemics anchor (fails criterion B); cite in historical background, no full coding"
+ },
+ {
+  "key": "Okunevich",
+  "title": "Online context learning for socially-compliant navigation",
+  "authors": "I. Okunevich, A. Lombard, T. Krajnik, Y. Ruichek, Z. Yan",
+  "year": 2024,
+  "venue_as_cited": "arXiv:2406.11495 (2025 version cited by one note - verify)",
+  "relevance": "Online context adaptation (C24).",
+  "proposed_category": "S2",
+  "priority": "High",
+  "scope": "core",
+  "citing_ids": [
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Narasimhan_OLiVia-Nav",
+   "2026_Kabir_DRL-SAN-Survey"
+  ],
+  "decision": "BACKGROUND ONLY: non-FM learning-based method/baseline (fails criterion B); cite as baseline/lineage"
+ },
+ {
+  "key": "GazeNav-2026",
+  "title": "Learning from human gaze: Human-like robot social navigation in dense crowds (\"GazeNav\")",
+  "authors": "Z. Yu, Y. Lyu, C. Yang, et al.",
+  "year": 2026,
+  "venue_as_cited": "AAAI 2026, vol. 40, pp. 18728-18736",
+  "relevance": "Social-navigation dataset/method with human gaze cues (Cai Table 2); FM use not determined.",
+  "proposed_category": "S6 or S2 - verify",
+  "priority": "High",
+  "scope": "direct",
+  "citing_ids": [
+   "2026_Cai_VLM-Deployable-SRN-Survey"
+  ],
+  "decision": "BACKGROUND ONLY: no FM in method (fails B); dataset/method background (AAAI 2026)"
+ },
+ {
+  "key": "NaviWM",
+  "title": "Deductive Chain-of-Thought Augmented Socially-aware Robot Navigation World Model (NaviWM)",
+  "authors": "W. Wang, O. Ike, S. Choi, S. Hong, B.-C. Min",
+  "year": 2025,
+  "venue_as_cited": "arXiv:2510.23509",
+  "relevance": "FM reasoning + world model for social navigation; cited by PAD as a hybrid FM approach.",
+  "proposed_category": "S5 (direct FM, preprint)",
+  "priority": "High",
+  "scope": "direct",
+  "citing_ids": [
+   "2026_Bejarano_PAD"
+  ],
+  "decision": "EXCLUDE: withdrawn by authors (arXiv); see EXCLUDED_WITHDRAWN_WORKS.md"
+ },
+ {
+  "key": "ProactiveVLMdistill",
+  "title": "Towards proactive social robots: Distilling visual knowledge from large vision-language models",
+  "authors": "G. De Simone, L. Roveda, A. Saggese, M. Vento",
+  "year": 2025,
+  "venue_as_cited": "ICCV 2025, pp. 2492-2502",
+  "relevance": "VLM knowledge distillation for social robot behaviour; relevant to F8 (teacher/distillation) role.",
+  "proposed_category": "S4 or S3 - verify navigation content",
+  "priority": "High",
+  "scope": "direct",
+  "citing_ids": [
+   "2026_Zhang_GCL"
+  ],
+  "decision": "EXCLUDE: social-robot perception, not navigation (fails A); ICCV 2025 workshop"
+ },
+ {
+  "key": "ProbingPrompt",
+  "title": "Probing prompt design for socially compliant robot navigation with vision language models",
+  "authors": "L. Xiao, T. Yamasaki",
+  "year": 2026,
+  "venue_as_cited": "arXiv:2601.14622",
+  "relevance": "Probably the full version of the JSAI 2026 paper already in the corpus; acquire to resolve the related-version link.",
+  "proposed_category": "Related version of 2026_Xiao_Prompting-VLMs-JSAI",
+  "priority": "High",
+  "scope": "direct",
+  "citing_ids": [
+   "2026_Cai_VLM-Deployable-SRN-Survey"
+  ],
+  "decision": "BACKGROUND ONLY: related, differently titled version of the JSAI 2026 corpus paper; recorded as related version, not a separate work"
+ },
+ {
+  "key": "SocialNav-Map",
+  "title": "SocialNav-Map",
+  "authors": "Not determined",
+  "year": 2025,
+  "venue_as_cited": "Not determined (cited by Walk With Me)",
+  "relevance": "Map-based social navigation without FM (screened Stage 2).",
+  "proposed_category": "S2",
+  "priority": "High",
+  "scope": "direct",
+  "citing_ids": [
+   "2026_Zhang_Walk-With-Me"
+  ],
+  "decision": "EXCLUDE: no FM (fails B)"
+ },
+ {
+  "key": "iGibsonSocial",
+  "title": "iGibson 1.0 / 2.0 (incl. iGibson Social Navigation challenge)",
+  "authors": "B. Shen et al.; C. Li et al.",
+  "year": 2021,
+  "venue_as_cited": "IROS 2021 / CoRL 2021 (verify)",
+  "relevance": "Simulator used for social navigation challenges; count includes general iGibson mentions.",
+  "proposed_category": "S6",
+  "priority": "Medium",
+  "scope": "support",
+  "citing_ids": [
+   "2021_Moller_Human-Aware-Navigation-Survey",
+   "2022_Gao_Evaluation-SAN-Review",
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Francis_Principles-Guidelines",
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Huang_SONG",
+   "2026_Kabir_DRL-SAN-Survey"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "SocialAttention",
+  "title": "Social attention: Modeling attention in human crowds",
+  "authors": "A. Vemula, K. Muelling, J. Oh",
+  "year": 2018,
+  "venue_as_cited": "ICRA 2018 (arXiv:1710.04689)",
+  "relevance": "Prediction method.",
+  "proposed_category": "S2 (prediction)",
+  "priority": "Medium",
+  "scope": "support",
+  "citing_ids": [
+   "2019_Chen_SARL-CrowdNav",
+   "2021_Moller_Human-Aware-Navigation-Survey",
+   "2022_Biswas_SocNavBench",
+   "2022_Gao_Evaluation-SAN-Review",
+   "2023_Mavrogiannis_Core-Challenges-Survey",
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2024_Singamaneni_SAN-Taxonomy-Survey"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "SDD",
+  "title": "Learning social etiquette: Human trajectory understanding in crowded scenes (Stanford Drone Dataset)",
+  "authors": "A. Robicquet, A. Sadeghian, A. Alahi, S. Savarese",
+  "year": 2016,
+  "venue_as_cited": "ECCV 2016",
+  "relevance": "Trajectory dataset (Cai Table 2).",
+  "proposed_category": "S6 (prediction dataset)",
+  "priority": "Medium",
+  "scope": "support",
+  "citing_ids": [
+   "2019_Chen_SARL-CrowdNav",
+   "2021_Moller_Human-Aware-Navigation-Survey",
+   "2022_Gao_Evaluation-SAN-Review",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark",
+   "2025_Francis_Principles-Guidelines",
+   "2026_Cai_VLM-Deployable-SRN-Survey"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "XiaoMLsurvey",
+  "title": "Motion planning and control for mobile robot navigation using machine learning: A survey",
+  "authors": "X. Xiao, B. Liu, G. Warnell, P. Stone",
+  "year": 2022,
+  "venue_as_cited": "Autonomous Robots 46(5):569-597",
+  "relevance": "Learning-based navigation survey for positioning.",
+  "proposed_category": "S0",
+  "priority": "Medium",
+  "scope": "support",
+  "citing_ids": [
+   "2024_Mirsky_Conflict-Avoidance-Survey",
+   "2024_Raj_Hybrid-Social-Nav",
+   "2025_Francis_Principles-Guidelines",
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Pan_Foundation-LM-Navigation-Review",
+   "2026_Payandeh_Narrate2Nav"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "InnerMonologue",
+  "title": "Inner Monologue: Embodied reasoning through planning with language models",
+  "authors": "W. Huang et al.",
+  "year": 2022,
+  "venue_as_cited": "CoRL 2022 (arXiv:2207.05608)",
+  "relevance": "LLM closed-loop feedback planning.",
+  "proposed_category": "S3",
+  "priority": "Medium",
+  "scope": "support",
+  "citing_ids": [
+   "2023_Driess_PaLM-E",
+   "2023_Huang_VLMaps",
+   "2023_Huang_VoxPoser",
+   "2023_Liang_Code-as-Policies",
+   "2026_Liu_MUSON"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "SoPhie",
+  "title": "SoPhie: An attentive GAN for predicting paths compliant to social and physical constraints",
+  "authors": "A. Sadeghian et al.",
+  "year": 2019,
+  "venue_as_cited": "CVPR 2019 (arXiv:1806.01482)",
+  "relevance": "Prediction method.",
+  "proposed_category": "S2 (prediction)",
+  "priority": "Medium",
+  "scope": "support",
+  "citing_ids": [
+   "2019_Chen_SARL-CrowdNav",
+   "2022_Biswas_SocNavBench",
+   "2022_Gao_Evaluation-SAN-Review",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "ZiebartMaxEnt",
+  "title": "Maximum entropy inverse reinforcement learning",
+  "authors": "B. Ziebart, A. Maas, J. Bagnell, A. Dey",
+  "year": 2008,
+  "venue_as_cited": "AAAI 2008",
+  "relevance": "Foundation of the IRL papers in the corpus (Kuderer, Kretzschmar).",
+  "proposed_category": "S2",
+  "priority": "Medium",
+  "scope": "support",
+  "citing_ids": [
+   "2012_Kuderer_Feature-Based-Prediction",
+   "2016_Kretzschmar_Socially-Compliant-IRL",
+   "2024_Karwowski_Requirements-Planning-Evaluation-Review",
+   "2025_Alyassi_Learning-SocialNav-Review-Benchmark"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "DynaBARN",
+  "title": "DynaBARN: Benchmarking metric ground navigation in dynamic environments",
+  "authors": "A. Nair, F. Jiang, K. Hou, Z. Xu, S. Li, X. Xiao, P. Stone",
+  "year": 2022,
+  "venue_as_cited": "IEEE SSRR 2022, pp. 347-352",
+  "relevance": "Dynamic-obstacle benchmark (not human-specific).",
+  "proposed_category": "S6",
+  "priority": "Medium",
+  "scope": "support",
+  "citing_ids": [
+   "2024_Shcherbyna_Arena-4.0",
+   "2025_Francis_Principles-Guidelines",
+   "2026_Cai_VLM-Deployable-SRN-Survey"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "Firoozi",
+  "title": "Foundation models in robotics: Applications, challenges, and the future",
+  "authors": "R. Firoozi et al.",
+  "year": 2023,
+  "venue_as_cited": "arXiv:2312.07843",
+  "relevance": "General FM-robotics survey for positioning.",
+  "proposed_category": "S0",
+  "priority": "Medium",
+  "scope": "support",
+  "citing_ids": [
+   "2024_Sathyamoorthy_CoNVOI",
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Pan_Foundation-LM-Navigation-Review"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "SocNavGym",
+  "title": "SocNavGym",
+  "authors": "Not determined",
+  "year": "Not determined",
+  "venue_as_cited": "Not determined",
+  "relevance": "Social-navigation RL environment (Cai \u00a74.2).",
+  "proposed_category": "S6",
+  "priority": "Medium",
+  "scope": "core",
+  "citing_ids": [
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Kabir_DRL-SAN-Survey"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "SpatialVLM",
+  "title": "SpatialVLM",
+  "authors": "B. Chen et al.",
+  "year": 2024,
+  "venue_as_cited": "CVPR 2024 (verify)",
+  "relevance": "Spatial-reasoning VLM; motivates Social-LLaVA and Cai \u00a73.1.",
+  "proposed_category": "S3",
+  "priority": "Medium",
+  "scope": "support",
+  "citing_ids": [
+   "2025_Payandeh_Social-LLaVA",
+   "2026_Cai_VLM-Deployable-SRN-Survey"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "Socratic",
+  "title": "Socratic Models: Composing zero-shot multimodal reasoning with language",
+  "authors": "A. Zeng et al.",
+  "year": 2022,
+  "venue_as_cited": "arXiv:2204.00598",
+  "relevance": "Modular FM composition.",
+  "proposed_category": "S3",
+  "priority": "Low",
+  "scope": "peripheral",
+  "citing_ids": [
+   "2022_Shah_LM-Nav",
+   "2023_Driess_PaLM-E",
+   "2023_Huang_VLMaps",
+   "2023_Huang_VoxPoser",
+   "2023_Liang_Code-as-Policies",
+   "2024_Holk_PREDILECT"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "CityWalker",
+  "title": "CityWalker",
+  "authors": "Not determined",
+  "year": 2025,
+  "venue_as_cited": "CVPR 2025 (verify)",
+  "relevance": "Navigation from internet-scale walking videos; cited by SocialNav (CVPR) and G2-Nav.",
+  "proposed_category": "S3",
+  "priority": "Low",
+  "scope": "peripheral",
+  "citing_ids": [
+   "2026_Chen_SocialNav-CVPR",
+   "2026_Liao_G2-Nav",
+   "2026_Payandeh_Narrate2Nav",
+   "2026_Zhang_Walk-With-Me"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "MapGPT",
+  "title": "MapGPT: Map-guided prompting with adaptive path planning for vision-and-language navigation",
+  "authors": "J. Chen et al.",
+  "year": 2024,
+  "venue_as_cited": "ACL 2024",
+  "relevance": "LLM VLN baseline in HCSG.",
+  "proposed_category": "S3",
+  "priority": "Low",
+  "scope": "peripheral",
+  "citing_ids": [
+   "2024_Yu_PANav",
+   "2026_Xu_HCSG",
+   "2026_Zhang_AHead-VLN",
+   "2026_Zhang_Walk-With-Me"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "CoW",
+  "title": "CLIP on Wheels: Open-vocabulary models are (almost) zero-shot object navigators",
+  "authors": "S. Y. Gadre et al.",
+  "year": 2022,
+  "venue_as_cited": "arXiv:2203.10421 (CVPR 2023 - verify)",
+  "relevance": "Zero-shot ObjectNav baseline.",
+  "proposed_category": "S3",
+  "priority": "Low",
+  "scope": "peripheral",
+  "citing_ids": [
+   "2023_Huang_VLMaps",
+   "2024_Yokoyama_VLFM",
+   "2024_Zhou_NavGPT"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "ESC",
+  "title": "ESC: Exploration with soft commonsense constraints for zero-shot object navigation",
+  "authors": "K. Zhou et al.",
+  "year": 2023,
+  "venue_as_cited": "arXiv:2301.13166 (ICML 2023 - verify)",
+  "relevance": "LLM commonsense ObjectNav.",
+  "proposed_category": "S3",
+  "priority": "Low",
+  "scope": "peripheral",
+  "citing_ids": [
+   "2024_Yokoyama_VLFM",
+   "2024_Zhou_NavGPT",
+   "2026_Pan_Foundation-LM-Navigation-Review"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "Gervet",
+  "title": "Navigating to objects in the real world",
+  "authors": "T. Gervet, S. Chintala, D. Batra, J. Malik, D. S. Chaplot",
+  "year": 2023,
+  "venue_as_cited": "Science Robotics",
+  "relevance": "Real-world ObjectNav study.",
+  "proposed_category": "S3",
+  "priority": "Low",
+  "scope": "peripheral",
+  "citing_ids": [
+   "2024_Sridhar_NoMaD",
+   "2024_Yokoyama_VLFM",
+   "2026_Cai_VLM-Deployable-SRN-Survey"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "L3MVN",
+  "title": "L3MVN: Leveraging large language models for visual target navigation",
+  "authors": "B. Yu, H. Kasaei, M. Cao",
+  "year": 2023,
+  "venue_as_cited": "IROS 2023, pp. 3554-3560",
+  "relevance": "LLM-guided target navigation.",
+  "proposed_category": "S3",
+  "priority": "Low",
+  "scope": "peripheral",
+  "citing_ids": [
+   "2025_Song_VLM-Social-Nav",
+   "2026_Elnoor_ViLAM",
+   "2026_Pan_Foundation-LM-Navigation-Review"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "OmniVLA",
+  "title": "OmniVLA",
+  "authors": "Not determined",
+  "year": 2025,
+  "venue_as_cited": "Not determined",
+  "relevance": "Omni-modal navigation VLA (Cai \u00a73.5).",
+  "proposed_category": "S3",
+  "priority": "Low",
+  "scope": "peripheral",
+  "citing_ids": [
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Fang_Group-Joining",
+   "2026_Wang_SALSA"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "RT-1",
+  "title": "RT-1: Robotics Transformer for real-world control at scale",
+  "authors": "A. Brohan et al.",
+  "year": 2022,
+  "venue_as_cited": "RSS 2023 (verify)",
+  "relevance": "Predecessor of RT-2 (in corpus).",
+  "proposed_category": "S3",
+  "priority": "Low",
+  "scope": "peripheral",
+  "citing_ids": [
+   "2023_Brohan_RT-2",
+   "2023_Driess_PaLM-E",
+   "2023_Shah_ViNT"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "ViKiNG",
+  "title": "ViKiNG: Vision-based kilometer-scale navigation with geographic hints",
+  "authors": "D. Shah, S. Levine",
+  "year": 2022,
+  "venue_as_cited": "RSS 2022",
+  "relevance": "Predecessor of GNM/ViNT (in corpus).",
+  "proposed_category": "S3",
+  "priority": "Low",
+  "scope": "peripheral",
+  "citing_ids": [
+   "2023_Shah_GNM",
+   "2023_Shah_ViNT",
+   "2024_Sridhar_NoMaD"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "ZSON",
+  "title": "ZSON: Zero-shot object-goal navigation using multimodal goal embeddings",
+  "authors": "A. Majumdar et al.",
+  "year": 2022,
+  "venue_as_cited": "NeurIPS 2022 (verify)",
+  "relevance": "Zero-shot ObjectNav baseline.",
+  "proposed_category": "S3",
+  "priority": "Low",
+  "scope": "peripheral",
+  "citing_ids": [
+   "2024_Yokoyama_VLFM",
+   "2024_Zhou_NavGPT",
+   "2025_Weerakoon_BehAV"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "LLM-ObjNav-LGX",
+  "title": "LGX: Can an embodied agent find your \"cat-shaped mug\"?",
+  "authors": "V. S. Dorbala et al.",
+  "year": 2023,
+  "venue_as_cited": "ICRA 2023 (verify)",
+  "relevance": "LLM zero-shot ObjectNav.",
+  "proposed_category": "S3",
+  "priority": "Low",
+  "scope": "peripheral",
+  "citing_ids": [
+   "2024_Yokoyama_VLFM",
+   "2024_Zhou_NavGPT"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "LeLaN",
+  "title": "LeLaN: Learning a language-conditioned navigation policy from in-the-wild videos",
+  "authors": "N. Hirose, C. Glossop, A. Sridhar, D. Shah, O. Mees, S. Levine",
+  "year": 2024,
+  "venue_as_cited": "arXiv:2410.03603",
+  "relevance": "VLM-labelled navigation data (Cai \u00a73.1).",
+  "proposed_category": "S3",
+  "priority": "Low",
+  "scope": "peripheral",
+  "citing_ids": [
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Payandeh_Narrate2Nav"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "NWM",
+  "title": "Navigation world models",
+  "authors": "A. Bar, G. Zhou, D. Tran, T. Darrell, Y. LeCun",
+  "year": 2025,
+  "venue_as_cited": "CVPR 2025, pp. 15791-15801",
+  "relevance": "World-model navigation (cited by G2-Nav).",
+  "proposed_category": "S3",
+  "priority": "Low",
+  "scope": "peripheral",
+  "citing_ids": [
+   "2025_Wang_SAMALM",
+   "2026_Liao_G2-Nav"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "NavCoT",
+  "title": "NavCoT",
+  "authors": "B. Lin et al.",
+  "year": 2025,
+  "venue_as_cited": "Not determined",
+  "relevance": "CoT VLN baseline in HA-VLN 2.0.",
+  "proposed_category": "S3",
+  "priority": "Low",
+  "scope": "peripheral",
+  "citing_ids": [
+   "2026_Dong_HA-VLN-2.0",
+   "2026_Wang_LE-Nav"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "OpenVLA",
+  "title": "OpenVLA",
+  "authors": "M. J. Kim et al.",
+  "year": 2024,
+  "venue_as_cited": "CoRL 2024 (verify)",
+  "relevance": "Open VLA (Cai \u00a73.5).",
+  "proposed_category": "S3",
+  "priority": "Low",
+  "scope": "peripheral",
+  "citing_ids": [
+   "2026_Cai_VLM-Deployable-SRN-Survey",
+   "2026_Wang_SALSA"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "CoNav",
+  "title": "CoNav benchmark",
+  "authors": "Li et al.",
+  "year": "Not determined",
+  "venue_as_cited": "Not determined",
+  "relevance": "Dynamic-pedestrian benchmark cited by Arena 4.0.",
+  "proposed_category": "S6",
+  "priority": "Low",
+  "scope": "support",
+  "citing_ids": [
+   "2024_Shcherbyna_Arena-4.0"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "DR-MPC",
+  "title": "DR-MPC: Deep residual model predictive control for real-world social navigation",
+  "authors": "J. R. Han, H. Thomas, J. Zhang, N. Rhinehart, T. D. Barfoot",
+  "year": 2025,
+  "venue_as_cited": "IEEE RA-L 10(4):4029-4036",
+  "relevance": "Recent real-world social-navigation method.",
+  "proposed_category": "S2",
+  "priority": "Low",
+  "scope": "core",
+  "citing_ids": [
+   "2026_Fang_Obstacles-to-Etiquette"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "Gesture2Path",
+  "title": "Gesture2Path: Imitation learning for gesture-aware navigation",
+  "authors": "C. Cuan, E. Lee, E. Fisher, A. Francis, L. Takayama, T. Zhang, A. Toshev, S. Pirk",
+  "year": 2024,
+  "venue_as_cited": "ICSR 2024, pp. 264-279 (arXiv:2209.09375)",
+  "relevance": "Gesture-aware navigation (C23); non-FM.",
+  "proposed_category": "S2",
+  "priority": "Low",
+  "scope": "core",
+  "citing_ids": [
+   "2025_Francis_Principles-Guidelines"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "MultiSoc",
+  "title": "MultiSoc",
+  "authors": "Escudie et al.",
+  "year": 2024,
+  "venue_as_cited": "Not determined",
+  "relevance": "GNN trajectory-prediction baseline used by OLiVia-Nav.",
+  "proposed_category": "S2",
+  "priority": "Low",
+  "scope": "support",
+  "citing_ids": [
+   "2025_Narasimhan_OLiVia-Nav"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "Octo",
+  "title": "Octo: An open-source generalist robot policy",
+  "authors": "Octo Model Team",
+  "year": 2024,
+  "venue_as_cited": "RSS 2024 (verify)",
+  "relevance": "Generalist policy (Cai \u00a73.5).",
+  "proposed_category": "S3",
+  "priority": "Low",
+  "scope": "peripheral",
+  "citing_ids": [
+   "2026_Cai_VLM-Deployable-SRN-Survey"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ },
+ {
+  "key": "Trajectron",
+  "title": "Trajectron++: Dynamically-feasible trajectory forecasting with heterogeneous data",
+  "authors": "T. Salzmann et al.",
+  "year": 2020,
+  "venue_as_cited": "ECCV 2020",
+  "relevance": "Prediction method; cited only by AHead-VLN (Stage 9 addition).",
+  "proposed_category": "S2 (prediction)",
+  "priority": "Low",
+  "scope": "support",
+  "citing_ids": [
+   "2026_Zhang_AHead-VLN"
+  ],
+  "decision": "BACKGROUND ONLY: pedestrian-prediction method/dataset (fails A and B); cite for C5/C6 background"
+ },
+ {
+  "key": "TsoiHRI2024",
+  "title": "How do robot experts measure the success of social robot navigation?",
+  "authors": "N. Tsoi, J. Romero, M. Vazquez",
+  "year": 2024,
+  "venue_as_cited": "HRI 2024 Companion",
+  "relevance": "Expert survey on social-navigation metrics; supports metric analysis.",
+  "proposed_category": "S0/S6 (evaluation)",
+  "priority": "Low",
+  "scope": "core",
+  "citing_ids": [
+   "2025_Song_VLM-Social-Nav"
+  ],
+  "decision": "Not individually screened in Stage 2 (below Critical/High); treated as BACKGROUND ONLY by default"
+ }
+]

@@ -1,0 +1,56 @@
+# Table S8. Code dictionary of the five coding dimensions and the cross-cutting attributes
+
+Machine-readable version: `S8_code_dictionary.csv`. Definitions: manuscript Section 5.
+
+| Dimension | Code | Label | Definition or values |
+|---|---|---|---|
+| A Social representation | A0 | Not represented | Humans absent, or present only as instruction givers |
+| A Social representation | A1 | Kinematic agent | Tracked position, velocity or disc |
+| A Social representation | A2 | Predicted motion | Trajectory forecasts or distributions |
+| A Social representation | A3 | Social-space field | Proxemic potentials, personal or group spaces, social cost layers |
+| A Social representation | A4 | Relational or interaction structure | Pairwise interactions, graphs, attention over agents, groups as relations |
+| A Social representation | A5 | Symbolic or linguistic description | Attributes, activities, intents or rules expressed in language or symbols |
+| A Social representation | A6 | Implicit or latent | Raw images interpreted by a learned model; humans only as embeddings |
+| B FM role | R1 | Scene and context interpretation | Non-human context: place type, traversability, objects, situation |
+| B FM role | R2 | Human-state and relation inference | Motion, intent, activity, identity, group membership, crowding |
+| B FM role | R3 | Social-norm reasoning and behaviour selection | The FM itself infers what is socially appropriate and selects the behaviour |
+| B FM role | R4 | Instruction and preference grounding | Norms, preferences or tasks given in language are translated into plans, constraints or parameters |
+| B FM role | R5 | Human-facing communication | Dialogue or explanations delivered to people |
+| C Social capability | SAF1 | Collision avoidance | Evaluated: dedicated metric or systematic scenario-specific criterion; addressed: targeted without such a measure |
+| C Social capability | SAF2 | Near-collision or risk margin | Evaluated: dedicated metric or systematic scenario-specific criterion; addressed: targeted without such a measure |
+| C Social capability | SPA1 | Personal space | Evaluated: dedicated metric or systematic scenario-specific criterion; addressed: targeted without such a measure |
+| C Social capability | SPA2 | Group and conversation space | Evaluated: dedicated metric or systematic scenario-specific criterion; addressed: targeted without such a measure |
+| C Social capability | SPA3 | Encounter conventions (passing side, yielding, queueing) | Evaluated: dedicated metric or systematic scenario-specific criterion; addressed: targeted without such a measure |
+| C Social capability | SPA4 | Crowd navigation | Evaluated: dedicated metric or systematic scenario-specific criterion; addressed: targeted without such a measure |
+| C Social capability | HUM1 | Motion understanding or prediction | Evaluated: dedicated metric or systematic scenario-specific criterion; addressed: targeted without such a measure |
+| C Social capability | HUM2 | Intention or activity inference | Evaluated: dedicated metric or systematic scenario-specific criterion; addressed: targeted without such a measure |
+| C Social capability | NOR1 | Etiquette and politeness | Evaluated: dedicated metric or systematic scenario-specific criterion; addressed: targeted without such a measure |
+| C Social capability | NOR2 | Explicit social-instruction following | Evaluated: dedicated metric or systematic scenario-specific criterion; addressed: targeted without such a measure |
+| C Social capability | NOR3 | Context-dependent conduct | Evaluated: dedicated metric or systematic scenario-specific criterion; addressed: targeted without such a measure |
+| C Social capability | NOR4 | Cultural or norm adaptation | Evaluated: dedicated metric or systematic scenario-specific criterion; addressed: targeted without such a measure |
+| C Social capability | EXP1 | Perceived safety and comfort | Evaluated: dedicated metric or systematic scenario-specific criterion; addressed: targeted without such a measure |
+| C Social capability | EXP2 | Legibility and predictability | Evaluated: dedicated metric or systematic scenario-specific criterion; addressed: targeted without such a measure |
+| C Social capability | EXP3 | Naturalness | Evaluated: dedicated metric or systematic scenario-specific criterion; addressed: targeted without such a measure |
+| D Navigation interface | D0 | Non-executed decision | FM output compared with annotations; not executed |
+| D Navigation interface | D1 | Semantic or social state | Groups, intents, activities passed to a planner |
+| D Navigation interface | D2 | Candidate selection | FM chooses among planner-generated options |
+| D Navigation interface | D3 | Objective, constraint or parameter shaping | FM sets costs, constraints or controller parameters |
+| D Navigation interface | D4 | Goal, waypoint or reference trajectory | FM specifies where to go |
+| D Navigation interface | D5 | Runtime latent conditioning | FM embeddings or tokens condition a learned policy |
+| D Navigation interface | D6 | Direct action | FM or an FM-based policy (e.g. a VLA) outputs velocities or trajectories without an intervening planner selecting the motion; an FM-independent safety guard is coded separately |
+| D Navigation interface | D7 | Training-time supervision | FM supplies labels, rewards or distillation targets; no FM at runtime |
+| D Navigation interface | D8 | Human-facing channel | Dialogue or explanations sent to people |
+| E Evidence profile | EV1 | Offline evaluation | Yes / No |
+| E Evidence profile | EV2 | Closed-loop simulation | Yes / No |
+| E Evidence profile | EV3 | Physical robot | none / demonstration / systematic |
+| E Evidence profile | EV4 | Real people in robot trials | none / simulated only / staged / unscripted / present, type unreported / not reported |
+| E Evidence profile | EV5 | Human evaluation | none / text raters / observers or video raters / co-present participants |
+| E Evidence profile | EV6 | Open-world or long-duration deployment | Yes / No |
+| Cross-cutting attribute | coupling | Temporal coupling | per decision / asynchronous slow-fast / event-triggered / offline / training only |
+| Cross-cutting attribute | guard | FM-independent safety guard | Safety that does not rely on the FM being correct (CBF filter, reflex layer, constrained optimiser, feasible-candidate restriction) |
+| Cross-cutting attribute | uncertainty | Uncertainty treatment | explicit / partial / none |
+| Cross-cutting attribute | hallucination | Hallucination mitigation | structural / prompt or training level / none |
+| Cross-cutting attribute | location | Inference location | on board / local server / remote server / cloud API / hybrid |
+| Cross-cutting attribute | memory | Memory and continual adaptation | Persistent state across episodes |
+| Cross-cutting attribute | privacy | Privacy constraint | Privacy treated as an objective or constraint |
+| Cross-cutting attribute | explanation | Explanation output | Text delivered to people |

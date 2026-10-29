@@ -1,0 +1,260 @@
+{
+ "_comment": "Stage 7 (2026-10-19): verified metadata for background anchors previously 'as cited'. Read by build_bib.py; each entry lists its authoritative sources. Do not add fields that a source does not state.",
+ "Hall1966HallHidden": {
+  "status": "VERIFIED",
+  "type": "book",
+  "fields": {
+   "author": "Hall, Edward T.",
+   "title": "{The Hidden Dimension}",
+   "year": "1966",
+   "publisher": "Doubleday",
+   "address": "Garden City, NY"
+  },
+  "sources": [
+   "https://dev-www.nypl.org/research/research-catalog/bib/b11504228 (library catalogue: Garden City, N.Y.: Doubleday, 1966)",
+   "https://doi.org/10.1177/001316446602600462 (1966 book review: Doubleday)"
+  ],
+  "changes": "type misc->book; publisher corrected from 'Anchor Books' (a later paperback imprint) to Doubleday 1966; author name expanded; no DOI exists for the book"
+ },
+ "al2023Habitat3": {
+  "status": "VERIFIED",
+  "type": "inproceedings",
+  "fields": {
+   "author": "Puig, Xavier and Undersander, Eric and Szot, Andrew and Dallaire Cote, Mikael and Yang, Tsung-Yen and Partsey, Ruslan and Desai, Ruta and Clegg, Alexander William and Hlavac, Michal and Min, So Yeon and Vondru{\\v{s}}, Vladim{\\'i}r and Gervet, Theophile and Berges, Vincent-Pierre and Turner, John M. and Maksymets, Oleksandr and Kira, Zsolt and Kalakrishnan, Mrinal and Malik, Jitendra and Chaplot, Devendra Singh and Jain, Unnat and Batra, Dhruv and Rai, Akshara and Mottaghi, Roozbeh",
+   "title": "{Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots}",
+   "booktitle": "International Conference on Learning Representations (ICLR)",
+   "year": "2024",
+   "url": "https://iclr.cc/virtual/2024/poster/19442",
+   "note": "arXiv:2310.13724"
+  },
+  "sources": [
+   "https://arxiv.org/abs/2310.13724 (title, 23 authors)",
+   "https://iclr.cc/virtual/2024/poster/19442 (ICLR 2024)"
+  ],
+  "changes": "venue ICLR 2024 added; full author list; ICLR has no DOI or page numbers"
+ },
+ "Pirk2022PirkProtocol": {
+  "status": "VERIFIED",
+  "type": "misc",
+  "fields": {
+   "author": "Pirk, S{\\\"o}ren and Lee, Edward and Xiao, Xuesu and Takayama, Leila and Francis, Anthony and Toshev, Alexander",
+   "title": "{A Protocol for Validating Social Navigation Policies}",
+   "year": "2022",
+   "howpublished": "arXiv:2204.05443",
+   "url": "https://arxiv.org/abs/2204.05443",
+   "note": "Presented at the ICRA 2022 Workshop on Social Robot Navigation: Advances and Evaluation"
+  },
+  "sources": [
+   "https://arxiv.org/abs/2204.05443 (authors; comment: ICRA workshop 'Social Robot Navigation: Advances and Evaluation')"
+  ],
+  "changes": "full names; workshop presentation recorded; no archival proceedings or DOI"
+ },
+ "Mavrogiannis2018SocialMomentum": {
+  "status": "VERIFIED",
+  "type": "inproceedings",
+  "fields": {
+   "author": "Mavrogiannis, Christoforos I. and Thomason, Wil B. and Knepper, Ross A.",
+   "title": "{Social Momentum: A Framework for Legible Navigation in Dynamic Multi-Agent Environments}",
+   "booktitle": "Proceedings of the 2018 ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
+   "year": "2018",
+   "pages": "361--369",
+   "doi": "10.1145/3171221.3171255",
+   "publisher": "ACM"
+  },
+  "sources": [
+   "https://doi.org/10.1145/3171221.3171255 (Crossref record)"
+  ],
+  "changes": "type misc->inproceedings; pages, DOI, publisher added"
+ },
+ "al2021JRDB": {
+  "status": "VERIFIED",
+  "type": "article",
+  "fields": {
+   "author": "Mart{\\'i}n-Mart{\\'i}n, Roberto and Patel, Mihir and Rezatofighi, Hamid and Shenoi, Abhijeet and Gwak, JunYoung and Frankel, Eric and Sadeghian, Amir and Savarese, Silvio",
+   "title": "{JRDB: A Dataset and Benchmark of Egocentric Robot Visual Perception of Humans in Built Environments}",
+   "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+   "year": "2023",
+   "volume": "45",
+   "number": "6",
+   "pages": "6748--6765",
+   "doi": "10.1109/TPAMI.2021.3070543",
+   "publisher": "IEEE"
+  },
+  "sources": [
+   "https://doi.org/10.1109/TPAMI.2021.3070543 (Crossref record; issue published June 2023, early access 2021)"
+  ],
+  "changes": "type misc->article; year 2021->2023 (issue year; the citation key keeps its original identifier); volume, issue, pages, DOI, full author list"
+ },
+ "Wang2022GMPC": {
+  "status": "VERIFIED",
+  "type": "inproceedings",
+  "fields": {
+   "author": "Wang, Allan and Mavrogiannis, Christoforos and Steinfeld, Aaron",
+   "title": "{Group-based Motion Prediction for Navigation in Crowded Environments}",
+   "booktitle": "Proceedings of the 5th Conference on Robot Learning (CoRL)",
+   "series": "Proceedings of Machine Learning Research",
+   "volume": "164",
+   "pages": "871--882",
+   "year": "2022",
+   "publisher": "PMLR",
+   "url": "https://proceedings.mlr.press/v164/wang22e.html"
+  },
+  "sources": [
+   "https://proceedings.mlr.press/v164/wang22e.html"
+  ],
+  "changes": "type misc->inproceedings; PMLR volume and pages; no DOI exists (PMLR)"
+ },
+ "Hirose2024SELFI": {
+  "status": "VERIFIED",
+  "type": "inproceedings",
+  "fields": {
+   "author": "Hirose, Noriaki and Shah, Dhruv and Stachowicz, Kyle and Sridhar, Ajay and Levine, Sergey",
+   "title": "{SELFI: Autonomous Self-Improvement with RL for Vision-Based Navigation around People}",
+   "booktitle": "Proceedings of the 8th Conference on Robot Learning (CoRL)",
+   "series": "Proceedings of Machine Learning Research",
+   "volume": "270",
+   "pages": "97--116",
+   "year": "2025",
+   "publisher": "PMLR",
+   "url": "https://proceedings.mlr.press/v270/hirose25a.html",
+   "note": "arXiv version: SELFI: Autonomous Self-Improvement with Reinforcement Learning for Social Navigation (arXiv:2403.00991)"
+  },
+  "sources": [
+   "https://proceedings.mlr.press/v270/hirose25a.html",
+   "https://arxiv.org/abs/2403.00991 (comment: CoRL 2024)"
+  ],
+  "changes": "published under a different title; PMLR volume and pages; no DOI exists (PMLR)"
+ },
+ "Sprague2023SocialGym": {
+  "status": "VERIFIED",
+  "type": "inproceedings",
+  "fields": {
+   "author": "Chandra, Rohan and Sprague, Zayne and Biswas, Joydeep",
+   "title": "{SocialGym 2.0: Simulator for Multi-Robot Learning and Navigation in Shared Human Spaces}",
+   "booktitle": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "volume": "38",
+   "number": "21",
+   "pages": "23778--23780",
+   "year": "2024",
+   "doi": "10.1609/aaai.v38i21.30562",
+   "publisher": "AAAI",
+   "note": "Extended arXiv version: Sprague, Chandra, Holtz and Biswas, SocialGym 2.0: Simulator for Multi-Agent Social Robot Navigation in Shared Human Spaces (arXiv:2303.05584)"
+  },
+  "sources": [
+   "https://doi.org/10.1609/aaai.v38i21.30562 (Crossref record)",
+   "https://arxiv.org/abs/2303.05584"
+  ],
+  "changes": "published AAAI 2024 version cited (title and author order differ from the arXiv version, recorded in note)"
+ },
+ "al2024PIVOT": {
+  "status": "VERIFIED",
+  "type": "inproceedings",
+  "fields": {
+   "author": "Nasiriany, Soroush and Xia, Fei and Yu, Wenhao and Xiao, Ted and Liang, Jacky and Dasgupta, Ishita and Xie, Annie and Driess, Danny and Wahid, Ayzaan and Xu, Zhuo and Vuong, Quan and Zhang, Tingnan and Lee, Tsang-Wei Edward and Lee, Kuang-Huei and Xu, Peng and Kirmani, Sean and Zhu, Yuke and Zeng, Andy and Hausman, Karol and Heess, Nicolas and Finn, Chelsea and Levine, Sergey and Ichter, Brian",
+   "title": "{PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs}",
+   "booktitle": "Proceedings of the 41st International Conference on Machine Learning (ICML)",
+   "series": "Proceedings of Machine Learning Research",
+   "volume": "235",
+   "pages": "37321--37341",
+   "year": "2024",
+   "publisher": "PMLR",
+   "url": "https://proceedings.mlr.press/v235/nasiriany24a.html"
+  },
+  "sources": [
+   "https://proceedings.mlr.press/v235/nasiriany24a.html"
+  ],
+  "changes": "type misc->inproceedings; full author list, PMLR volume and pages; no DOI exists (PMLR)"
+ },
+ "2022SocNav2": {
+  "status": "VERIFIED",
+  "type": "article",
+  "fields": {
+   "author": "Bachiller, P. and Rodriguez-Criado, D. and Jorvekar, R. R. and Bustos, P. and Faria, D. R. and Manso, L. J.",
+   "title": "{A Graph Neural Network to Model Disruption in Human-Aware Robot Navigation}",
+   "journal": "Multimedia Tools and Applications",
+   "year": "2022",
+   "volume": "81",
+   "number": "3",
+   "pages": "3277--3295",
+   "doi": "10.1007/s11042-021-11113-6",
+   "publisher": "Springer",
+   "note": "Introduces the SocNav2 dataset"
+  },
+  "sources": [
+   "https://doi.org/10.1007/s11042-021-11113-6 (Crossref record)",
+   "https://arxiv.org/abs/2102.08863"
+  ],
+  "changes": "the anchor 'SocNav2 dataset' resolved to the paper that introduces it; full bibliographic record"
+ },
+ "Kirby2010KirbyCOMPANION": {
+  "status": "VERIFIED",
+  "type": "phdthesis",
+  "fields": {
+   "author": "Kirby, Rachel",
+   "title": "{Social Robot Navigation}",
+   "school": "Carnegie Mellon University",
+   "address": "Pittsburgh, PA",
+   "year": "2010",
+   "month": "May",
+   "note": "Tech. Rep. CMU-RI-TR-10-13"
+  },
+  "sources": [
+   "https://publications.ri.cmu.edu/social-robot-navigation",
+   "https://kilthub.cmu.edu/articles/thesis/Social_Robot_Navigation/6722924"
+  ],
+  "changes": "title corrected to the thesis title (COMPANION is the framework inside it); type phdthesis; report number"
+ },
+ "Xiao2026ProbingPrompt": {
+  "status": "VERIFIED",
+  "type": "misc",
+  "fields": {
+   "author": "Xiao, Ling and Yamasaki, Toshihiko",
+   "title": "{Probing Prompt Design for Socially Compliant Robot Navigation with Vision Language Models}",
+   "year": "2026",
+   "howpublished": "arXiv:2601.14622",
+   "url": "https://arxiv.org/abs/2601.14622",
+   "note": "arXiv preprint; related to the JSAI 2026 paper by the same authors"
+  },
+  "sources": [
+   "https://arxiv.org/abs/2601.14622 (v1, 21 Jan 2026)"
+  ],
+  "changes": "full names; relation to the corpus JSAI paper recorded"
+ },
+ "Zhang2026AHeadVLN": {
+  "status": "VERIFIED",
+  "type": "inproceedings",
+  "extra": true,
+  "fields": {
+   "author": "Zhang, Junyi and Luo, Ziwen and Zhou, Yinzhe and Chu, Xinghe and Lu, Zhaoming",
+   "title": "{AHead-VLN: A Hierarchical Reasoning Framework Guided by Foresight for Human-Aware Navigation}",
+   "booktitle": "Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence (IJCAI)",
+   "pages": "6254--6262",
+   "year": "2026",
+   "doi": "10.24963/ijcai.2026/696"
+  },
+  "sources": [
+   "https://www.ijcai.org/proceedings/2026/696",
+   "https://doi.org/10.24963/ijcai.2026/696"
+  ],
+  "changes": "Stage-7 freshness search: late-indexed venue-only direct-scope paper; cited in the method limitations, not coded (see FINAL_FRESHNESS_SEARCH.md)"
+ },
+ "Cosio2026LiSSEN": {
+  "status": "VERIFIED",
+  "type": "inproceedings",
+  "extra": true,
+  "fields": {
+   "author": "Cosio, Jordan and Pikuli, Dhimiter and Lopez, Thibaut and Alameda-Pineda, Xavier and Wieber, Pierre-Brice",
+   "title": "{LiSSEN: Generating Language-Grounded Safe Social Navigation in Crowded Environments}",
+   "booktitle": "2026 IEEE 35th International Conference on Robot and Human Interactive Communication (RO-MAN)",
+   "pages": "652--659",
+   "year": "2026",
+   "doi": "10.1109/RO-MAN72286.2026.11714560",
+   "publisher": "IEEE"
+  },
+  "sources": [
+   "https://doi.org/10.1109/RO-MAN72286.2026.11714560 (Crossref record)",
+   "https://api.archives-ouvertes.fr (HAL hal-05673120 abstract)"
+  ],
+  "changes": "Stage 9: non-FM language-conditioned social navigation (fails criterion B); cited as background in Section VII-B (LISSEN_DECISION.md)"
+ }
+}

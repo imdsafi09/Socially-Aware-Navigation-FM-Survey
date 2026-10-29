@@ -1,0 +1,50 @@
+QUERY: ("social robot navigation" OR "pedestrian-aware" OR "norm-aware" OR "social norms" OR "group navigation" OR "F-formation" OR legibility OR politeness OR "social reasoning" OR "social instruction" OR "context-aware navigation" OR "human-robot interaction" OR pedestrians OR "human-centric") AND "robot navigation" AND ("large language model" OR LLM OR "vision-language" OR VLM OR "foundation model" OR "vision-language-action" OR "multimodal large language model" OR "large multimodal model")
+FIELD: All Metadata; RANGE: 2023-2026; RUN: 2026-10-26 via browser; RAW RESULTS: 48
+Human-robot Interactive Task Parsing Method Based on Large Language Model | /document/10792719/ | 2024
+VLM-Social-Nav: Socially Aware Robot Navigation Through Scoring Using Vision-Language Models | /document/10777573/ | 2025
+Multi-Functional AI Robotics: Integrating SLAM, LLM, and Expressive Motion for Human Companionship | /document/11400771/ | 2025
+From Obstacles to Etiquette: Robot Social Navigation With VLM-Informed Path Selection | /document/11373887/ | 2026
+Social-LLaVA: Enhancing Social Robot Navigation through Human-Language Reasoning | /document/11247618/ | 2025
+Language and Sketching: An LLM-driven Interactive Multimodal Multitask Robot Navigation Framework | /document/10611462/ | 2024
+Texting-While-Walking Detection in Real-World Environments Using Vision-Language Models with Prompt Engineering | /document/11404653/ | 2026
+LLM-Enhanced Mobile Robot Navigation and Scene Description for Indoor Environments | /document/11121634/ | 2025
+LLM - Driven Adaptive Autonomous Robot Navigation via Multimodal Fusion for Diverse Environments | /document/11097694/ | 2025
+Reducing Latency in LLM-Based Natural Language Commands Processing for Robot Navigation | /document/11338698/ | 2025
+CoNVOI: Context-aware Navigation using Vision Language Models in Outdoor and Indoor Environments | /document/10802716/ | 2024
+SAHABAT: An Interactive LLM-Powered Tour Guide Robot for IIUM Gallery | /document/11726310/ | 2026
+How do Foundation Models Compare to Skeleton-Based Approaches for Gesture Recognition in Human-Robot Interaction? | /document/11217528/ | 2025
+LLM-Guided Multi-Agent System for Natural Language-Based Robot Navigation | /document/11105295/ | 2025
+Socially-Aware Robot Navigation Enhanced by Bidirectional Natural Language Conversations Using Large Language Models | /document/11246738/ | 2025
+Agentic Llm-Driven Human-Robot Interaction | /document/11623576/ | 2026
+Exophora Resolution of Linguistic Instructions with a Demonstrative based on Real-World Multimodal Information | /document/10309487/ | 2023
+GSON: A Group-Based Social Navigation Framework With Large Multimodal Model | /document/11106758/ | 2025
+Spatial Context-Aware VLM-Assisted Goal Reasoning for Navigation in Guide Service Robots | /document/11602162/ | 2026
+A Vision-Language Framework for Assistive Home Robotics | /document/11163226/ | 2025
+Temporal Semantic Grounding for Vision-Language Navigation: A Multi-Agent Approach to Persistent Object Tracking in Indoor Environments | /document/11716806/ | 2026
+CogAAL: A Privacy-Preserving, Full-Stack Cognitive Architecture Integrating Local VLMs, Heterogeneous Robotics, and IoT for Proactive Ambient Assisted Living | /document/11659911/ | 2026
+RSG-VLN: Relevance Semantic Map Guided Vision-Language Navigation | /document/11423232/ | 2025
+RO-VLMap: Real-Time Occupancy-Aware Visual Language Mapping for Robust Robot Navigation | /document/11677832/ | 2026
+Navigation Explainability for Object Avoidance with LLMs for Assistive Robots | /document/11715000/ | 2026
+PREDILECT: Preferences Delineated with Zero-Shot Language-based Reasoning in Reinforcement Learning | /document/10661065/ | 2024
+Standards-Aligned Ethical Gating and Decision Telemetry for LLM-Assisted Mobile Robot Navigation: A Simulation Study | /document/11654303/ | 2026
+Intelligent Indoor Navigation for Home Robots based on Large Language Models | /document/11163777/ | 2025
+TrustNavGPT: Modeling Uncertainty to Improve Trustworthiness of Audio-Guided LLM-Based Robot Navigation | /document/10801932/ | 2024
+Hey Robot! Personalizing Robot Navigation Through Model Predictive Control with a Large Language Model | /document/11128826/ | 2025
+An LLM-based Architecture for Socially Intelligent Robot Navigation based on Social Cues | /document/11217843/ | 2025
+Transparent Social Navigation for Autonomous Mobile Robots Via Vision-Language Models | /document/11217693/ | 2025
+LLM-RLNav: Grounding Natural Language Instructions for Robots via LLM Decomposition and Reinforcement Learning | /document/11468430/ | 2025
+LLM-Based Task Planning for Mobile Robots Using a Novel SLAM Method for Materials Distribution | /document/10977631/ | 2025
+OLiVia-Nav: An Online Lifelong Vision Language Approach for Mobile Robot Social Navigation | /document/11128004/ | 2025
+MAction-SocialNav: Multi-Action Socially Compliant Navigation via Reasoning-Enhanced Prompt Tuning | /document/11576553/ | 2026
+SOPD-SocialNav: Selective On-Policy Distillation for Vision-Language Social Navigation | /document/11732522/ | 2026
+Language as Cost: Proactive Hazard Mapping using VLM for Robot Navigation | /document/11246665/ | 2025
+Behav: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes | /document/11127890/ | 2025
+Chat-Driven Reconfiguration of Model Predictive Control | /document/11540166/ | 2026
+LAD-VF: LLM-Automatic Differentiation Enables Fine-Tuning-Free Robot Planning from Formal Methods Feedback | /document/11695863/ | 2026
+Multi-modal Knowledge Distillation-based Human Trajectory Forecasting | /document/11094547/ | 2025
+Leveraging Large Language Models for Modular Robot Navigation | /document/11140161/ | 2025
+Narrate2Nav: Real-Time Visual Navigation with Implicit Language Reasoning in Human-Centric Environments | /document/11696112/ | 2026
+Lightweight Visual Reasoning for Socially-Aware Robots | /document/11696256/ | 2026
+SSR-ZSON: Zero-Shot Object Navigation via Spatial-Semantic Relations within a Hierarchical Exploration Framework | /document/11697341/ | 2026
+Robotic-CLIP: Fine-Tuning CLIP on Action Data for Robotic Applications | /document/11127829/ | 2025
+Learning Semantic Traversability With Egocentric Video and Automated Annotation Strategy | /document/10705064/ | 2024

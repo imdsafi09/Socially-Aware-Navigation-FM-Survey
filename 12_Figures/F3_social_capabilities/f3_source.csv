@@ -1,0 +1,16 @@
+family,leaf,name,direct_addressed_YP,direct_evaluated_Yes,prefm_evaluated_Yes,n_direct,n_prefm
+SAF,SAF1,Collision avoidance,32,17,12,45,40
+SAF,SAF2,Near-collision / risk margin,12,7,6,45,40
+SPA,SPA1,Personal space,26,13,4,45,40
+SPA,SPA2,Group / conversation space,13,3,4,45,40
+SPA,SPA3,Encounter conventions,28,8,4,45,40
+SPA,SPA4,Crowd navigation,22,1,11,45,40
+HUM,HUM1,Motion understanding / prediction,21,0,5,45,40
+HUM,HUM2,Intention / activity,16,2,0,45,40
+NOR,NOR1,Etiquette / politeness,26,3,2,45,40
+NOR,NOR2,Explicit social-instruction following,15,8,0,45,40
+NOR,NOR3,Context-dependent conduct,36,9,1,45,40
+NOR,NOR4,Cultural / norm adaptation,0,0,0,45,40
+EXP,EXP1,Perceived safety / comfort,13,2,4,45,40
+EXP,EXP2,Legibility / predictability,6,0,2,45,40
+EXP,EXP3,Naturalness,14,1,3,45,40

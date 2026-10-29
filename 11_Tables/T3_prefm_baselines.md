@@ -1,0 +1,16 @@
+# T3 - Pre-FM comparison set by paradigm
+
+Source: `07_Literature_Analysis/prefm_comparison_set.csv` (40 works: the 12 coded corpus works plus exemplars cited by >= 3 of 7 reference surveys, topped up to 3 works per paradigm; selection in PREFM_BASELINE_JUSTIFICATION.md). Representative, not exhaustive. ND = not determinable from legitimately accessible sources (coded from reference-survey descriptions).
+
+| Paradigm | Works (full text) | Works (cite keys) | Human representation (A: works) | Evaluated capabilities (leaf: works) | Systematic real robot | Human evaluation of behaviour |
+|---|---|---|---|---|---|---|
+| Geometric and socially aware planning | 7 (3) | Thrun1999Minerva, Sisbot2007SisbotHAMP, vandenBerg2008RVO, Pandey2010Framework, Svenstrup2010Trajectory, Mavrogiannis2018SocialMomentum, Mavrogiannis2019MavrogiannisHRI2019 | A1:7 A2:1 A3:3 A4:2 | SAF1:1 EXP1:1 EXP2:1 | 2 | 3 (1 ND) |
+| Proxemics and social costmaps | 3 (1) | Pacchierotti2006Passing, Chung2010Spatial, Charalampous2016SocialMaps | A1:3 A2:1 A3:3 A5:1 | SPA1:1 EXP1:1 | 1 | 1 (2 ND) |
+| Social-force models | 3 (2) | Helbing1995SocialForce, Ferrer2013Companion, Shiomi2014Acceptable | A1:3 A2:2 A3:1 A4:2 | SAF2:1 EXP1:1 | 1 | 1 (1 ND) |
+| Group and F-formation navigation | 4 (3) | Truong2017Approach, Wang2022GMPC, Kim2022GroupEstimation, Katyal2022GroupAware | A1:2 A2:1 A3:3 A4:4 | SAF1:2 SAF2:1 SPA1:2 SPA2:3 SPA4:3 | 0 | 0 (1 ND) |
+| Trajectory prediction and prediction-coupled planning | 4 (3) | Pellegrini2009ETH, Trautman2010UnfreezingIGP, al2016SocialLSTM, Vemula2018SocialAttention | A1:1 A2:4 A4:4 | SAF2:1 SPA4:1 HUM1:3 | 0 | 0 |
+| Inverse reinforcement learning | 7 (5) | Henry2010Crowded, Kuderer2012FeatureBasedPrediction, Luber2012Learning, Vasquez2014IRLFeatures, Kretzschmar2016SociallyCompliantIRL, Okal2016BayesianIRL, Kim2016SociallyAdaptive | A1:5 A2:3 A3:1 A4:2 | SAF2:1 SPA1:1 SPA2:1 SPA3:2 SPA4:1 HUM1:2 NOR1:1 NOR3:1 EXP3:2 | 1 | 0 |
+| Imitation learning | 2 (2) | Tai2018GAILDepth, Hamandi2019DeepMoTIon | A6:2 | SAF1:1 | 0 | 0 |
+| Deep reinforcement learning | 4 (3) | Chen2017CADRL, Chen2017SACADRL, Everett2018GA3CCADRL, Liu2020DRLCrowded | A1:4 A6:1 | SAF1:3 SPA3:1 SPA4:1 NOR1:1 | 1 | 0 (1 ND) |
+| Attention, graph and transformer models | 3 (3) | Chen2019SARLCrowdNav, Chen2020RGL, Wang2023NaviSTAR | A1:3 A4:3 A6:1 | SAF1:3 SAF2:1 SPA4:3 EXP1:1 EXP3:1 | 1 | 1 |
+| Hybrid model-based and learned | 3 (3) | Sathyamoorthy2020Frozone, Brito2021Subgoal, Raj2024HybridSocialNav | A1:3 A2:2 A3:1 A6:1 | SAF1:2 SAF2:1 SPA3:1 SPA4:2 EXP2:1 | 1 | 1 |

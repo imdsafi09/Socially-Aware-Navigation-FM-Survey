@@ -1,0 +1,99 @@
+id,analytical_category,direct_fm_social,cai_status,cai_ref,remark,note_file
+1995_Helbing_Social-Force,S1,No,cited,[44],,08_Paper_Notes/1995_Helbing_Social-Force.md
+2010_Trautman_Unfreezing-IGP,S1,No,not cited,,"Cai cites Trautman, Ma, Murray & Krause ""Robot navigation in dense human crowds"" [35], not this paper",08_Paper_Notes/2010_Trautman_Unfreezing-IGP.md
+2012_Kuderer_Feature-Based-Prediction,S2,No,not cited,,,08_Paper_Notes/2012_Kuderer_Feature-Based-Prediction.md
+2013_Kruse_Human-Aware-Navigation-Survey,S0,No,cited,[5],,08_Paper_Notes/2013_Kruse_Human-Aware-Navigation-Survey.md
+2016_Kretzschmar_Socially-Compliant-IRL,S2,No,cited,[15],,08_Paper_Notes/2016_Kretzschmar_Socially-Compliant-IRL.md
+2016_Okal_Bayesian-IRL,S2,No,not cited,,,08_Paper_Notes/2016_Okal_Bayesian-IRL.md
+2017_Charalampous_Social-Aware-Navigation-Survey,S0,No,cited,[21],,08_Paper_Notes/2017_Charalampous_Social-Aware-Navigation-Survey.md
+2017_Chen_CADRL,S2,No,not cited,,,08_Paper_Notes/2017_Chen_CADRL.md
+2017_Chen_SA-CADRL,S2,No,not cited,,"Cai cites Everett, Chen & How IROS 2018 [99] (GA3C-CADRL), not this paper",08_Paper_Notes/2017_Chen_SA-CADRL.md
+2018_Tai_GAIL-Depth,S2,No,not cited,,,08_Paper_Notes/2018_Tai_GAIL-Depth.md
+2019_Chen_SARL-CrowdNav,S2,No,not cited,,,08_Paper_Notes/2019_Chen_SARL-CrowdNav.md
+2020_Tsoi_SEAN,S6,No,not cited,,"Cai cites SEAN 2.0 [103], not this SEAN version",08_Paper_Notes/2020_Tsoi_SEAN.md
+2021_Kastner_Arena-Rosnav,S6,No,not cited,,"Cai cites Arena-Bench [107], not Arena-Rosnav",08_Paper_Notes/2021_Kastner_Arena-Rosnav.md
+2021_Moller_Human-Aware-Navigation-Survey,S0,No,cited,[24],,08_Paper_Notes/2021_Moller_Human-Aware-Navigation-Survey.md
+2022_Ahn_SayCan,S3,No,not cited,,,08_Paper_Notes/2022_Ahn_SayCan.md
+2022_Biswas_SocNavBench,S6,No,cited,[106],,08_Paper_Notes/2022_Biswas_SocNavBench.md
+2022_Gao_Evaluation-SAN-Review,S0,No,not cited,,,08_Paper_Notes/2022_Gao_Evaluation-SAN-Review.md
+2022_Karnan_SCAND,S6,No,cited,[92],,08_Paper_Notes/2022_Karnan_SCAND.md
+2022_Kim_Group-Estimation,S2,No,not cited,,,08_Paper_Notes/2022_Kim_Group-Estimation.md
+2022_Shah_LM-Nav,S3,No,cited,[59],,08_Paper_Notes/2022_Shah_LM-Nav.md
+2023_Brohan_RT-2,S3,No,cited,[72],listed under first author Zitkovich (PMLR order),08_Paper_Notes/2023_Brohan_RT-2.md
+2023_Driess_PaLM-E,S3,No,cited,[77],,08_Paper_Notes/2023_Driess_PaLM-E.md
+2023_Huang_VLMaps,S3,No,cited,[60],,08_Paper_Notes/2023_Huang_VLMaps.md
+2023_Huang_VoxPoser,S3,No,not cited,,,08_Paper_Notes/2023_Huang_VoxPoser.md
+2023_Liang_Code-as-Policies,S3,No,cited,[76],,08_Paper_Notes/2023_Liang_Code-as-Policies.md
+2023_Mavrogiannis_Core-Challenges-Survey,S0,No,cited,[2],,08_Paper_Notes/2023_Mavrogiannis_Core-Challenges-Survey.md
+2023_Nguyen_MuSoHu,S6,No,cited,[93],Table 2 dataset,08_Paper_Notes/2023_Nguyen_MuSoHu.md
+2023_Shah_GNM,S3,No,not cited,,,08_Paper_Notes/2023_Shah_GNM.md
+2023_Shah_ViNT,S3,No,cited,[27],,08_Paper_Notes/2023_Shah_ViNT.md
+2023_Wang_NaviSTAR,S2,No,not cited,,,08_Paper_Notes/2023_Wang_NaviSTAR.md
+2024_Hirose_SACSoN,S6,No,cited,[95],Table 2 dataset (HuRoN),08_Paper_Notes/2024_Hirose_SACSoN.md
+2024_Holk_PREDILECT,S4,Yes,not cited,,,08_Paper_Notes/2024_Holk_PREDILECT.md
+2024_Karwowski_Requirements-Planning-Evaluation-Review,S0,No,not cited,,,08_Paper_Notes/2024_Karwowski_Requirements-Planning-Evaluation-Review.md
+2024_Li_HA-VLN,S6,No,not cited,,,08_Paper_Notes/2024_Li_HA-VLN.md
+2024_Marpally_SocRATES,S6,No,not cited,,,08_Paper_Notes/2024_Marpally_SocRATES.md
+2024_Mirsky_Conflict-Avoidance-Survey,S0,No,cited,[6],,08_Paper_Notes/2024_Mirsky_Conflict-Avoidance-Survey.md
+2024_Raj_Hybrid-Social-Nav,S2,No,not cited,,,08_Paper_Notes/2024_Raj_Hybrid-Social-Nav.md
+2024_Sathyamoorthy_CoNVOI,S4,Yes,not cited,,,08_Paper_Notes/2024_Sathyamoorthy_CoNVOI.md
+2024_Shcherbyna_Arena-4.0,S6,No,not cited,,"Cai cites Arena-Bench [107], not Arena 4.0",08_Paper_Notes/2024_Shcherbyna_Arena-4.0.md
+2024_Singamaneni_SAN-Taxonomy-Survey,S0,No,cited,[1],,08_Paper_Notes/2024_Singamaneni_SAN-Taxonomy-Survey.md
+2024_Sridhar_NoMaD,S3,No,not cited,,,08_Paper_Notes/2024_Sridhar_NoMaD.md
+2024_Wang_SALM,S5,Yes,not cited,,,08_Paper_Notes/2024_Wang_SALM.md
+2024_Yokoyama_VLFM,S3,No,cited,[64],,08_Paper_Notes/2024_Yokoyama_VLFM.md
+2024_Yu_PANav,S5,Yes,not cited,,,08_Paper_Notes/2024_Yu_PANav.md
+2024_Zhou_NavGPT,S3,No,not cited,,,08_Paper_Notes/2024_Zhou_NavGPT.md
+2025_Alyassi_Learning-SocialNav-Review-Benchmark,S0,No,not cited,,,08_Paper_Notes/2025_Alyassi_Learning-SocialNav-Review-Benchmark.md
+2025_Francis_Principles-Guidelines,S0,No,cited,[9]; [19],cited twice (published + arXiv),08_Paper_Notes/2025_Francis_Principles-Guidelines.md
+2025_Kawabata_SocialNav-MoE,S5,Yes,cited,[82],,08_Paper_Notes/2025_Kawabata_SocialNav-MoE.md
+2025_Kong_AutoSpatial,S4,Yes,not cited,,,08_Paper_Notes/2025_Kong_AutoSpatial.md
+2025_Liang_MOSU,S5,Yes,not cited,,,08_Paper_Notes/2025_Liang_MOSU.md
+2025_Luo_GSON,S4,Yes,not cited,,,08_Paper_Notes/2025_Luo_GSON.md
+2025_Martinez-Baselga_Hey-Robot,S4,Yes,not cited,,,08_Paper_Notes/2025_Martinez-Baselga_Hey-Robot.md
+2025_Munje_SocialNav-SUB,S6,No,cited,[110],,08_Paper_Notes/2025_Munje_SocialNav-SUB.md
+2025_Narasimhan_OLiVia-Nav,S4,Yes,cited,[71],,08_Paper_Notes/2025_Narasimhan_OLiVia-Nav.md
+2025_Payandeh_Social-LLaVA,S4,Yes,cited,[4],,08_Paper_Notes/2025_Payandeh_Social-LLaVA.md
+2025_Ruo_LLM-Social-Cues,S4,Yes,not cited,,,08_Paper_Notes/2025_Ruo_LLM-Social-Cues.md
+2025_Saito_VLM-Crowd-Mapping,S4,Yes,not cited,,,08_Paper_Notes/2025_Saito_VLM-Crowd-Mapping.md
+2025_Song_VL-TGS,S3,No,not cited,,,08_Paper_Notes/2025_Song_VL-TGS.md
+2025_Song_VLM-Social-Nav,S4,Yes,cited,[38],,08_Paper_Notes/2025_Song_VLM-Social-Nav.md
+2025_Sotomi_Transparent-Social-Nav-VLM,S4,Yes,not cited,,,08_Paper_Notes/2025_Sotomi_Transparent-Social-Nav-VLM.md
+2025_Wang_SAMALM,S5,Yes,not cited,,,08_Paper_Notes/2025_Wang_SAMALM.md
+2025_Weerakoon_BehAV,S4,Yes,not cited,,,08_Paper_Notes/2025_Weerakoon_BehAV.md
+2025_Wen_HSAC-LLM,S4,Yes,not cited,,,08_Paper_Notes/2025_Wen_HSAC-LLM.md
+2025_Zhang_FewShot-Perception,S6,No,not cited,,,08_Paper_Notes/2025_Zhang_FewShot-Perception.md
+2026_Ahmadi_HUMA,S5,Yes,after Cai cut-off,,arXiv v1 13 Jul 2026,08_Paper_Notes/2026_Ahmadi_HUMA.md
+2026_Bejarano_PAD,S4,Yes,not cited,,,08_Paper_Notes/2026_Bejarano_PAD.md
+2026_Cai_VLM-Deployable-SRN-Survey,S0,No,self,,,08_Paper_Notes/2026_Cai_VLM-Deployable-SRN-Survey.md
+2026_Chen_LISN,S4,Yes,not cited,,,08_Paper_Notes/2026_Chen_LISN.md
+2026_Chen_SocialNav-CVPR,S4,Yes,not cited,,,08_Paper_Notes/2026_Chen_SocialNav-CVPR.md
+2026_Dai_DPed-VLN,S6,No,after Cai cut-off,,arXiv v1 18 Sep 2026,08_Paper_Notes/2026_Dai_DPed-VLN.md
+2026_Dong_HA-VLN-2.0,S6,No,not cited,,,08_Paper_Notes/2026_Dong_HA-VLN-2.0.md
+2026_Elnoor_ViLAM,S5,Yes,cited,[70],cited under v1 title Vi-LAD,08_Paper_Notes/2026_Elnoor_ViLAM.md
+2026_Fang_Group-Joining,S5,Yes,after Cai cut-off,,arXiv v1 23 Sep 2026,08_Paper_Notes/2026_Fang_Group-Joining.md
+2026_Fang_Obstacles-to-Etiquette,S4,Yes,cited,[54],,08_Paper_Notes/2026_Fang_Obstacles-to-Etiquette.md
+2026_Gandotra_RBTLR,S5,Yes,not cited,,,08_Paper_Notes/2026_Gandotra_RBTLR.md
+2026_Hu_SPARK-VLN,S5,Yes,after Cai cut-off,,arXiv v1 18 Jul 2026,08_Paper_Notes/2026_Hu_SPARK-VLN.md
+2026_Huang_SONG,S6,No,after Cai cut-off,,arXiv v1 28 Jul 2026,08_Paper_Notes/2026_Huang_SONG.md
+2026_Huo_NORM-Nav,S4,Yes,not cited,,,08_Paper_Notes/2026_Huo_NORM-Nav.md
+2026_Kabir_DRL-SAN-Survey,S0,No,not cited,,,08_Paper_Notes/2026_Kabir_DRL-SAN-Survey.md
+2026_Liao_G2-Nav,S5,Yes,after Cai cut-off,,arXiv v1 18 Jul 2026,08_Paper_Notes/2026_Liao_G2-Nav.md
+2026_Liu_MUSON,S6,No,cited,[96],earlier version (v1),08_Paper_Notes/2026_Liu_MUSON.md
+2026_Oush_VLA-TurtleBot,S4,Yes,not cited,,,08_Paper_Notes/2026_Oush_VLA-TurtleBot.md
+2026_Pan_Foundation-LM-Navigation-Review,S0,No,not cited,,,08_Paper_Notes/2026_Pan_Foundation-LM-Navigation-Review.md
+2026_Park_TACET,S5,Yes,after Cai cut-off,,arXiv v1 2 Oct 2026,08_Paper_Notes/2026_Park_TACET.md
+2026_Payandeh_Narrate2Nav,S4,Yes,not cited,,,08_Paper_Notes/2026_Payandeh_Narrate2Nav.md
+2026_Sethuraman_Context-Aware-Preferences,S5,Yes,not cited,,,08_Paper_Notes/2026_Sethuraman_Context-Aware-Preferences.md
+2026_Wang_LE-Nav,S4,Yes,not cited,,,08_Paper_Notes/2026_Wang_LE-Nav.md
+2026_Wang_MAction-SocialNav,S4,Yes,cited,[84],,08_Paper_Notes/2026_Wang_MAction-SocialNav.md
+2026_Wang_SALSA,S5,Yes,not cited,,,08_Paper_Notes/2026_Wang_SALSA.md
+2026_Xiao_E-SocialNav,S4,Yes,cited,[81],,08_Paper_Notes/2026_Xiao_E-SocialNav.md
+2026_Xiao_Prompting-VLMs-JSAI,S5,Yes,cited (related version),[80],"related version only (arXiv:2601.14622 ""Probing prompt design""); relation unverified",08_Paper_Notes/2026_Xiao_Prompting-VLMs-JSAI.md
+2026_Xu_HCSG,S5,Yes,not cited,,,08_Paper_Notes/2026_Xu_HCSG.md
+2026_Zhang_AHead-VLN,S4,Yes,after Cai cut-off,,IJCAI 2026 proceedings (Crossref record created 16 Sep 2026; no earlier full text found),08_Paper_Notes/2026_Zhang_AHead-VLN.md
+2026_Zhang_GCL,S5,Yes,cited (related version),[83],related version only (IEICE Tech. Rep.),08_Paper_Notes/2026_Zhang_GCL.md
+2026_Zhang_SAATT-Nav,S5,Yes,not cited,,,08_Paper_Notes/2026_Zhang_SAATT-Nav.md
+2026_Zhang_SOPD-SocialNav,S5,Yes,after Cai cut-off,,arXiv v1 22 Jul 2026,08_Paper_Notes/2026_Zhang_SOPD-SocialNav.md
+2026_Zhang_Walk-With-Me,S5,Yes,cited,[78],,08_Paper_Notes/2026_Zhang_Walk-With-Me.md
+2026_Zhao_EvoNav,S5,Yes,not cited,,,08_Paper_Notes/2026_Zhao_EvoNav.md

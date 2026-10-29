@@ -1,0 +1,47 @@
+legacy_code,legacy_name,final_axis,final_code,note
+F1,Semantic scene interpreter,B,R1,narrowed to non-human context; human inferences -> R2
+F2,Human intention/activity inference,B,R2,merged
+F3,Group/social-relation inference,B,R2,merged; group as sub-tag
+F4,Social-rule reasoner,B,R3,R4 when norms are given in language
+F5,Path/trajectory critic,D,D2,moved to interface axis
+F6,Cost/reward/constraint generator,D,D3|D7,D3 runtime; D7 training-time reward
+F7,High-level task planner,B,R4,broadened to instruction/preference grounding
+F8,Policy-learning/distillation teacher,D,D7,moved to interface axis
+F9,Waypoint/trajectory generator,D,D4,moved to interface axis
+F10,Direct policy/VLA action generator,D,D6,moved to interface axis
+F11,Benchmark/evaluator/annotator,-,removed,evaluation resource (S6); annotator use -> D7
+-,new,B,R5,human-facing communication (dialogue/explanation)
+I1,Social action classification/decision,D,D0,
+I2,Semantic representation -> planner,D,D1|D8,D8 when output only reaches people
+I3,Social score/candidate ranking,D,D2,
+I4,Cost/reward/constraint generation,D,D3|D7,D7 when FM absent at runtime
+I5,Waypoint/path generation,D,D4,
+I6,Learned navigation policy,D,D5|D7,D5 runtime latent conditioning; D7 training-only
+I7,Direct action/VLA control,D,D6,
+-,new,D,D8,human-facing channel
+E0-E5,Ordinal evidence level,E,EV1-EV6,independent dimensions; legacy levels re-derivable
+C1,Physical collision safety,C,SAF1,
+C2,Near-collision avoidance,C,SAF2,
+C3,Proxemics/personal space,C,SPA1,
+C9,Group awareness,C,SPA2,
+C10,F-formation/conversation preservation,C,SPA2,
+C12,Yielding,C,SPA3,
+C13,Passing convention,C,SPA3,
+C14,Doorway behavior,C,SPA3,
+C15,Crosswalk/sidewalk behavior,C,SPA3,
+C16,Queue behavior,C,SPA3,
+C17,Crowd behavior,C,SPA4,
+C5,Human motion understanding,C,HUM1,
+C6,Trajectory prediction,C,HUM1,
+C7,Human-intention inference,C,HUM2,
+C8,Activity understanding,C,HUM2,
+C11,Social etiquette,C,NOR1,
+C22,Politeness,C,NOR1,
+C23,Explicit social instruction following,C,NOR2,
+C24,Context-dependent behavior,C,NOR3,incl. non-spatial conduct (noise/speed)
+C25,Cultural/social-norm adaptation,C,NOR4,
+C4,Perceived safety,C,EXP1,
+C21,Human comfort,C,EXP1,
+C18,Legibility,C,EXP2,
+C19,Predictability,C,EXP2,
+C20,Naturalness,C,EXP3,

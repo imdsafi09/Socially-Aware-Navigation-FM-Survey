@@ -1,0 +1,115 @@
+{
+ "run": "2026-10-26",
+ "source": "gs",
+ "families": [
+  {
+   "family": "gs_G1",
+   "query": "\"social navigation\" \"vision-language model\" robot",
+   "meta": "FIELD: Google Scholar (full text); RANGE: 2023-2026; RUN: 2026-10-26 via browser; RAW RESULTS: 202 (reported \"About 202 results\"); only page 1 (10 results) retrieved: page 2 returned a CAPTCHA, which was not attempted. Google Scholar is therefore NOT a systematic source in this search.",
+   "raw_results": 202,
+   "listed": 10
+  }
+ ],
+ "hits": [
+  {
+   "title": "SocialNav: Training human-inspired foundation model for socially-aware embodied navigation",
+   "url": "openaccess.thecvf.com CVPR 2026",
+   "venue": "Z Chen",
+   "families": [
+    "gs_G1"
+   ],
+   "status": "corpus",
+   "match": "2026_Chen_SocialNav-CVPR"
+  },
+  {
+   "title": "Vlm-social-nav: Socially aware robot navigation through scoring using vision-language models",
+   "url": "ieeexplore 10777573",
+   "venue": "D Song",
+   "families": [
+    "gs_G1"
+   ],
+   "status": "corpus",
+   "match": "2025_Song_VLM-Social-Nav"
+  },
+  {
+   "title": "Autospatial: Visual-language reasoning for social robot navigation through efficient spatial reasoning learning",
+   "url": "ieeexplore 11245987",
+   "venue": "Y Kong",
+   "families": [
+    "gs_G1"
+   ],
+   "status": "corpus",
+   "match": "2025_Kong_AutoSpatial"
+  },
+  {
+   "title": "Socialnav-sub: Benchmarking vlms for scene understanding in social robot navigation",
+   "url": "arXiv 2509.08757",
+   "venue": "MJ Munje",
+   "families": [
+    "gs_G1"
+   ],
+   "status": "corpus",
+   "match": "2025_Munje_SocialNav-SUB"
+  },
+  {
+   "title": "Social-LLaVA: Enhancing social robot navigation through human-language reasoning",
+   "url": "ieeexplore 11247618",
+   "venue": "A Payandeh",
+   "families": [
+    "gs_G1"
+   ],
+   "status": "corpus",
+   "match": "2025_Payandeh_Social-LLaVA"
+  },
+  {
+   "title": "Socialnav-moe: A mixture-of-experts vision language model for socially compliant navigation with reinforcement fine-tuning",
+   "url": "arXiv 2512.14757",
+   "venue": "T Kawabata",
+   "families": [
+    "gs_G1"
+   ],
+   "status": "corpus",
+   "match": "2025_Kawabata_SocialNav-MoE"
+  },
+  {
+   "title": "From obstacles to etiquette: Robot social navigation with vlm-informed path selection",
+   "url": "ieeexplore 11373887",
+   "venue": "Z Fang",
+   "families": [
+    "gs_G1"
+   ],
+   "status": "corpus",
+   "match": "2026_Fang_Obstacles-to-Etiquette"
+  },
+  {
+   "title": "Maction-socialnav: Multi-action socially compliant navigation via reasoning-enhanced prompt tuning",
+   "url": "ieeexplore 11576553",
+   "venue": "Z Wang",
+   "families": [
+    "gs_G1"
+   ],
+   "status": "corpus",
+   "match": "2026_Wang_MAction-SocialNav"
+  },
+  {
+   "title": "Lisn: Language-instructed social navigation with vlm-based controller modulating",
+   "url": "ieeexplore 11695757",
+   "venue": "J Chen",
+   "families": [
+    "gs_G1"
+   ],
+   "status": "corpus",
+   "match": "2026_Chen_LISN"
+  },
+  {
+   "title": "Walk with me: Long-horizon social navigation for human-centric outdoor assistance",
+   "url": "arXiv 2604.26839",
+   "venue": "L Zhang",
+   "families": [
+    "gs_G1"
+   ],
+   "status": "corpus",
+   "match": "2026_Zhang_Walk-With-Me"
+  }
+ ]
+}

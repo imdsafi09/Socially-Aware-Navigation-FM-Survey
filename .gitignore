@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+# LaTeX intermediates of the supplement build
+16_Supplementary/latex_source/*.aux
+16_Supplementary/latex_source/*.log
+16_Supplementary/latex_source/*.toc
+16_Supplementary/latex_source/*.out
+# never commit article PDFs or extracted article text
+*.pdf
+!12_Figures/**/*.pdf
+!16_Supplementary/*.pdf
+!16_Supplementary/latex_source/figures/*.pdf
+extracted_text/
+fulltext/

@@ -1,0 +1,20 @@
+QUERY: ("social navigation" OR "socially aware navigation" OR "human-aware navigation" OR "crowd navigation" OR "socially compliant navigation") AND ("large language model" OR LLM OR "vision-language" OR VLM OR "foundation model" OR "vision-language-action" OR "multimodal large language model")
+FIELD: All Metadata (IEEE Xplore default); RANGE: 2023-2026; RUN: 2026-10-26 via browser; RAW RESULTS: 18
+Vision Language Action for TurtleBot Mobile Robot Path Planning | /document/11593560/ | ICCRE 2026
+MAction-SocialNav: Multi-Action Socially Compliant Navigation via Reasoning-Enhanced Prompt Tuning | /document/11576553/ | RA-L 2026
+VLM-Social-Nav: Socially Aware Robot Navigation Through Scoring Using Vision-Language Models | /document/10777573/ | RA-L 2025
+OLiVia-Nav: An Online Lifelong Vision Language Approach for Mobile Robot Social Navigation | /document/11128004/ | ICRA 2025
+From Obstacles to Etiquette: Robot Social Navigation With VLM-Informed Path Selection | /document/11373887/ | RA-L 2026
+LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating | /document/11695757/ | ICRA 2026
+Transparent Social Navigation for Autonomous Mobile Robots Via Vision-Language Models | /document/11217693/ | RO-MAN 2025
+SOPD-SocialNav: Selective On-Policy Distillation for Vision-Language Social Navigation | /document/11732522/ | WRC SARA 2026
+Arena-Bench 2.0: A Comprehensive Benchmark of Social Navigation Approaches in Collaborative Environments | /document/11246895/ | IROS 2025
+PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications | /document/11147864/ | CVPRW 2025
+Uncertainty-Calibrated Hamilton-Jacobi Value Learning for Safe Crowd Navigation | /document/11694282/ | RA-L 2026
+Evaluating Efficiency and Engagement in Scripted and LLM-Enhanced Human-Robot Interactions | /document/10974124/ | HRI 2025
+Language and Sketching: An LLM-driven Interactive Multimodal Multitask Robot Navigation Framework | /document/10611462/ | ICRA 2024
+Socially-Aware Robot Navigation Enhanced by Bidirectional Natural Language Conversations Using Large Language Models | /document/11246738/ | IROS 2025
+An LLM-based Architecture for Socially Intelligent Robot Navigation based on Social Cues | /document/11217843/ | RO-MAN 2025
+MAPF-World: Action World Model for Multi-Agent Path Finding | /document/11663072/ | RA-L 2026
+PREDILECT: Preferences Delineated with Zero-Shot Language-based Reasoning in Reinforcement Learning | /document/10661065/ | HRI 2024
+Social-LLaVA: Enhancing Social Robot Navigation through Human-Language Reasoning | /document/11247618/ | IROS 2025

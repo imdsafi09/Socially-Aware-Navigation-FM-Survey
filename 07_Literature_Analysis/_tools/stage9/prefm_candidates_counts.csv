@@ -1,0 +1,82 @@
+key,year,paradigm,title_fragment,title,n_surveys,surveys
+Fiorini1998VO,1998,P1 geometric,motion planning in dynamic environments using velocity obstacles,Motion planning in dynamic environments using velocity obstacles,1,Mavrogiannis2023
+vandenBerg2011ORCA,2011,P1 geometric,reciprocal n-body collision avoidance,Reciprocal n-body collision avoidance,2,Mavrogiannis2023;Kabir2026
+Sisbot2007HAMP,2007,P1 geometric,human aware mobile robot motion planner,A human aware mobile robot motion planner,3,Kruse2013;Charalampous2017;Mavrogiannis2023
+Kirby2009COMPANION,2009,P1 geometric,constraint-optimizing method for person-acceptable navigation,COMPANION: A constraint-optimizing method for person-acceptable navigation,1,Kruse2013
+Pandey2010Framework,2010,P1 geometric,framework towards a socially aware mobile robot motion,A framework towards a socially aware mobile robot motion in human-centered dynamic environment,3,Kruse2013;Charalampous2017;Mavrogiannis2023
+Mavrogiannis2018SocialMomentum,2018,P1 geometric,social momentum,Social momentum: A framework for legible navigation in dynamic multi-agent environments,3,Mavrogiannis2023;Singamaneni2024;Alyassi2025
+Kruse2012Legible,2012,P1 geometric,legible robot navigation in the proximity of moving humans,Legible robot navigation in the proximity of moving humans,2,Kruse2013;Mavrogiannis2023
+Lam2011Harmonious,2011,P1 geometric,harmoniously human,Human-centered robot navigation: towards a harmoniously human-robot coexisting environment,2,Kruse2013;Mavrogiannis2023
+Svenstrup2010Trajectory,2010,P1 geometric,trajectory planning for robots in dynamic human environments,Trajectory planning for robots in dynamic human environments,3,Kruse2013;Moller2021;Mavrogiannis2023
+Mehta2016MPDM,2016,P1 geometric,multi-policy decision making,Autonomous navigation in dynamic social environments using multi-policy decision making,0,
+Pacchierotti2006Passing,2006,P1 geometric,evaluation of passing distance for social robots,Evaluation of passing distance for social robots,3,Kruse2013;Moller2021;Mavrogiannis2023
+Trautman2015IJRR,2015,P1 geometric,robot navigation in dense human crowds,Robot navigation in dense human crowds: Statistical models and experimental studies of human-robot cooperation,2,Mavrogiannis2023;Singamaneni2024
+Lu2014Layered,2014,P2 proxemics,layered costmaps for context-sensitive navigation,Layered costmaps for context-sensitive navigation,1,Charalampous2017
+Kollmitz2015TimeDependent,2015,P2 proxemics,layered social cost map,Time dependent planning on a layered social cost map for human-aware robot navigation,1,Singamaneni2024
+Truong2017Proactive,2017,P2 proxemics,proactive social motion model,Toward socially aware robot navigation in dynamic and crowded environments: A proactive social motion model,2,Mavrogiannis2023;Singamaneni2024
+Kruse2014Directional,2014,P2 proxemics,evaluating directional cost models,Evaluating directional cost models in navigation,1,Singamaneni2024
+Scandolo2011Anthropomorphic,2011,P2 proxemics,anthropomorphic navigation in the space,An anthropomorphic navigation scheme for dynamic scenarios,0,
+Mead2016Proxemics,2016,P2 proxemics,autonomous human-robot proxemics,Autonomous human-robot proxemics: socially aware navigation,1,Singamaneni2024
+Moussaid2010Groups,2010,P3 social force,walking behaviour of pedestrian social groups,The walking behaviour of pedestrian social groups and its impact on crowd dynamics,1,Alyassi2025
+Ferrer2013Companion,2013,P3 social force,social-force based approach with human awareness,Robot companion: A social-force based approach with human awareness-navigation in crowded environments,3,Charalampous2017;Moller2021;Singamaneni2024
+Shiomi2014Acceptable,2014,P3 social force,towards a socially acceptable collision avoidance for a mobile robot,Towards a socially acceptable collision avoidance for a mobile robot navigating among pedestrians using a pedestrian model,4,Charalampous2017;Moller2021;Mavrogiannis2023;Kabir2026
+Zanlungo2011Explicit,2011,P3 social force,social force model with explicit collision prediction,Social force model with explicit collision prediction,0,
+Ferrer2013SocialForceLearned,2013,P3 social force,social-aware robot navigation in urban environments,Social-aware robot navigation in urban environments,2,Charalampous2017;Singamaneni2024
+RiosMartinez2011RiskRRT,2011,P4 group,understanding human interaction for probabilistic autonomous navigation,Understanding human interaction for probabilistic autonomous navigation using Risk-RRT approach,0,
+Wang2021GMPC,2021,P4 group,group-based motion prediction for navigation in crowded,Group-based motion prediction for navigation in crowded environments,1,Mavrogiannis2023
+Katyal2022GroupAware,2022,P4 group,learning a group-aware policy for robot navigation,Learning a group-aware policy for robot navigation,1,Mavrogiannis2023
+Truong2017Approach,2017,P4 group,approaching pose prediction,To approach humans?: A unified framework for approaching pose prediction and socially aware robot navigation,2,Singamaneni2024;Alyassi2025
+Cristani2011FFormation,2011,P4 group,social interaction discovery by statistical analysis of f-formations,Social interaction discovery by statistical analysis of F-formations,0,
+Yang2020GroupSpace,2020,P4 group,social-aware navigation for groups,Group-aware navigation (placeholder),0,
+Pellegrini2009YNWA,2009,P5 prediction,you ll never walk alone,You'll never walk alone: Modeling social behavior for multi-target tracking,4,Moller2021;Mavrogiannis2023;Alyassi2025;Kabir2026
+Alahi2016SocialLSTM,2016,P5 prediction,social lstm,Social LSTM: Human trajectory prediction in crowded spaces,4,Moller2021;Mavrogiannis2023;Singamaneni2024;Alyassi2025
+Gupta2018SocialGAN,2018,P5 prediction,socially acceptable trajectories with generative adversarial,Social GAN: Socially acceptable trajectories with generative adversarial networks,2,Mavrogiannis2023;Alyassi2025
+Salzmann2020Trajectronpp,2020,P5 prediction,trajectron,Trajectron++: Dynamically-feasible trajectory forecasting with heterogeneous data,0,
+Sadeghian2019SoPhie,2019,P5 prediction,sophie,SoPhie: An attentive GAN for predicting paths compliant to social and physical constraints,2,Mavrogiannis2023;Alyassi2025
+Mohamed2020STGCNN,2020,P5 prediction,social-stgcnn,Social-STGCNN: A social spatio-temporal graph convolutional neural network for human trajectory prediction,2,Mavrogiannis2023;Alyassi2025
+Bennewitz2005MotionPatterns,2005,P5 prediction,learning motion patterns of people for compliant robot motion,Learning motion patterns of people for compliant robot motion,2,Kruse2013;Mavrogiannis2023
+Ziebart2009PlanningPrediction,2009,P5 prediction,planning-based prediction for pedestrians,Planning-based prediction for pedestrians,2,Kruse2013;Mavrogiannis2023
+Kitani2012Activity,2012,P5 prediction,activity forecasting,Activity forecasting,2,Moller2021;Mavrogiannis2023
+Henry2010Crowded,2010,P6 IRL,learning to navigate through crowded environments,Learning to navigate through crowded environments,4,Kruse2013;Moller2021;Mavrogiannis2023;Singamaneni2024
+Vasquez2014IRLFeatures,2014,P6 IRL,inverse reinforcement learning algorithms and features for robot navigation,Inverse reinforcement learning algorithms and features for robot navigation in crowds,4,Charalampous2017;Mavrogiannis2023;Singamaneni2024;Alyassi2025
+Kim2016SociallyAdaptive,2016,P6 IRL,socially adaptive path planning in human environments,Socially adaptive path planning in human environments using inverse reinforcement learning,4,Moller2021;Mavrogiannis2023;Alyassi2025;Kabir2026
+Kuderer2012Feature,2012,P6 IRL,prediction of trajectories for socially compliant navigation,Feature-based prediction of trajectories for socially compliant navigation,0,
+Kretzschmar2016IRL,2016,P6 IRL,socially compliant mobile robot navigation via inverse reinforcement learning,Socially compliant mobile robot navigation via inverse reinforcement learning,2,Moller2021;Mavrogiannis2023
+Okal2016BIRL,2016,P6 IRL,bayesian inverse reinforcement learning,Learning socially normative robot navigation behaviors with Bayesian inverse reinforcement learning,2,Moller2021;Alyassi2025
+Pfeiffer2016Predictably,2016,P7 imitation,predicting actions to act predictably,Predicting actions to act predictably: Cooperative partial motion planning with maximum entropy models,0,
+Tai2018GAIL,2018,P7 imitation,generative adversarial imitation learning,Socially compliant navigation through raw depth inputs with generative adversarial imitation learning,4,Moller2021;Mavrogiannis2023;Alyassi2025;Kabir2026
+Hamandi2019DeepMoTIon,2019,P7 imitation,deepmotion,DeepMoTIon: Learning to navigate like humans,1,Alyassi2025
+Pfeiffer2017Perception,2017,P7 imitation,from perception to decision,From perception to decision: A data-driven approach to end-to-end motion planning for autonomous ground robots,2,Alyassi2025;Kabir2026
+Karnan2022SCAND,2022,P7 imitation,socially compliant navigation dataset,Socially compliant navigation dataset (SCAND),3,Singamaneni2024;Alyassi2025;Kabir2026
+Chen2017CADRL,2017,P8 DRL,decentralized non-communicating multiagent collision avoidance,Decentralized non-communicating multiagent collision avoidance with deep reinforcement learning,1,Mavrogiannis2023
+Chen2017SACADRL,2017,P8 DRL,socially aware motion planning with deep reinforcement learning,Socially aware motion planning with deep reinforcement learning,5,Moller2021;Mavrogiannis2023;Singamaneni2024;Alyassi2025;Kabir2026
+Everett2018GA3C,2018,P8 DRL,motion planning among dynamic,Motion planning among dynamic decision-making agents with deep reinforcement learning,3,Mavrogiannis2023;Alyassi2025;Kabir2026
+Everett2021PedRich,2021,P8 DRL,collision avoidance in pedestrian-rich environments,Collision avoidance in pedestrian-rich environments with deep reinforcement learning,0,
+Long2018Decentralized,2018,P8 DRL,towards optimally decentralized multi-robot collision avoidance,Towards optimally decentralized multi-robot collision avoidance via deep reinforcement learning,1,Alyassi2025
+PerezDArpino2021Constrained,2021,P8 DRL,robot navigation in constrained pedestrian environments,Robot navigation in constrained pedestrian environments using reinforcement learning,1,Kabir2026
+Sathyamoorthy2020DenseCAvoid,2020,P8 DRL,densecavoid,DenseCAvoid: Real-time navigation in dense crowds using anticipatory behaviors,1,Alyassi2025
+Samsani2021Resemblance,2021,P8 DRL,human behavior resemblance,Socially compliant robot navigation in crowded environment by human behavior resemblance using deep reinforcement learning,2,Alyassi2025;Kabir2026
+Chen2019SARL,2019,P9 attention-GNN,crowd-robot interaction,Crowd-robot interaction: Crowd-aware robot navigation with attention-based deep reinforcement learning,5,Moller2021;Mavrogiannis2023;Singamaneni2024;Alyassi2025;Kabir2026
+Chen2020RGL,2020,P9 attention-GNN,relational graph learning for crowd navigation,Relational graph learning for crowd navigation,4,Mavrogiannis2023;Singamaneni2024;Alyassi2025;Kabir2026
+Liu2021DSRNN,2021,P9 attention-GNN,decentralized structural-rnn,Decentralized structural-RNN for robot crowd navigation with deep reinforcement learning,2,Alyassi2025;Kabir2026
+Liu2023CrowdNavpp,2023,P9 attention-GNN,intention aware robot crowd navigation,Intention aware robot crowd navigation with attention-based interaction graph,1,Alyassi2025
+Chen2020Gaze,2020,P9 attention-GNN,attention learned from human gaze,Robot navigation in crowds by graph convolutional networks with attention learned from human gaze,2,Alyassi2025;Kabir2026
+Wang2023NaviSTAR,2023,P9 attention-GNN,navistar,NaviSTAR: Socially aware robot navigation with hybrid spatio-temporal graph transformer and preference learning,1,Alyassi2025
+Zhou2022SGD3QN,2022,P9 attention-GNN,integrating deep reinforcement learning and online planning,Robot navigation in a crowd by integrating deep reinforcement learning and online planning,0,
+Brito2021Subgoal,2021,P10 hybrid,subgoal recommendation policy,Where to go next: Learning a subgoal recommendation policy for navigation in dynamic environments,2,Singamaneni2024;Alyassi2025
+Poddar2023CrowdMotion,2023,P10 hybrid,from crowd motion prediction to robot navigation,From crowd motion prediction to robot navigation in crowds,1,Alyassi2025
+Samavi2024SICNav,2024,P10 hybrid,sicnav,SICNav: Safe and interactive crowd navigation using model predictive control and bilevel optimization,0,
+Kastner2021Connecting,2021,P10 hybrid,connecting deep-reinforcement-learning-based obstacle avoidance,Connecting deep-reinforcement-learning-based obstacle avoidance with conventional global planners,0,
+Raj2024Hybrid,2024,P10 hybrid,rethinking social robot navigation,Rethinking social robot navigation: Leveraging the best of two worlds,0,
+Sathyamoorthy2020Frozone,2020,P10 hybrid,frozone,Frozone: Freezing-free pedestrian-friendly navigation in human crowds,3,Singamaneni2024;Alyassi2025;Kabir2026
+Mavrogiannis2019HRI,2019,P10 hybrid,effects of distinct robot navigation strategies,Effects of distinct robot navigation strategies on human behavior in a crowded environment,3,Moller2021;Singamaneni2024;Alyassi2025
+Trautman2010IGP,2010,P1 geometric,unfreezing the robot,Unfreezing the robot: Navigation in dense interacting crowds,3,Kruse2013;Mavrogiannis2023;Kabir2026
+Helbing1995SFM,1995,P3 social force,social force model for pedestrian dynamics,Social force model for pedestrian dynamics,5,Moller2021;Mavrogiannis2023;Singamaneni2024;Alyassi2025;Kabir2026
+Kim2022Group,2022,P4 group,group estimation for social robot navigation,Group estimation for social robot navigation in crowded environments,0,
+Luber2012Learning,2012,P6 IRL,socially aware robot navigation a learning approach,Socially-aware robot navigation: A learning approach,4,Kruse2013;Charalampous2017;Moller2021;Mavrogiannis2023
+Chung2010Spatial,2010,P2 proxemics,a mobile robot that understands pedestrian spatial,A mobile robot that understands pedestrian spatial behaviors,4,Kruse2013;Charalampous2017;Moller2021;Mavrogiannis2023
+Charalampous2016SocialMaps,2016,P2 proxemics,robot navigation in large scale social maps,Robot navigation in large-scale social maps: An action recognition approach,3,Charalampous2017;Singamaneni2024;Alyassi2025
+vandenBerg2008RVO,2008,P1 geometric,reciprocal velocity obstacles for real time multi,Reciprocal velocity obstacles for real-time multi-agent navigation,3,Mavrogiannis2023;Alyassi2025;Kabir2026
+Thrun1999Minerva,2000,P1 geometric,interactive museum tour guide robot minerva,Probabilistic algorithms and the interactive museum tour-guide robot Minerva,3,Kruse2013;Mavrogiannis2023;Alyassi2025
+Vemula2018SocialAttention,2018,P5 prediction,social attention modeling attention in human crowds,Social attention: Modeling attention in human crowds,3,Moller2021;Mavrogiannis2023;Singamaneni2024
+Liu2020DRLCrowded,2020,P8 DRL,robot navigation in crowded environments using deep reinforcement,Robot navigation in crowded environments using deep reinforcement learning,3,Singamaneni2024;Alyassi2025;Kabir2026

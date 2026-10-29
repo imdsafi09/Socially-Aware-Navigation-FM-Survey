@@ -1,0 +1,12 @@
+# Table S6. Robustness of headline counts to publication status and to the Cai et al. cut-off
+
+Generated from 10_PreWriting/quantitative_findings.json. Machine-readable version: `S6_robustness.csv`.
+
+| Indicator | All direct papers | Peer-reviewed (class A) | Public before Cai et al. cut-off |
+|---|---|---|---|
+| Linguistic description of people (A5) | 30/45 (66.7%) | 19/24 (79.2%) | 26/38 (68.4%) |
+| Social-instruction following evaluated (NOR2) | 8/45 (17.8%) | 4/24 (16.7%) | 7/38 (18.4%) |
+| Crowd navigation evaluated (SPA4) | 1/45 (2.2%) | 0/24 (0.0%) | 1/38 (2.6%) |
+| FM output never reaches motion (D0/D8 only) | 9/45 (20.0%) | 5/24 (20.8%) | 8/38 (21.1%) |
+| Systematic real-robot evaluation | 18/45 (40.0%) | 11/24 (45.8%) | 15/38 (39.5%) |
+| Human evaluation of robot behaviour | 5/45 (11.1%) | 4/24 (16.7%) | 4/38 (10.5%) |

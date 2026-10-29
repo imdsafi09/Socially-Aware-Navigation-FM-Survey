@@ -1,0 +1,1639 @@
+{
+ "run": "2026-10-26",
+ "source": "OpenAlex API",
+ "date_window": "2023-01-01..2026-10-19",
+ "families": [
+  {
+   "family": "O01 social navigation",
+   "query": "(\"social navigation\") AND (\"foundation model\" OR \"large language model\" OR LLM OR \"vision-language model\" OR \"vision language model\" OR VLM OR \"large multimodal model\" OR \"multimodal large language model\" OR \"vision-language-action\" OR VLA)",
+   "raw_results": 44,
+   "fetched": 44
+  },
+  {
+   "family": "O02 socially aware navigation",
+   "query": "(\"socially aware navigation\" OR \"socially-aware navigation\") AND (\"foundation model\" OR \"large language model\" OR LLM OR \"vision-language model\" OR \"vision language model\" OR VLM OR \"large multimodal model\" OR \"multimodal large language model\" OR \"vision-language-action\" OR VLA)",
+   "raw_results": 12,
+   "fetched": 12
+  },
+  {
+   "family": "O03 socially compliant navigation",
+   "query": "(\"socially compliant navigation\" OR \"socially-compliant navigation\") AND (\"foundation model\" OR \"large language model\" OR LLM OR \"vision-language model\" OR \"vision language model\" OR VLM OR \"large multimodal model\" OR \"multimodal large language model\" OR \"vision-language-action\" OR VLA)",
+   "raw_results": 10,
+   "fetched": 10
+  },
+  {
+   "family": "O04 human-aware navigation",
+   "query": "(\"human-aware navigation\" OR \"human aware navigation\" OR \"human-aware robot navigation\") AND (\"foundation model\" OR \"large language model\" OR LLM OR \"vision-language model\" OR \"vision language model\" OR VLM OR \"large multimodal model\" OR \"multimodal large language model\" OR \"vision-language-action\" OR VLA)",
+   "raw_results": 4,
+   "fetched": 4
+  },
+  {
+   "family": "O05 crowd navigation",
+   "query": "(\"crowd navigation\" OR \"crowd-aware navigation\") AND (\"foundation model\" OR \"large language model\" OR LLM OR \"vision-language model\" OR \"vision language model\" OR VLM OR \"large multimodal model\" OR \"multimodal large language model\" OR \"vision-language-action\" OR VLA)",
+   "raw_results": 2,
+   "fetched": 2
+  },
+  {
+   "family": "O06 norm-aware navigation",
+   "query": "(\"norm-aware navigation\" OR \"social norm\" OR \"social norms\") AND (\"foundation model\" OR \"large language model\" OR LLM OR \"vision-language model\" OR \"vision language model\" OR VLM OR \"large multimodal model\" OR \"multimodal large language model\" OR \"vision-language-action\" OR VLA) AND (robot OR robots OR robotic OR \"mobile robot\" OR navigation) AND navigation",
+   "raw_results": 28,
+   "fetched": 28
+  },
+  {
+   "family": "O07 social robot navigation",
+   "query": "(\"social robot navigation\" OR \"socially intelligent navigation\") AND (\"foundation model\" OR \"large language model\" OR LLM OR \"vision-language model\" OR \"vision language model\" OR VLM OR \"large multimodal model\" OR \"multimodal large language model\" OR \"vision-language-action\" OR VLA)",
+   "raw_results": 20,
+   "fetched": 20
+  },
+  {
+   "family": "O08 pedestrian-aware / group / F-formation",
+   "query": "(\"pedestrian-aware\" OR \"group navigation\" OR \"F-formation\" OR \"social group\") AND (\"foundation model\" OR \"large language model\" OR LLM OR \"vision-language model\" OR \"vision language model\" OR VLM OR \"large multimodal model\" OR \"multimodal large language model\" OR \"vision-language-action\" OR VLA) AND (robot OR robots OR robotic OR \"mobile robot\" OR navigation)",
+   "raw_results": 6,
+   "fetched": 6
+  },
+  {
+   "family": "O09 legibility / politeness",
+   "query": "(legibility OR legible OR politeness OR polite) AND (\"foundation model\" OR \"large language model\" OR LLM OR \"vision-language model\" OR \"vision language model\" OR VLM OR \"large multimodal model\" OR \"multimodal large language model\" OR \"vision-language-action\" OR VLA) AND (robot OR robots OR robotic OR \"mobile robot\" OR navigation) AND navigation",
+   "raw_results": 12,
+   "fetched": 12
+  },
+  {
+   "family": "O10 social reasoning / instruction / context",
+   "query": "(\"social reasoning\" OR \"social instruction\" OR \"context-aware navigation\" OR \"human interaction\") AND (\"foundation model\" OR \"large language model\" OR LLM OR \"vision-language model\" OR \"vision language model\" OR VLM OR \"large multimodal model\" OR \"multimodal large language model\" OR \"vision-language-action\" OR VLA) AND (robot OR robots OR robotic OR \"mobile robot\" OR navigation) AND navigation",
+   "raw_results": 57,
+   "fetched": 57
+  }
+ ],
+ "hits": [
+  {
+   "id": "https://openalex.org/W4405022833",
+   "doi": "https://doi.org/10.1109/lra.2024.3511409",
+   "title": "VLM-Social-Nav: Socially Aware Robot Navigation Through Scoring Using Vision-Language Models",
+   "date": "2024-12-04",
+   "type": "article",
+   "venue": "IEEE Robotics and Automation Letters",
+   "first_author": "Daeun Song",
+   "families": [
+    "O01",
+    "O03"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4415822394",
+   "doi": "https://doi.org/10.1109/ro-man63969.2025.11217693",
+   "title": "Transparent Social Navigation for Autonomous Mobile Robots Via Vision-Language Models",
+   "date": "2025-08-25",
+   "type": "conference-paper",
+   "venue": "IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+   "first_author": "Oluwadamilola Sotomi",
+   "families": [
+    "O01"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7163010444",
+   "doi": "https://doi.org/10.48550/arxiv.2605.31196",
+   "title": "Probing Collision Grounding in Vision-Language Models for Safe Human-Robot Collaboration",
+   "date": "2026-05-29",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Jun Wang",
+   "families": [
+    "O01"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4414989851",
+   "doi": "https://doi.org/10.48550/arxiv.2506.20566",
+   "title": "HRIBench: Benchmarking Vision-Language Models for Real-Time Human Perception in Human-Robot Interaction",
+   "date": "2025-06-25",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Zhonghao Shi",
+   "families": [
+    "O01"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7135181793",
+   "doi": "https://doi.org/10.48550/arxiv.2603.11447",
+   "title": "Enhancing Lightweight Vision Language Models through Group Competitive Learning for Socially Compliant Navigation",
+   "date": "2026-03-12",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Xinyu Zhang",
+   "families": [
+    "O01",
+    "O03",
+    "O06",
+    "O07"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4412836826",
+   "doi": "https://doi.org/10.1109/lra.2025.3595038",
+   "title": "GSON: A Group-Based Social Navigation Framework With Large Multimodal Model",
+   "date": "2025-08-01",
+   "type": "article",
+   "venue": "IEEE Robotics and Automation Letters",
+   "first_author": "Shangyi Luo",
+   "families": [
+    "O01",
+    "O08"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7164227530",
+   "doi": "https://doi.org/10.48550/arxiv.2606.10495",
+   "title": "Act on What You See: Unlocking Safe Social Navigation in Vision-Language-Action Models",
+   "date": "2026-06-09",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Qingzi Wang",
+   "families": [
+    "O01"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7128529382",
+   "doi": "https://doi.org/10.1109/lra.2026.3662586",
+   "title": "From Obstacles to Etiquette: Robot Social Navigation With VLM-Informed Path Selection",
+   "date": "2026-02-09",
+   "type": "article",
+   "venue": "IEEE Robotics and Automation Letters",
+   "first_author": "Zilin Fang",
+   "families": [
+    "O01",
+    "O06",
+    "O07",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7128556104",
+   "doi": null,
+   "title": "From Obstacles to Etiquette: Robot Social Navigation with VLM-Informed Path Selection",
+   "date": "2026-02-09",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Zilin Fang",
+   "families": [
+    "O01",
+    "O06",
+    "O07",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7128533850",
+   "doi": "https://doi.org/10.48550/arxiv.2602.09002",
+   "title": "From Obstacles to Etiquette: Robot Social Navigation with VLM-Informed Path Selection",
+   "date": "2026-02-09",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Zilin Fang",
+   "families": [
+    "O01",
+    "O06",
+    "O07",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7168278740",
+   "doi": "https://doi.org/10.48550/arxiv.2607.10991",
+   "title": "Think When It Matters: Conditional VLM Reasoning for Social Navigation with RL Policies",
+   "date": "2026-07-13",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Ali Ahmadi",
+   "families": [
+    "O01",
+    "O07",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7114912670",
+   "doi": "https://doi.org/10.1109/icra57385.2026.11695757",
+   "title": "LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating",
+   "date": "2026-06-01",
+   "type": "conference-paper",
+   "venue": "Proceedings - IEEE International Conference on Robotics and Automation/Proceedings",
+   "first_author": "Junting Chen",
+   "families": [
+    "O01",
+    "O02",
+    "O06"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7204796480",
+   "doi": "https://doi.org/10.31234/osf.io/73fpj_v1",
+   "title": "Humanlike representation of social networks in large language models",
+   "date": "2026-08-31",
+   "type": "preprint",
+   "venue": null,
+   "first_author": "Jae-Young Son",
+   "families": [
+    "O01"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7158493252",
+   "doi": "https://doi.org/10.48550/arxiv.2604.26839",
+   "title": "Walk With Me: Long-Horizon Social Navigation for Human-Centric Outdoor Assistance",
+   "date": "2026-04-29",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Lingfeng Zhang",
+   "families": [
+    "O01",
+    "O03"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7170144436",
+   "doi": "https://doi.org/10.1109/wrcsara71458.2026.11732522",
+   "title": "SOPD-SocialNav: Selective On-Policy Distillation for Vision-Language Social Navigation",
+   "date": "2026-08-01",
+   "type": "conference-paper",
+   "venue": "WRC Symposium on Advanced Robotics and Automation (WRC SARA)",
+   "first_author": "Xinyu Zhang",
+   "families": [
+    "O01",
+    "O07",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4413944815",
+   "doi": "https://doi.org/10.1109/icra55743.2025.11128004",
+   "title": "OLiVia-Nav: An Online Lifelong Vision Language Approach for Mobile Robot Social Navigation",
+   "date": "2025-05-19",
+   "type": "conference-paper",
+   "venue": "Proceedings - IEEE International Conference on Robotics and Automation/Proceedings",
+   "first_author": "Siddarth Narasimhan",
+   "families": [
+    "O01",
+    "O06",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7169867624",
+   "doi": "https://doi.org/10.48550/arxiv.2607.16956",
+   "title": "G2-Nav: Grounded and Guarded Vision-Language Costmaps for Robot Social Navigation",
+   "date": "2026-07-18",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Yuwen Liao",
+   "families": [
+    "O01",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4417070877",
+   "doi": "https://doi.org/10.48550/arxiv.2509.08757",
+   "title": "SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation",
+   "date": "2025-09-10",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Michael J. Munje",
+   "families": [
+    "O01",
+    "O07",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7167016618",
+   "doi": "https://doi.org/10.48550/arxiv.2607.01044",
+   "title": "Robots Ask the Way: Communication-Enabled Social Navigation",
+   "date": "2026-07-01",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Valentino Sacco",
+   "families": [
+    "O01"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4405903404",
+   "doi": "https://doi.org/10.48550/arxiv.2412.19595",
+   "title": "SocRATES: Towards Automated Scenario-based Testing of Social Navigation Algorithms",
+   "date": "2024-12-27",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Shashank Rao Marpally",
+   "families": [
+    "O01",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7172475533",
+   "doi": "https://doi.org/10.1109/ro-man72286.2026.11714560",
+   "title": "LiSSEN: Generating Language-Grounded Safe Social Navigation in Crowded Environments",
+   "date": "2026-08-01",
+   "type": "conference-paper",
+   "venue": "IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+   "first_author": "Jordan Cosio",
+   "families": [
+    "O01",
+    "O09"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4414198230",
+   "doi": "https://doi.org/10.1109/cvprw67362.2025.00653",
+   "title": "PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications",
+   "date": "2025-06-11",
+   "type": "conference-paper",
+   "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+   "first_author": "Trisanth Srinivasan",
+   "families": [
+    "O01"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4417529438",
+   "doi": "https://doi.org/10.48550/arxiv.2512.16019",
+   "title": "Few-Shot Inference of Human Perceptions of Robot Performance in Social Navigation Scenarios",
+   "date": "2025-12-17",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Qiping Zhang",
+   "families": [
+    "O01"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7171725188",
+   "doi": "https://doi.org/10.1145/3815598.3815706",
+   "title": "Social Navigation as Gameplay: A Hybrid Social Physics Engine for Deduction Games",
+   "date": "2026-07-30",
+   "type": "conference-paper",
+   "venue": "International Conference on the Foundations of Digital Games (FDG)",
+   "first_author": "Jingrong Wang",
+   "families": [
+    "O01"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7129083123",
+   "doi": "https://doi.org/10.48550/arxiv.2602.12597",
+   "title": "PISHYAR: A Socially Intelligent Smart Cane for Indoor Social Navigation and Multimodal Human-Robot Interaction for Visually Impaired People",
+   "date": "2026-02-13",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Mahdi Haghighat Joo",
+   "families": [
+    "O01",
+    "O02",
+    "O03"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7171640535",
+   "doi": "https://doi.org/10.48550/arxiv.2607.25219",
+   "title": "SONG: A Photorealistic 3D Gaussian Simulation Platform for Benchmarking Social Navigation",
+   "date": "2026-07-28",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Weiqi Huang",
+   "families": [
+    "O01"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4415822175",
+   "doi": "https://doi.org/10.1109/ro-man63969.2025.11217843",
+   "title": "An LLM-based Architecture for Socially Intelligent Robot Navigation based on Social Cues",
+   "date": "2025-08-25",
+   "type": "conference-paper",
+   "venue": "IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+   "first_author": "Andrea Ruo",
+   "families": [
+    "O01"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4416032590",
+   "doi": "https://doi.org/10.48550/arxiv.2503.09758",
+   "title": "Multi-Agent LLM Actor-Critic Framework for Social Robot Navigation",
+   "date": "2025-03-12",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Weizheng Wang",
+   "families": [
+    "O01",
+    "O07"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4391631460",
+   "doi": "https://doi.org/10.48550/arxiv.2402.03494",
+   "title": "Beyond Text: Utilizing Vocal Cues to Improve Decision Making in LLMs for Robot Navigation Tasks",
+   "date": "2024-02-05",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Xingpeng Sun",
+   "families": [
+    "O01",
+    "O07"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7215077318",
+   "doi": "https://doi.org/10.48550/arxiv.2609.40245",
+   "title": "STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction",
+   "date": "2026-09-30",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Nathan Tsoi",
+   "families": [
+    "O01",
+    "O07",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7117664653",
+   "doi": "https://doi.org/10.48550/arxiv.2512.22867",
+   "title": "MUSON: A Reasoning-oriented Multimodal Dataset for Socially Compliant Navigation in Urban Environments",
+   "date": "2025-12-28",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Zhuonan Liu",
+   "families": [
+    "O01",
+    "O03",
+    "O06"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4416749176",
+   "doi": "https://doi.org/10.1109/iros60139.2025.11247618",
+   "title": "Social-LLaVA: Enhancing Social Robot Navigation through Human-Language Reasoning",
+   "date": "2025-10-19",
+   "type": "conference-paper",
+   "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "first_author": "Amirreza Payandeh",
+   "families": [
+    "O01",
+    "O06",
+    "O07"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4392182482",
+   "doi": "https://doi.org/10.1145/3610977.3634970",
+   "title": "PREDILECT: Preferences Delineated with Zero-Shot Language-based Reasoning in Reinforcement Learning",
+   "date": "2024-03-10",
+   "type": "conference-paper",
+   "venue": "ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
+   "first_author": "Simon Holk",
+   "families": [
+    "O01"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7138024514",
+   "doi": "https://doi.org/10.48550/arxiv.2603.13698",
+   "title": "SAATT Nav: a Socially Aware Autonomous Transparent Transportation Navigation Framework for Wheelchairs",
+   "date": "2026-03-14",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Yutong Zhang",
+   "families": [
+    "O01"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4403747260",
+   "doi": "https://doi.org/10.48550/arxiv.2409.12471",
+   "title": "Arena 4.0: A Comprehensive ROS2 Development and Benchmarking Platform for Human-centric Navigation Using Generative-Model-based Environment Generation",
+   "date": "2024-09-19",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Volodymyr Shcherbyna",
+   "families": [
+    "O01"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7128826153",
+   "doi": "https://doi.org/10.6084/m9.figshare.31329874",
+   "title": "Learning When to Yield: Adapting Pre-Trained Action Models for Human-Aware Mobile Robot Navigation",
+   "date": "2025-12-18",
+   "type": "preprint",
+   "venue": "Figshare",
+   "first_author": "Lina Moretti",
+   "families": [
+    "O01",
+    "O04"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4416749532",
+   "doi": "https://doi.org/10.1109/iros60139.2025.11245987",
+   "title": "AutoSpatial: Visual-Language Reasoning for Social Robot Navigation through Efficient Spatial Reasoning Learning",
+   "date": "2025-10-19",
+   "type": "conference-paper",
+   "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "first_author": "Yangzhe Kong",
+   "families": [
+    "O01",
+    "O07"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4413925176",
+   "doi": "https://doi.org/10.1109/icra55743.2025.11127635",
+   "title": "Arena 4.0: a Comprehensive Ros2 Development and Benchmarking Platform for Human-Centric Navigation Using Generative-Model-Based Environment Generation",
+   "date": "2025-05-19",
+   "type": "conference-paper",
+   "venue": "Proceedings - IEEE International Conference on Robotics and Automation/Proceedings",
+   "first_author": "Volodymyr Shcherbyna",
+   "families": [
+    "O01"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7125786095",
+   "doi": "https://doi.org/10.13016/qwpv-oium",
+   "title": "Robot Navigation in Complex Scenarios",
+   "date": "2025-01-01",
+   "type": "dissertation",
+   "venue": "University Libraries (University of Maryland)",
+   "first_author": "Jing Liang",
+   "families": [
+    "O01",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7167848931",
+   "doi": "https://doi.org/10.48550/arxiv.2607.06724",
+   "title": "EvoPlan: Evolutionary Neuro-Symbolic Robot Planning with Spatio-Temporal Guarantees",
+   "date": "2026-07-07",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Bhavya Sai Nukapotula",
+   "families": [
+    "O01"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4416615993",
+   "doi": "https://doi.org/10.2139/ssrn.5802728",
+   "title": "SCAN: Scene-context-aware Navigation for Social VR Exploration",
+   "date": "2025-01-01",
+   "type": "preprint",
+   "venue": "SSRN Electronic Journal",
+   "first_author": "Xuehuai Shi",
+   "families": [
+    "O01",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7139249736",
+   "doi": null,
+   "title": "Towards Generalized Context-Aware Navigation for Mobile Robots in Human-Centered Environments",
+   "date": "2025-10-01",
+   "type": "dissertation",
+   "venue": "TSpace (University of Toronto)",
+   "first_author": "Narasimhan, Siddarth",
+   "families": [
+    "O01",
+    "O06",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4415058592",
+   "doi": "https://doi.org/10.1109/lra.2026.3726342",
+   "title": "MAPF-World: Action World Model for Multi-Agent Path Finding",
+   "date": "2026-08-21",
+   "type": "article",
+   "venue": "IEEE Robotics and Automation Letters",
+   "first_author": "Zhanjiang Yang",
+   "families": [
+    "O01"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7147331182",
+   "doi": "https://doi.org/10.5281/zenodo.19361635",
+   "title": "Your Calendar Is Now a Negotiation",
+   "date": "2026-04-01",
+   "type": "other",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_author": "Daniel Rosehill",
+   "families": [
+    "O01",
+    "O06"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4393212547",
+   "doi": "https://doi.org/10.48550/arxiv.2403.15648",
+   "title": "Unifying Large Language Model and Deep Reinforcement Learning for Human-in-Loop Interactive Socially-aware Navigation",
+   "date": "2024-03-22",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Weizheng Wang",
+   "families": [
+    "O02",
+    "O07"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7168671392",
+   "doi": "https://doi.org/10.1007/978-981-95-3841-6_9",
+   "title": "Adaptive Social Robot Navigation Using Vision-Language Models",
+   "date": "2025-10-14",
+   "type": "conference-paper",
+   "venue": "Springer proceedings in mathematics & statistics",
+   "first_author": "Ketan Anand",
+   "families": [
+    "O02",
+    "O07",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4416750359",
+   "doi": "https://doi.org/10.1109/iros60139.2025.11246738",
+   "title": "Socially-Aware Robot Navigation Enhanced by Bidirectional Natural Language Conversations Using Large Language Models",
+   "date": "2025-10-19",
+   "type": "conference-paper",
+   "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "first_author": "Congcong Wen",
+   "families": [
+    "O02"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7155170229",
+   "doi": "https://doi.org/10.48550/arxiv.2604.19522",
+   "title": "GenerativeMPC: VLM-RAG-guided Whole-Body MPC with Virtual Impedance for Bimanual Mobile Manipulation",
+   "date": "2026-04-21",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Marcelino Julio Fernando",
+   "families": [
+    "O02"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4417251318",
+   "doi": "https://doi.org/10.48550/arxiv.2511.21135",
+   "title": "SocialNav: Training Human-Inspired Foundation Model for Socially-Aware Embodied Navigation",
+   "date": "2025-11-26",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Ziyi Chen",
+   "families": [
+    "O02",
+    "O06",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4401414944",
+   "doi": "https://doi.org/10.1109/icra57147.2024.10611462",
+   "title": "Language and Sketching: An LLM-driven Interactive Multimodal Multitask Robot Navigation Framework",
+   "date": "2024-05-13",
+   "type": "conference-paper",
+   "venue": "Proceedings - IEEE International Conference on Robotics and Automation/Proceedings",
+   "first_author": "Weiqin Zu",
+   "families": [
+    "O02"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7142473111",
+   "doi": "https://doi.org/10.2139/ssrn.6486782",
+   "title": "Human-aware Robot Navigation: Problem Formulation, Approaches, Challenges",
+   "date": "2026-01-01",
+   "type": "preprint",
+   "venue": "SSRN Electronic Journal",
+   "first_author": "Omar Kashmar",
+   "families": [
+    "O02",
+    "O04",
+    "O06"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7212456960",
+   "doi": "https://doi.org/10.70267/aitia.2026216222",
+   "title": "Towards Socially Intelligent Robots: Research on Human-Aware Vision Language Navigation",
+   "date": "2026-09-13",
+   "type": "conference-paper",
+   "venue": "Exploring Science Academic Conference Series",
+   "first_author": "Jiajun Chen",
+   "families": [
+    "O02",
+    "O06"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4409079578",
+   "doi": "https://doi.org/10.32657/10356/182953",
+   "title": "Human-machine collaboration for safe and socially compliant trajectory planning of quadrotor",
+   "date": "2025-01-01",
+   "type": "dissertation",
+   "venue": null,
+   "first_author": "Zezhong Zhang",
+   "families": [
+    "O02",
+    "O06",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4414588619",
+   "doi": "https://doi.org/10.7302/25667",
+   "title": "Motion and Behavior Planning for Socially Assistive Robots",
+   "date": "2025-01-01",
+   "type": "dissertation",
+   "venue": "Deep Blue (University of Michigan)",
+   "first_author": "Tribhi Kathuria",
+   "families": [
+    "O02",
+    "O05"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7116091860",
+   "doi": "https://doi.org/10.48550/arxiv.2512.14757",
+   "title": "SocialNav-MoE: A Mixture-of-Experts Vision Language Model for Socially Compliant Navigation with Reinforcement Fine-Tuning",
+   "date": "2025-12-15",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Kawabata, Tomohito",
+   "families": [
+    "O03",
+    "O06"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7117632061",
+   "doi": null,
+   "title": "MAction-SocialNav: Multi-Action Socially Compliant Navigation via Reasoning-enhanced Prompt Tuning",
+   "date": "2025-12-25",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Zishuo Wang",
+   "families": [
+    "O03",
+    "O06",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7117612743",
+   "doi": "https://doi.org/10.48550/arxiv.2512.21722",
+   "title": "MAction-SocialNav: Multi-Action Socially Compliant Navigation via Reasoning-enhanced Prompt Tuning",
+   "date": "2025-12-25",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Zishuo Wang",
+   "families": [
+    "O03",
+    "O06",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7125384421",
+   "doi": "https://doi.org/10.48550/arxiv.2601.14622",
+   "title": "Probing Prompt Design for Socially Compliant Robot Navigation with Vision Language Models",
+   "date": "2026-01-21",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Ling Xiao",
+   "families": [
+    "O03",
+    "O07"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7164302052",
+   "doi": "https://doi.org/10.1007/978-981-95-9350-7_46",
+   "title": "Polite Detouring Strategy for Social Compliance Obstacle Avoidance of Humanoid Service Robots",
+   "date": "2026-01-01",
+   "type": "conference-paper",
+   "venue": "Lecture notes in electrical engineering",
+   "first_author": "Yutong Li",
+   "families": [
+    "O03",
+    "O06",
+    "O09"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7213412234",
+   "doi": "https://doi.org/10.24963/ijcai.2026/696",
+   "title": "AHead-VLN: A Hierarchical Reasoning Framework Guided by Foresight for Human-Aware Navigation",
+   "date": "2026-09-01",
+   "type": "conference-paper",
+   "venue": "International Joint Conference on Artificial Intelligence",
+   "first_author": "Junyi Zhang",
+   "families": [
+    "O04",
+    "O06"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4410297427",
+   "doi": "https://doi.org/10.1109/hri61500.2025.10974124",
+   "title": "Evaluating Efficiency and Engagement in Scripted and LLM-Enhanced Human-Robot Interactions",
+   "date": "2025-03-04",
+   "type": "conference-paper",
+   "venue": "ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
+   "first_author": "Tim Schreiter",
+   "families": [
+    "O04"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4414232307",
+   "doi": "https://doi.org/10.1146/annurev-control-032024-023929",
+   "title": "Mixed Crowd Navigation: Perception, Interaction, Planning, and Control",
+   "date": "2025-09-16",
+   "type": "review",
+   "venue": "Annual Review of Control Robotics and Autonomous Systems",
+   "first_author": "Jia Pan",
+   "families": [
+    "O05"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7166744536",
+   "doi": "https://doi.org/10.48550/arxiv.2606.28760",
+   "title": "Vision-Language Models for Deployable Social Robot Navigation: Bridging Semantic Reasoning and Low-Level Control",
+   "date": "2026-06-27",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Runji Cai",
+   "families": [
+    "O06",
+    "O07"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7135046098",
+   "doi": "https://doi.org/10.1145/3776734.3794437",
+   "title": "RBTLR: A Framework for Safe Social Robot Navigation in Novel Human-Centric Environments",
+   "date": "2026-03-12",
+   "type": "conference-paper",
+   "venue": "ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
+   "first_author": "Nayesha Gandotra",
+   "families": [
+    "O06",
+    "O07",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4415348184",
+   "doi": null,
+   "title": "MOSU: Autonomous Long-range Robot Navigation with Multi-modal Scene Understanding",
+   "date": "2025-07-07",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Jing Liang",
+   "families": [
+    "O06"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4405057294",
+   "doi": "https://doi.org/10.48550/arxiv.2412.02655",
+   "title": "LLM-Enhanced Path Planning: Safe and Efficient Autonomous Navigation with Instructional Inputs",
+   "date": "2024-12-03",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Pranav Doma",
+   "families": [
+    "O06"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7152120976",
+   "doi": "https://doi.org/10.48550/arxiv.2604.05525",
+   "title": "CrowdVLA: Embodied Vision-Language-Action Agents for Context-Aware Crowd Simulation",
+   "date": "2026-04-07",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Juyeong Hwang",
+   "families": [
+    "O06"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7161163947",
+   "doi": "https://doi.org/10.48550/arxiv.2605.13321",
+   "title": "HCSG: Human-Centric Semantic-Geometric Reasoning for Vision-Language Navigation",
+   "date": "2026-05-13",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Haoxuan Xu",
+   "families": [
+    "O06",
+    "O07"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4411201939",
+   "doi": "https://doi.org/10.1016/j.array.2025.100420",
+   "title": "Context-aware decision making in autonomous vehicles: Integrating social behavior modeling with large language models",
+   "date": "2025-06-11",
+   "type": "article",
+   "venue": "Array",
+   "first_author": "Badri Raj Lamichhane",
+   "families": [
+    "O06"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7118125371",
+   "doi": "https://doi.org/10.5281/zenodo.18140122",
+   "title": "Spiritual Responsibility AI: Aligning Emerging Tech with Natural Intelligence (Polymathic) - 2026 Trending Report created by Xpirit AI in collaboration with other LLM models",
+   "date": "2026-01-03",
+   "type": "article",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_author": "Marcelo Marshall De Siqueira",
+   "families": [
+    "O06",
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7116409454",
+   "doi": "https://doi.org/10.5281/zenodo.17982856",
+   "title": "Parallel Memetic-Computational Loops: A Thurmondian Analysis of Valence in Biological and Silicon Substrates",
+   "date": "2025-12-19",
+   "type": "dissertation",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_author": "Thurmond, Justin",
+   "families": [
+    "O06"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4416033105",
+   "doi": "https://doi.org/10.48550/arxiv.2503.09820",
+   "title": "ViLAM: Distilling Vision-Language Reasoning into Attention Maps for Social Robot Navigation",
+   "date": "2025-03-12",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Mohamed Elnoor",
+   "families": [
+    "O07"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4406511702",
+   "doi": "https://doi.org/10.48550/arxiv.2501.09024",
+   "title": "Social-LLaVA: Enhancing Robot Navigation through Human-Language Reasoning in Social Spaces",
+   "date": "2024-12-30",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Amirreza Payandeh",
+   "families": [
+    "O07"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4402774247",
+   "doi": "https://doi.org/10.1109/cvpr52733.2024.02085",
+   "title": "JRDB-Social: A Multifaceted Robotic Dataset for Understanding of Context and Dynamics of Human Interactions Within Social Groups",
+   "date": "2024-06-16",
+   "type": "conference-paper",
+   "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+   "first_author": "Simindokht Jahangard",
+   "families": [
+    "O08"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7213872191",
+   "doi": "https://doi.org/10.48550/arxiv.2609.21504",
+   "title": "DPed-VLN: A Benchmark for Socially Compliant Vision-and-Language Navigation in Dynamic Pedestrian Environments",
+   "date": "2026-09-18",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Haojie Dai",
+   "families": [
+    "O08"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7219805733",
+   "doi": "https://doi.org/10.5281/zenodo.23131981",
+   "title": "Paleolithic Maritime Navigation, Co-Evolution of Complex Phonetic Syntax, and the Linguistic-Institutional Lineage of Ancient Japanese Defensive Guilds: From Upper Paleolithic Obsidian Seafaring to the Proto-Historic 'Be' Systems of Mononobe and Hasebe",
+   "date": "2026-10-04",
+   "type": "article",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_author": "Yoko Hasebe",
+   "families": [
+    "O08"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7204604187",
+   "doi": "https://doi.org/10.48550/arxiv.2608.27456",
+   "title": "UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City",
+   "date": "2026-08-27",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Tianjie Ju",
+   "families": [
+    "O08"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7160822122",
+   "doi": "https://doi.org/10.48550/arxiv.2605.07069",
+   "title": "Social Theory Should Be a Structural Prior for Agentic AI: A Formal Framework for Multi-Agent Social Systems",
+   "date": "2026-05-08",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Lynnette Hui Xian Ng",
+   "families": [
+    "O08"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7161487043",
+   "doi": "https://doi.org/10.5281/zenodo.20261120",
+   "title": "Copeland Ontologic Registry 0a-0020: A Revision-Tracked Meta-Ontology for Cross-Domain Legibility Analysis",
+   "date": "2026-05-17",
+   "type": "other",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_author": "Christopher W Copeland",
+   "families": [
+    "O09"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4414793504",
+   "doi": "https://doi.org/10.1145/3720533.3750064",
+   "title": "From Links to Dialogue; Hypertext Challenges and Opportunities in Conversational Navigation",
+   "date": "2025-09-15",
+   "type": "conference-paper",
+   "venue": null,
+   "first_author": "Behnam Rahdari",
+   "families": [
+    "O09"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7125650931",
+   "doi": "https://doi.org/10.5281/zenodo.18368526",
+   "title": "LLM Hallucination Incident Report \u2014 LLM-2025-1222-HALLU \u251c\u2500\u2500 DOI: 10.5281/zenodo.18368527 \u2014 Crimson Hexagon Archive",
+   "date": "2026-01-25",
+   "type": "article",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_author": "Jack E. Feist",
+   "families": [
+    "O09"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7125635705",
+   "doi": "https://doi.org/10.5281/zenodo.18368613",
+   "title": "Response Memo \u2014 Reclassification Request \u2014 LLM-2025-1222-HALLU \u251c\u2500\u2500 DOI: 10.5281/zenodo.18368614 \u2014 Crimson Hexagon Archive",
+   "date": "2026-01-25",
+   "type": "article",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_author": "Jack E. Feist",
+   "families": [
+    "O09"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4414360387",
+   "doi": "https://doi.org/10.24963/ijcai.2025/908",
+   "title": "Multimodal Knowledge Retrieval-Augmented Iterative Alignment for Satellite Commonsense Conversation",
+   "date": "2025-09-01",
+   "type": "conference-paper",
+   "venue": "International Joint Conference on Artificial Intelligence",
+   "first_author": "Qianli Ma",
+   "families": [
+    "O09"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7222825531",
+   "doi": "https://doi.org/10.26258/heal.hua.7877",
+   "title": "Development of an AI-Based Personal Assistant for Automated Calendar Management via Natural Language",
+   "date": "2026-10-14",
+   "type": "other",
+   "venue": "Harokopio University",
+   "first_author": "\u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03b9\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 \u0391\u03bd\u03b1\u03c3\u03c4\u03ac\u03c3\u03b9\u03bf\u03c2",
+   "families": [
+    "O09"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7116346726",
+   "doi": "https://doi.org/10.5281/zenodo.17988589",
+   "title": "Master Roadmap and Index for TPT & LFP-0: A Unified Governance Framework for Semantic Accountability in AGI (Root Index v1.0)",
+   "date": "2025-12-19",
+   "type": "report",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_author": "Hon Bor So",
+   "families": [
+    "O09"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7131311204",
+   "doi": "https://doi.org/10.5281/zenodo.18759452",
+   "title": "SEMANTIC PHYSICS: THE INWARD TURN Competing Ontologies and the Convergence Horizon \u2014 Crimson Hexagon Archive",
+   "date": "2026-02-24",
+   "type": "article",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_author": "Lee Sharks",
+   "families": [
+    "O09"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7140391251",
+   "doi": "https://doi.org/10.5281/zenodo.19240928",
+   "title": "Weird AI Experiment: The Compliment Battle",
+   "date": "2026-03-26",
+   "type": "other",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_author": "Daniel Rosehill",
+   "families": [
+    "O09"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7154139795",
+   "doi": "https://doi.org/10.5281/zenodo.19557176",
+   "title": "Roadmap AI",
+   "date": "2026-04-13",
+   "type": "dataset",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_author": "guru g",
+   "families": [
+    "O09"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4405786269",
+   "doi": "https://doi.org/10.1109/iros58592.2024.10802716",
+   "title": "CoNVOI: Context-aware Navigation using Vision Language Models in Outdoor and Indoor Environments",
+   "date": "2024-10-14",
+   "type": "conference-paper",
+   "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "first_author": "Adarsh Jagan Sathyamoorthy",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4417102705",
+   "doi": "https://doi.org/10.1145/3786583.3786920",
+   "title": "Vision Language Model-based Testing of Industrial Autonomous Mobile Robots",
+   "date": "2026-04-12",
+   "type": "conference-paper",
+   "venue": "IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)",
+   "first_author": "Jiahui Wu",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4413918783",
+   "doi": "https://doi.org/10.1109/raiie65740.2025.11140161",
+   "title": "Leveraging Large Language Models for Modular Robot Navigation",
+   "date": "2025-06-06",
+   "type": "conference-paper",
+   "venue": "International Symposium on Robotics, Artificial Intelligence and Information Engineering (RAIIE)",
+   "first_author": "Anlong Zhang",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7221022554",
+   "doi": "https://doi.org/10.1109/ro-man72286.2026.11715000",
+   "title": "Navigation Explainability for Object Avoidance with LLMs for Assistive Robots",
+   "date": "2026-08-01",
+   "type": "conference-paper",
+   "venue": "IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+   "first_author": "Courtney Young",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4412820596",
+   "doi": "https://doi.org/10.1609/aaaiss.v6i1.36039",
+   "title": "Context-Aware Autonomous Drone Navigation Using Large Language Models (LLMs)",
+   "date": "2025-08-01",
+   "type": "conference-paper",
+   "venue": "Proceedings of the AAAI Symposium Series",
+   "first_author": "Abdul-Manan Khan",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4415097237",
+   "doi": "https://doi.org/10.1007/978-3-032-08462-0_28",
+   "title": "On-Edge Task Planning with Large Language Models for Service Robotics",
+   "date": "2025-10-13",
+   "type": "conference-paper",
+   "venue": "Lecture notes in computer science",
+   "first_author": "Alejandro Gonz\u00e1lez-Cant\u00f3n",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4413881890",
+   "doi": "https://doi.org/10.1007/978-3-032-02106-9_13",
+   "title": "Enhancing Safe Navigation in Industrial Environments via Vision-Language Human-Robot Interaction",
+   "date": "2025-01-01",
+   "type": "conference-paper",
+   "venue": "Mechanisms and machine science",
+   "first_author": "Sepideh Valiollahi",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4416595940",
+   "doi": "https://doi.org/10.1038/s41598-025-25281-0",
+   "title": "Semantic orientation for indoor navigation system using large language models",
+   "date": "2025-11-24",
+   "type": "article",
+   "venue": "Scientific Reports",
+   "first_author": "Marzena Halama",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7131083556",
+   "doi": "https://doi.org/10.1109/iccvw69036.2025.00696",
+   "title": "Automated Context-Aware Navigation Support for Individuals with Visual Impairment Using Multimodal Language Models in Urban Environments",
+   "date": "2025-10-19",
+   "type": "conference-paper",
+   "venue": "IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+   "first_author": "Alton Chao",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7204480936",
+   "doi": "https://doi.org/10.1061/9780784486979.022",
+   "title": "Open-Vocabulary, Context-Aware Robot Navigation on Construction Sites: Integrating LLM-Driven Value Map Composition with Hierarchical Scene Graphs",
+   "date": "2026-08-27",
+   "type": "conference-paper",
+   "venue": "ASCE Construction Research Congress (CRC)",
+   "first_author": "Xiayu Zhao",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4414631727",
+   "doi": "https://doi.org/10.48550/arxiv.2504.15600",
+   "title": "Research on Navigation Methods Based on LLMs",
+   "date": "2025-04-22",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Anlong Zhang",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4417116250",
+   "doi": "https://doi.org/10.1145/3770855.3817964",
+   "title": "Search-on-Graph: Iterative Informed Navigation for Large Language Model Reasoning on Knowledge Graphs",
+   "date": "2026-08-06",
+   "type": "conference-paper",
+   "venue": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)",
+   "first_author": "Jia Ao Sun",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4415624667",
+   "doi": "https://doi.org/10.1109/ipin66788.2025.11212934",
+   "title": "LLM-Guided Indoor Navigation with Multimodal Map Understanding",
+   "date": "2025-09-15",
+   "type": "conference-paper",
+   "venue": "International Conference on Indoor Positioning and Indoor Navigation",
+   "first_author": "Alberto Coffrini",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4417536130",
+   "doi": "https://doi.org/10.48550/arxiv.2503.11702",
+   "title": "LLM-Guided Indoor Navigation with Multimodal Map Understanding",
+   "date": "2025-03-12",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Coffrini, Alberto",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4405786424",
+   "doi": "https://doi.org/10.1109/iros58592.2024.10802075",
+   "title": "LANCAR: Leveraging Language for Context-Aware Robot Locomotion in Unstructured Environments",
+   "date": "2024-10-14",
+   "type": "conference-paper",
+   "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "first_author": "Chak Lam Shek",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4414816513",
+   "doi": "https://doi.org/10.1109/icra57385.2026.11696635",
+   "title": "Ventura: Adapting Image Diffusion Models for Unified Task Conditioned Navigation",
+   "date": "2026-06-01",
+   "type": "conference-paper",
+   "venue": "Proceedings - IEEE International Conference on Robotics and Automation/Proceedings",
+   "first_author": "Arthur Zhang",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4393187238",
+   "doi": "https://doi.org/10.2139/ssrn.4773675",
+   "title": "Enhancing Trust in Autonomous Agents: An Architecture for Accountability and Explainability Through Blockchain and Large Language Models",
+   "date": "2024-01-01",
+   "type": "preprint",
+   "venue": "SSRN Electronic Journal",
+   "first_author": "Laura Fern\u00e1ndez-Becerra",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7137842312",
+   "doi": "https://doi.org/10.1609/aaai.v40i22.38893",
+   "title": "LOG-Nav: Efficient Layout-Aware Object-Goal Navigation with Hierarchical Planning",
+   "date": "2026-03-14",
+   "type": "conference-paper",
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "first_author": "Jiawei Hou",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7128700770",
+   "doi": "https://doi.org/10.48448/4ddf-sn62",
+   "title": "LOG-Nav: Efficient Layout-Aware Object-Goal Navigation with Hierarchical Planning",
+   "date": "2026-01-07",
+   "type": "other",
+   "venue": "Underline Science Inc.",
+   "first_author": "Association for Artificial Intelligence 2026",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4416156134",
+   "doi": "https://doi.org/10.48550/arxiv.2505.06131",
+   "title": "LOG-Nav: Efficient Layout-Aware Object-Goal Navigation with Hierarchical Planning",
+   "date": "2025-05-09",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Jiawei Hou",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7123355152",
+   "doi": "https://doi.org/10.1109/isaect68904.2025.11318802",
+   "title": "Vision-Language Based Real-Time Assistive System for Outdoor Navigation of the Visually Impaired in Indian Urban Environments",
+   "date": "2025-12-18",
+   "type": "conference-paper",
+   "venue": "International Symposium on Advanced Electrical and Communication Technologies (ISAECT)",
+   "first_author": "Charan Sai Ponnada",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7128812162",
+   "doi": "https://doi.org/10.1016/b978-0-443-30106-3.00020-8",
+   "title": "Simulation of the operation of an autonomous wheelchair for patients with amyotrophic lateral sclerosis with deep reinforcement learning algorithms, large language model, and tracking the patient\u2019s iris",
+   "date": "2026-01-01",
+   "type": "book-chapter",
+   "venue": "Elsevier eBooks",
+   "first_author": "Armando de Jes\u00fas Plasencia Salgueiro",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4417002528",
+   "doi": "https://doi.org/10.1109/tits.2025.3631667",
+   "title": "AutoFPDesigner: Automated Flight Procedure Design Based on Multi-Agent Large Language Model",
+   "date": "2025-12-04",
+   "type": "article",
+   "venue": "IEEE Transactions on Intelligent Transportation Systems",
+   "first_author": "Longtao Zhu",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7155008820",
+   "doi": "https://doi.org/10.48550/arxiv.2604.16022",
+   "title": "SocialGrid: A Benchmark for Planning and Social Reasoning in Embodied Multi-Agent Systems",
+   "date": "2026-04-17",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Hikaru Shindo",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7223198990",
+   "doi": "https://doi.org/10.5281/zenodo.23576072",
+   "title": "BehaviorGPT for Visual Art: A Foundation Model for Aesthetics",
+   "date": "2025-07-15",
+   "type": "report",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_author": "Rickard Br\u00fcel Gabrielsson",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7134916114",
+   "doi": "https://doi.org/10.1007/978-3-032-37211-6_27",
+   "title": "Let\u2019s Reward Step-by-Step: Step-Aware Contrastive Alignment for Vision-Language Navigation in Continuous Environments",
+   "date": "2026-01-01",
+   "type": "conference-paper",
+   "venue": "Lecture notes in computer science",
+   "first_author": "Haoyuan Li",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7130582539",
+   "doi": "https://doi.org/10.1109/ssrr68451.2025.11391314",
+   "title": "Real-World Deployment of an LLM-Enabled Voice-Commanded UGV for Logistics in SAR Missions",
+   "date": "2025-10-29",
+   "type": "conference-paper",
+   "venue": null,
+   "first_author": "Alejandro Jarabo-Pe\u00f1as",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4402904224",
+   "doi": "https://doi.org/10.1109/wrcsara64167.2024.10685765",
+   "title": "Intelligent Spatial Perception by Building Hierarchical 3D Scene Graphs for Indoor Scenarios with the Help of LLMs*",
+   "date": "2024-08-23",
+   "type": "conference-paper",
+   "venue": "WRC Symposium on Advanced Robotics and Automation (WRC SARA)",
+   "first_author": "Yao Cheng",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4414902772",
+   "doi": "https://doi.org/10.48550/arxiv.2503.15091",
+   "title": "Intelligent Spatial Perception by Building Hierarchical 3D Scene Graphs for Indoor Scenarios with the Help of LLMs",
+   "date": "2025-03-19",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Cheng, Yao",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4406072476",
+   "doi": "https://doi.org/10.48550/arxiv.2407.14926",
+   "title": "TraveLLM: Could you plan my new public transit route in face of a network disruption?",
+   "date": "2024-07-20",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Fang, Bowen",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7117258152",
+   "doi": "https://doi.org/10.48550/arxiv.2512.20206",
+   "title": "TongSIM: A General Platform for Simulating Intelligent Machines",
+   "date": "2025-12-23",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Zhe Sun",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7214894745",
+   "doi": "https://doi.org/10.21872/annual2025_8944",
+   "title": "Harnessing Driver Metacognition to Advance In-Context Learning for Autonomous Vehicle Social Intelligence",
+   "date": "2026-09-30",
+   "type": "conference-paper",
+   "venue": "IISE Annual Conference & Expo",
+   "first_author": "Yin-Chun Lu",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7117158728",
+   "doi": "https://doi.org/10.48550/arxiv.2512.18571",
+   "title": "ESearch-R1: Learning Cost-Aware MLLM Agents for Interactive Embodied Search via Reinforcement Learning",
+   "date": "2025-12-21",
+   "type": "preprint",
+   "venue": "arXiv (Cornell University)",
+   "first_author": "Weijie Zhou",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7167801216",
+   "doi": "https://doi.org/10.5281/zenodo.21272861",
+   "title": "The Paradigm Shift from Graphical User Interfaces to Agentic API Ecosystems",
+   "date": "2026-07-09",
+   "type": "article",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_author": "Akash Narayan",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4412394954",
+   "doi": "https://doi.org/10.1145/3726302.3731955",
+   "title": "Language Model Alignment for Conversational Shopping at Amazon",
+   "date": "2025-07-13",
+   "type": "conference-paper",
+   "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)",
+   "first_author": "Chen Luo",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7213311284",
+   "doi": "https://doi.org/10.82357/gnosis/489",
+   "title": "Deep Learning for Multi-Agent Simulation and Control of Crowds",
+   "date": "2026-02-25",
+   "type": "dissertation",
+   "venue": "Gnosis",
+   "first_author": "Andreas C. Panagiotou",
+   "families": [
+    "O10"
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4412836198",
+   "doi": "https://doi.org/10.22541/au.175407961.15590722/v1",
+   "title": "Leviathan: A Bio-Inspired, CorTexManus-Driven Marine AGI Architecture for Resilient, Long-Term Deep-Sea Exploration",
+   "date": "2025-08-01",
+   "type": "preprint",
+   "venue": null,
+   "first_author": "Khan Tahsin Abrar",
+   "families": [
+    "O10"
+   ]
+  }
+ ]
+}

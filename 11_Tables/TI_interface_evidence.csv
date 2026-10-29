@@ -1,0 +1,13 @@
+Consumer,Interface,Label,Papers,Systematic robot evaluation,FM-independent safety guard,Cloud / hybrid / remote inference
+Planner-facing,D1,Semantic or social state,5/45,4/5,3/5,2/5
+Planner-facing,D2,Candidate selection,6/45,1/6,2/6,6/6
+Planner-facing,D3,Objective shaping,12/45,6/12,10/12,10/12
+Planner-facing,D4,Goal or waypoints,7/45,4/7,6/7,4/7
+Policy-facing,D5,Latent conditioning,4/45,1/4,1/4,1/4
+Policy-facing,D6,Direct action,7/45,2/7,1/7,5/7
+Training-facing,D7,Training-time supervision,8/45,6/8,4/8,3/8
+Human-facing,D8,Human-facing channel,5/45,2/5,3/5,2/5
+Not executed,D0,Non-executed decision,8/45,0/8,0/8,0/8
+Year 2024,,all direct papers of the year,4/45,1/4,,human evaluation of behaviour: 0/4
+Year 2025,,all direct papers of the year,14/45,5/14,,human evaluation of behaviour: 2/14
+Year 2026,,all direct papers of the year,27/45,12/27,,human evaluation of behaviour: 3/27

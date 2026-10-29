@@ -1,0 +1,4821 @@
+{
+ "ORCA": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1007/978-3-642-19457-3_1",
+   "type": "book-chapter",
+   "title": "Reciprocal n-Body Collision Avoidance",
+   "container": "Springer Tracts in Advanced Robotics",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "3-19",
+   "article-number": null,
+   "published": [
+    [
+     2011
+    ]
+   ],
+   "publisher": "Springer Berlin Heidelberg",
+   "authors": [
+    "Jur van den Berg",
+    "Stephen J. Guy",
+    "Ming Lin",
+    "Dinesh Manocha"
+   ],
+   "url": "http://link.springer.com/10.1007/978-3-642-19457-3_1"
+  },
+  {
+   "sim": 0.769,
+   "DOI": "10.1177/0278364915576234",
+   "type": "journal-article",
+   "title": "Generalized reciprocal collision avoidance",
+   "container": "The International Journal of Robotics Research",
+   "event": null,
+   "volume": "34",
+   "issue": "12",
+   "page": "1501-1514",
+   "article-number": null,
+   "published": [
+    [
+     2015,
+     4,
+     29
+    ]
+   ],
+   "publisher": "SAGE Publications",
+   "authors": [
+    "Daman Bareiss",
+    "Jur van den Berg"
+   ],
+   "url": "https://journals.sagepub.com/doi/10.1177/0278364915576234"
+  },
+  {
+   "sim": 0.588,
+   "DOI": "10.1109/icra.2011.5980408",
+   "type": "proceedings-article",
+   "title": "Reciprocal collision avoidance with acceleration-velocity obstacles",
+   "container": "2011 IEEE International Conference on Robotics and Automation",
+   "event": "2011 IEEE International Conference on Robotics and Automation (ICRA)",
+   "volume": null,
+   "issue": null,
+   "page": "3475-3482",
+   "article-number": null,
+   "published": [
+    [
+     2011,
+     5
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Jur van den Berg",
+    "Jamie Snape",
+    "Stephen J. Guy",
+    "Dinesh Manocha"
+   ],
+   "url": "http://ieeexplore.ieee.org/document/5980408/"
+  },
+  {
+   "sim": 0.513,
+   "DOI": "10.1109/icra.2013.6631118",
+   "type": "proceedings-article",
+   "title": "Reciprocal collision avoidance for robots with linear dynamics using LQR-Obstacles",
+   "container": "2013 IEEE International Conference on Robotics and Automation",
+   "event": "2013 IEEE International Conference on Robotics and Automation (ICRA)",
+   "volume": null,
+   "issue": null,
+   "page": "3847-3853",
+   "article-number": null,
+   "published": [
+    [
+     2013,
+     5
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Daman Bareiss",
+    "Jur van den Berg"
+   ],
+   "url": "http://ieeexplore.ieee.org/document/6631118/"
+  },
+  {
+   "sim": 0.272,
+   "DOI": "10.1109/icra.2014.6907132",
+   "type": "proceedings-article",
+   "title": "Efficient exact collision-checking of 3-D rigid body motions using linear transformations and distance computations in workspace",
+   "container": "2014 IEEE International Conference on Robotics and Automation (ICRA)",
+   "event": "2014 IEEE International Conference on Robotics and Automation (ICRA)",
+   "volume": null,
+   "issue": null,
+   "page": "2059-2064",
+   "article-number": null,
+   "published": [
+    [
+     2014,
+     5
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Liang He",
+    "Jur van den Berg"
+   ],
+   "url": "http://ieeexplore.ieee.org/document/6907132/"
+  }
+ ],
+ "TrautmanIJRR2015": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1177/0278364914557874",
+   "type": "journal-article",
+   "title": "Robot navigation in dense human crowds: Statistical models and experimental studies of human\u2013robot cooperation",
+   "container": "The International Journal of Robotics Research",
+   "event": null,
+   "volume": "34",
+   "issue": "3",
+   "page": "335-356",
+   "article-number": null,
+   "published": [
+    [
+     2015,
+     2,
+     5
+    ]
+   ],
+   "publisher": "SAGE Publications",
+   "authors": [
+    "Pete Trautman",
+    "Jeremy Ma",
+    "Richard M. Murray",
+    "Andreas Krause"
+   ],
+   "url": "https://journals.sagepub.com/doi/10.1177/0278364914557874"
+  },
+  {
+   "sim": 0.69,
+   "DOI": "10.1109/icra.2013.6630866",
+   "type": "proceedings-article",
+   "title": "Robot navigation in dense human crowds: the case for cooperation",
+   "container": "2013 IEEE International Conference on Robotics and Automation",
+   "event": "2013 IEEE International Conference on Robotics and Automation (ICRA)",
+   "volume": null,
+   "issue": null,
+   "page": "2153-2160",
+   "article-number": null,
+   "published": [
+    [
+     2013,
+     5
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Peter Trautman",
+    "Jeremy Ma",
+    "Richard M. Murray",
+    "Andreas Krause"
+   ],
+   "url": "http://ieeexplore.ieee.org/document/6630866/"
+  },
+  {
+   "sim": 0.407,
+   "DOI": "10.1109/iros.2010.5654369",
+   "type": "proceedings-article",
+   "title": "Unfreezing the robot: Navigation in dense, interacting crowds",
+   "container": "2010 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+   "event": "2010 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2010)",
+   "volume": null,
+   "issue": null,
+   "page": "797-803",
+   "article-number": null,
+   "published": [
+    [
+     2010,
+     10
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Peter Trautman",
+    "Andreas Krause"
+   ],
+   "url": "http://ieeexplore.ieee.org/document/5654369/"
+  },
+  {
+   "sim": 0.289,
+   "DOI": "10.1145/3583741",
+   "type": "journal-article",
+   "title": "Core Challenges of Social Robot Navigation: A Survey",
+   "container": "ACM Transactions on Human-Robot Interaction",
+   "event": null,
+   "volume": "12",
+   "issue": "3",
+   "page": "1-39",
+   "article-number": null,
+   "published": [
+    [
+     2023,
+     4,
+     24
+    ]
+   ],
+   "publisher": "Association for Computing Machinery (ACM)",
+   "authors": [
+    "Christoforos Mavrogiannis",
+    "Francesca Baldini",
+    "Allan Wang",
+    "Dapeng Zhao",
+    "Pete Trautman",
+    "Aaron Steinfeld",
+    "Jean Oh"
+   ],
+   "url": "https://dl.acm.org/doi/10.1145/3583741"
+  },
+  {
+   "sim": 0.273,
+   "DOI": "10.15607/rss.2017.xiii.005",
+   "type": "proceedings-article",
+   "title": "Breaking the Human-Robot Deadlock: Surpassing Shared Control Performance Limits with Sparse Human-Robot Interaction",
+   "container": "Robotics: Science and Systems XIII",
+   "event": "Robotics: Science and Systems 2017",
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": [
+    [
+     2017,
+     7,
+     12
+    ]
+   ],
+   "publisher": "Robotics: Science and Systems Foundation",
+   "authors": [
+    "Peter Trautman"
+   ],
+   "url": "http://www.roboticsproceedings.org/rss13/p05.pdf"
+  }
+ ],
+ "RiosMartinez": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1007/s12369-014-0251-1",
+   "type": "journal-article",
+   "title": "From Proxemics Theory to Socially-Aware Navigation: A Survey",
+   "container": "International Journal of Social Robotics",
+   "event": null,
+   "volume": "7",
+   "issue": "2",
+   "page": "137-153",
+   "article-number": null,
+   "published": [
+    [
+     2014,
+     9,
+     18
+    ]
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "authors": [
+    "J. Rios-Martinez",
+    "A. Spalanzani",
+    "C. Laugier"
+   ],
+   "url": "http://link.springer.com/10.1007/s12369-014-0251-1"
+  },
+  {
+   "sim": 0.427,
+   "DOI": "10.1007/978-3-319-00065-7_31",
+   "type": "book-chapter",
+   "title": "Human Aware Navigation for Assistive Robotics",
+   "container": "Springer Tracts in Advanced Robotics",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "449-462",
+   "article-number": null,
+   "published": [
+    [
+     2013
+    ]
+   ],
+   "publisher": "Springer International Publishing",
+   "authors": [
+    "Dizan Vasquez",
+    "Proc\u00f3pio Stein",
+    "Jorge Rios-Martinez",
+    "Arturo Escobedo",
+    "Anne Spalanzani",
+    "Christian Laugier"
+   ],
+   "url": "http://link.springer.com/10.1007/978-3-319-00065-7_31"
+  },
+  {
+   "sim": 0.427,
+   "DOI": "10.1007/978-0-85729-085-4_56",
+   "type": "book-chapter",
+   "title": "Risk Based Navigation Decisions",
+   "container": "Handbook of Intelligent Vehicles",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "1459-1477",
+   "article-number": null,
+   "published": [
+    [
+     2012
+    ]
+   ],
+   "publisher": "Springer London",
+   "authors": [
+    "Anne Spalanzani",
+    "Jorge Rios-Martinez",
+    "Christian Laugier",
+    "Sukhan Lee"
+   ],
+   "url": "https://link.springer.com/10.1007/978-0-85729-085-4_56"
+  },
+  {
+   "sim": 0.342,
+   "DOI": "10.1109/iros.2011.6094496",
+   "type": "proceedings-article",
+   "title": "Understanding human interaction for probabilistic autonomous navigation using Risk-RRT approach",
+   "container": "2011 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+   "event": "2011 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2011)",
+   "volume": null,
+   "issue": null,
+   "page": "2014-2019",
+   "article-number": null,
+   "published": [
+    [
+     2011,
+     9
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "J. Rios-Martinez",
+    "A. Spalanzani",
+    "C. Laugier"
+   ],
+   "url": "http://ieeexplore.ieee.org/document/6094496/"
+  },
+  {
+   "sim": 0.18,
+   "DOI": "10.70675/3e151ebeza277z4184za051za6a609dcc543",
+   "type": "dissertation",
+   "title": "Navigation de robot avec conscience sociale : entre l'evaluation des risques et celle des conventiones sociales",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": null,
+   "publisher": "Agence Bibliographique de l'Enseignement Sup\u00e9rieur",
+   "authors": [
+    "Jorge Rios Martinez"
+   ],
+   "url": "https://theses.fr/2013GRENM045"
+  }
+ ],
+ "GA3C-CADRL": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1109/iros.2018.8593871",
+   "type": "proceedings-article",
+   "title": "Motion Planning Among Dynamic, Decision-Making Agents with Deep Reinforcement Learning",
+   "container": "2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "event": "2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "volume": null,
+   "issue": null,
+   "page": "3052-3059",
+   "article-number": null,
+   "published": [
+    [
+     2018,
+     10
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Michael Everett",
+    "Yu Fan Chen",
+    "Jonathan P. How"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/8593871/"
+  },
+  {
+   "sim": 0.746,
+   "DOI": "10.1109/lra.2020.2974695",
+   "type": "journal-article",
+   "title": "Multi-Agent Motion Planning for Dense and Dynamic Environments via Deep Reinforcement Learning",
+   "container": "IEEE Robotics and Automation Letters",
+   "event": null,
+   "volume": "5",
+   "issue": "2",
+   "page": "3221-3226",
+   "article-number": null,
+   "published": [
+    [
+     2020,
+     4
+    ]
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "Samaneh Hosseini Semnani",
+    "Hugh Liu",
+    "Michael Everett",
+    "Anton de Ruiter",
+    "Jonathan P. How"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/9001226/"
+  },
+  {
+   "sim": 0.653,
+   "DOI": "10.1109/iros.2017.8202312",
+   "type": "proceedings-article",
+   "title": "Socially aware motion planning with deep reinforcement learning",
+   "container": "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "event": "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "volume": null,
+   "issue": null,
+   "page": "1343-1350",
+   "article-number": null,
+   "published": [
+    [
+     2017,
+     9
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Yu Fan Chen",
+    "Michael Everett",
+    "Miao Liu",
+    "Jonathan P. How"
+   ],
+   "url": "http://ieeexplore.ieee.org/document/8202312/"
+  },
+  {
+   "sim": 0.484,
+   "DOI": "10.65109/brcu3232",
+   "type": "proceedings-article",
+   "title": "Optimising Worlds to Evaluate and Influence Reinforcement Learning Agents",
+   "container": "International Joint Conference on Autonomous Agents and Multiagent Systems",
+   "event": "Proceedings of the Third International Joint Conference on Autonomous Agents and Multiagent Systems - Volume 1",
+   "volume": null,
+   "issue": null,
+   "page": "1943-1945",
+   "article-number": null,
+   "published": [
+    [
+     2019,
+     5,
+     8
+    ]
+   ],
+   "publisher": "IEEE Computer Society",
+   "authors": [
+    "Richard Everett",
+    "Adam Cobb",
+    "Andrew Markham",
+    "Stephen Roberts"
+   ],
+   "url": "https://dl.acm.org/doi/10.5555/3306127.3331971"
+  },
+  {
+   "sim": 0.447,
+   "DOI": "10.1109/tnnls.2021.3056046",
+   "type": "journal-article",
+   "title": "Certifiable Robustness to Adversarial State Uncertainty in Deep Reinforcement Learning",
+   "container": "IEEE Transactions on Neural Networks and Learning Systems",
+   "event": null,
+   "volume": "33",
+   "issue": "9",
+   "page": "4184-4198",
+   "article-number": null,
+   "published": [
+    [
+     2022,
+     9
+    ]
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "Michael Everett",
+    "Bjorn Lutjens",
+    "Jonathan P. How"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/9354500/"
+  }
+ ],
+ "PirkProtocol": [
+  {
+   "sim": 0.374,
+   "DOI": "10.1016/b978-0-443-29068-8.00161-6",
+   "type": "book-chapter",
+   "title": "Intraspecific reproductive parasitism in social insects",
+   "container": "Encyclopedia of Animal Behavior",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "173-179",
+   "article-number": null,
+   "published": [
+    [
+     2026
+    ]
+   ],
+   "publisher": "Elsevier",
+   "authors": [
+    "Christian W.W. Pirk",
+    "Abdullahi A. Yusuf"
+   ],
+   "url": "https://linkinghub.elsevier.com/retrieve/pii/B9780443290688001616"
+  },
+  {
+   "sim": 0.321,
+   "DOI": "10.1109/lra.2022.3184025",
+   "type": "journal-article",
+   "title": "Socially CompliAnt Navigation Dataset (SCAND): A Large-Scale Dataset of Demonstrations for Social Navigation",
+   "container": "IEEE Robotics and Automation Letters",
+   "event": null,
+   "volume": "7",
+   "issue": "4",
+   "page": "11807-11814",
+   "article-number": null,
+   "published": [
+    [
+     2022,
+     10
+    ]
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "Haresh Karnan",
+    "Anirudh Nair",
+    "Xuesu Xiao",
+    "Garrett Warnell",
+    "Soren Pirk",
+    "Alexander Toshev",
+    "Justin Hart",
+    "Joydeep Biswas",
+    "Peter Stone"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/9799755/"
+  },
+  {
+   "sim": 0.268,
+   "DOI": "10.1007/s40430-016-0533-7",
+   "type": "journal-article",
+   "title": "Validating the modeling of sandwich structures with constrained layer damping using fractional derivative models",
+   "container": "Journal of the Brazilian Society of Mechanical Sciences and Engineering",
+   "event": null,
+   "volume": "38",
+   "issue": "7",
+   "page": "1959-1972",
+   "article-number": null,
+   "published": [
+    [
+     2016,
+     5,
+     10
+    ]
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "authors": [
+    "R. Pirk",
+    "L. Rouleau",
+    "W. Desmet",
+    "B. Pluymers"
+   ],
+   "url": "http://link.springer.com/10.1007/s40430-016-0533-7"
+  },
+  {
+   "sim": 0.2,
+   "DOI": "10.1007/978-3-319-90306-4_2-1",
+   "type": "book-chapter",
+   "title": "African Honey Bees",
+   "container": "Encyclopedia of Social Insects",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "1-4",
+   "article-number": null,
+   "published": [
+    [
+     2019,
+     12,
+     5
+    ]
+   ],
+   "publisher": "Springer International Publishing",
+   "authors": [
+    "Christian Walter Werner Pirk"
+   ],
+   "url": "http://link.springer.com/10.1007/978-3-319-90306-4_2-1"
+  },
+  {
+   "sim": 0.2,
+   "DOI": "10.1007/978-3-030-28102-1_2",
+   "type": "book-chapter",
+   "title": "African Honey Bees",
+   "container": "Encyclopedia of Social Insects",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "11-14",
+   "article-number": null,
+   "published": [
+    [
+     2021
+    ]
+   ],
+   "publisher": "Springer International Publishing",
+   "authors": [
+    "Christian Walter Werner Pirk"
+   ],
+   "url": "https://link.springer.com/10.1007/978-3-030-28102-1_2"
+  }
+ ],
+ "CrowdNav++": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1109/icra48891.2023.10160660",
+   "type": "proceedings-article",
+   "title": "Intention Aware Robot Crowd Navigation with Attention-Based Interaction Graph",
+   "container": "2023 IEEE International Conference on Robotics and Automation (ICRA)",
+   "event": "2023 IEEE International Conference on Robotics and Automation (ICRA)",
+   "volume": null,
+   "issue": null,
+   "page": "12015-12021",
+   "article-number": null,
+   "published": [
+    [
+     2023,
+     5,
+     29
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Shuijing Liu",
+    "Peixin Chang",
+    "Zhe Huang",
+    "Neeloy Chakraborty",
+    "Kaiwen Hong",
+    "Weihang Liang",
+    "D. Livingston McPherson",
+    "Junyi Geng",
+    "Katherine Driggs-Campbell"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/10160660/"
+  },
+  {
+   "sim": 0.655,
+   "DOI": "10.1109/icra.2019.8794134",
+   "type": "proceedings-article",
+   "title": "Crowd-Robot Interaction: Crowd-Aware Robot Navigation With Attention-Based Deep Reinforcement Learning",
+   "container": "2019 International Conference on Robotics and Automation (ICRA)",
+   "event": "2019 International Conference on Robotics and Automation (ICRA)",
+   "volume": null,
+   "issue": null,
+   "page": "6015-6022",
+   "article-number": null,
+   "published": [
+    [
+     2019,
+     5
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Changan Chen",
+    "Yuejiang Liu",
+    "Sven Kreiss",
+    "Alexandre Alahi"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/8794134/"
+  },
+  {
+   "sim": 0.429,
+   "DOI": "10.1145/3858345",
+   "type": "journal-article",
+   "title": "Belief-based Risk-Aware Anticipatory Navigation: Modeling Intention and Position Uncertainty for Safe and Efficient Robot Navigation",
+   "container": "ACM Transactions on Human-Robot Interaction",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": "3858345",
+   "published": [
+    [
+     2026,
+     10,
+     11
+    ]
+   ],
+   "publisher": "Association for Computing Machinery (ACM)",
+   "authors": [
+    "Fengkai Liu",
+    "Yuichi Ohsita",
+    "Nattaon Techasarntikul",
+    "Masayuki Murata"
+   ],
+   "url": "https://dl.acm.org/doi/10.1145/3858345"
+  },
+  {
+   "sim": 0.414,
+   "DOI": "10.3390/electronics12234744",
+   "type": "journal-article",
+   "title": "Risk-Aware Deep Reinforcement Learning for Robot Crowd Navigation",
+   "container": "Electronics",
+   "event": null,
+   "volume": "12",
+   "issue": "23",
+   "page": "4744",
+   "article-number": null,
+   "published": [
+    [
+     2023,
+     11,
+     22
+    ]
+   ],
+   "publisher": "MDPI AG",
+   "authors": [
+    "Xueying Sun",
+    "Qiang Zhang",
+    "Yifei Wei",
+    "Mingmin Liu"
+   ],
+   "url": "https://www.mdpi.com/2079-9292/12/23/4744"
+  },
+  {
+   "sim": 0.267,
+   "DOI": "10.1109/tase.2025.3646588/mm1",
+   "type": "component",
+   "title": "HEIGHT: Heterogeneous Interaction Graph Transformer for Robot Navigation in Crowded and Constrained Environments_supp1-3646588.mp4",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": null,
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "Shuijing Liu"
+   ],
+   "url": "https://ieeexplore.ieee.org/ielx8/8856/11323516/11305122/supp1-3646588.mp4?arnumber=11305122"
+  }
+ ],
+ "DS-RNN": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1109/icra48506.2021.9561595",
+   "type": "proceedings-article",
+   "title": "Decentralized Structural-RNN for Robot Crowd Navigation with Deep Reinforcement Learning",
+   "container": "2021 IEEE International Conference on Robotics and Automation (ICRA)",
+   "event": "2021 IEEE International Conference on Robotics and Automation (ICRA)",
+   "volume": null,
+   "issue": null,
+   "page": "3517-3524",
+   "article-number": null,
+   "published": [
+    [
+     2021,
+     5,
+     30
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Shuijing Liu",
+    "Peixin Chang",
+    "Weihang Liang",
+    "Neeloy Chakraborty",
+    "Katherine Driggs-Campbell"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/9561595/"
+  },
+  {
+   "sim": 0.652,
+   "DOI": "10.3390/biomimetics10060366",
+   "type": "journal-article",
+   "title": "Decentralized Multi-Robot Navigation Based on Deep Reinforcement Learning and Trajectory Optimization",
+   "container": "Biomimetics",
+   "event": null,
+   "volume": "10",
+   "issue": "6",
+   "page": "366",
+   "article-number": null,
+   "published": [
+    [
+     2025,
+     6,
+     4
+    ]
+   ],
+   "publisher": "MDPI AG",
+   "authors": [
+    "Yifei Bi",
+    "Jianing Luo",
+    "Jiwei Zhu",
+    "Junxiu Liu",
+    "Wei Li"
+   ],
+   "url": "https://www.mdpi.com/2313-7673/10/6/366"
+  },
+  {
+   "sim": 0.627,
+   "DOI": "10.1109/icra.2019.8794134",
+   "type": "proceedings-article",
+   "title": "Crowd-Robot Interaction: Crowd-Aware Robot Navigation With Attention-Based Deep Reinforcement Learning",
+   "container": "2019 International Conference on Robotics and Automation (ICRA)",
+   "event": "2019 International Conference on Robotics and Automation (ICRA)",
+   "volume": null,
+   "issue": null,
+   "page": "6015-6022",
+   "article-number": null,
+   "published": [
+    [
+     2019,
+     5
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Changan Chen",
+    "Yuejiang Liu",
+    "Sven Kreiss",
+    "Alexandre Alahi"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/8794134/"
+  },
+  {
+   "sim": 0.599,
+   "DOI": "10.1109/lra.2023.3322093",
+   "type": "journal-article",
+   "title": "RMRL: Robot Navigation in Crowd Environments With Risk Map-Based Deep Reinforcement Learning",
+   "container": "IEEE Robotics and Automation Letters",
+   "event": null,
+   "volume": "8",
+   "issue": "12",
+   "page": "7930-7937",
+   "article-number": null,
+   "published": [
+    [
+     2023,
+     12
+    ]
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "Haodong Yang",
+    "Chenpeng Yao",
+    "Chengju Liu",
+    "Qijun Chen"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/10271559/"
+  },
+  {
+   "sim": 0.45,
+   "DOI": "10.3390/electronics12234744",
+   "type": "journal-article",
+   "title": "Risk-Aware Deep Reinforcement Learning for Robot Crowd Navigation",
+   "container": "Electronics",
+   "event": null,
+   "volume": "12",
+   "issue": "23",
+   "page": "4744",
+   "article-number": null,
+   "published": [
+    [
+     2023,
+     11,
+     22
+    ]
+   ],
+   "publisher": "MDPI AG",
+   "authors": [
+    "Xueying Sun",
+    "Qiang Zhang",
+    "Yifei Wei",
+    "Mingmin Liu"
+   ],
+   "url": "https://www.mdpi.com/2079-9292/12/23/4744"
+  }
+ ],
+ "Kathuria": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1109/lra.2025.3557299",
+   "type": "journal-article",
+   "title": "Learning Implicit Social Navigation Behavior Using Deep Inverse Reinforcement Learning",
+   "container": "IEEE Robotics and Automation Letters",
+   "event": null,
+   "volume": "10",
+   "issue": "5",
+   "page": "5146-5153",
+   "article-number": null,
+   "published": [
+    [
+     2025,
+     5
+    ]
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "Tribhi Kathuria",
+    "Ke Liu",
+    "Junwoo Jang",
+    "X. Jessie Yang",
+    "Maani Ghaffari"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/10947583/"
+  },
+  {
+   "sim": 0.598,
+   "DOI": "10.1109/icra48891.2023.10160536",
+   "type": "proceedings-article",
+   "title": "SoLo T-DIRL: Socially-Aware Dynamic Local Planner based on Trajectory-Ranked Deep Inverse Reinforcement Learning",
+   "container": "2023 IEEE International Conference on Robotics and Automation (ICRA)",
+   "event": "2023 IEEE International Conference on Robotics and Automation (ICRA)",
+   "volume": null,
+   "issue": null,
+   "page": "12045-12051",
+   "article-number": null,
+   "published": [
+    [
+     2023,
+     5,
+     29
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Yifan Xu",
+    "Theodor Chakhachiro",
+    "Tribhi Kathuria",
+    "Maani Ghaffari"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/10160536/"
+  },
+  {
+   "sim": 0.389,
+   "DOI": "10.21203/rs.3.rs-2490004/v1",
+   "type": "posted-content",
+   "title": "Sunflower Disease detection using\u00a0Ensemble Deep Learning Models",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": [
+    [
+     2023,
+     11,
+     29
+    ]
+   ],
+   "publisher": "Research Square Platform LLC",
+   "authors": [
+    "Saksham Kathuria",
+    "Noamaan Abdul Azeem",
+    "Sanjeev Sharma",
+    "Nitesh K Bharadwaj"
+   ],
+   "url": "https://www.researchsquare.com/article/rs-2490004/v1"
+  },
+  {
+   "sim": 0.167,
+   "DOI": "10.1109/iccmrai67732.2026.11724138",
+   "type": "proceedings-article",
+   "title": "A Comprehensive Analysis of Machine Learning and Deep Learning Approaches for Skin Cancer Detection and Classification",
+   "container": "2026 1st International Conference on Computer, Mechatronics, Robotics &amp; Artificial Intelligence (ICCMRAI)",
+   "event": "2026 1st International Conference on Computer, Mechatronics, Robotics & Artificial Intelligence (ICCMRAI)",
+   "volume": null,
+   "issue": null,
+   "page": "1-6",
+   "article-number": null,
+   "published": [
+    [
+     2026,
+     7
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Preeti Kathuria",
+    "Deepa Nehra"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/11724138/"
+  },
+  {
+   "sim": 0.042,
+   "DOI": "10.1201/9780367854737-4",
+   "type": "book-chapter",
+   "title": "Fuzzy MCDM",
+   "container": "Artificial Intelligence Trends for Data Analytics Using Machine Learning and Deep Learning Approaches",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "55-70",
+   "article-number": null,
+   "published": [
+    [
+     2020,
+     10,
+     7
+    ]
+   ],
+   "publisher": "CRC Press",
+   "authors": [
+    "Rachna Jain",
+    "Abhishek Kathuria",
+    "Devanshi Mukhopadhyay",
+    "Meenu Gupta"
+   ],
+   "url": "https://www.taylorfrancis.com/books/9781000179514/chapters/10.1201/9780367854737-4"
+  }
+ ],
+ "ETH": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1109/iccv.2009.5459260",
+   "type": "proceedings-article",
+   "title": "You'll never walk alone: Modeling social behavior for multi-target tracking",
+   "container": "2009 IEEE 12th International Conference on Computer Vision",
+   "event": "2009 IEEE 12th International Conference on Computer Vision (ICCV)",
+   "volume": null,
+   "issue": null,
+   "page": "261-268",
+   "article-number": null,
+   "published": [
+    [
+     2009,
+     9
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "S Pellegrini",
+    "A Ess",
+    "K Schindler",
+    "L van Gool"
+   ],
+   "url": "http://ieeexplore.ieee.org/document/5459260/"
+  },
+  {
+   "sim": 0.41,
+   "DOI": "10.1007/978-90-481-9195-6_16",
+   "type": "book-chapter",
+   "title": "Phase-Field Modeling of Nonlinear Material Behavior",
+   "container": "IUTAM Bookseries",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "209-220",
+   "article-number": null,
+   "published": [
+    [
+     2010
+    ]
+   ],
+   "publisher": "Springer Netherlands",
+   "authors": [
+    "Y.-P. Pellegrini",
+    "C. Denoual",
+    "L. Truskinovsky"
+   ],
+   "url": "https://link.springer.com/10.1007/978-90-481-9195-6_16"
+  },
+  {
+   "sim": 0.344,
+   "DOI": "10.1016/j.psj.2022.102328",
+   "type": "journal-article",
+   "title": "The insemination status and social context influences quail laying and social behavior: A novel experimental set up",
+   "container": "Poultry Science",
+   "event": null,
+   "volume": "102",
+   "issue": "2",
+   "page": "102328",
+   "article-number": "102328",
+   "published": [
+    [
+     2023,
+     2
+    ]
+   ],
+   "publisher": "Elsevier BV",
+   "authors": [
+    "S. Pellegrini",
+    "G.A. Orso",
+    "R.H. Marin",
+    "D.A. Guzman"
+   ],
+   "url": "https://linkinghub.elsevier.com/retrieve/pii/S0032579122006228"
+  },
+  {
+   "sim": 0.32,
+   "DOI": "10.1109/mascots.2012.25",
+   "type": "proceedings-article",
+   "title": "Transparent and Efficient Shared-State Management for Optimistic Simulations on Multi-core Machines",
+   "container": "2012 IEEE 20th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems",
+   "event": "2012 IEEE 20th International Symposium on Modelling, Analysis & Simulation of Computer and Telecommunication Systems (MASCOTS)",
+   "volume": null,
+   "issue": null,
+   "page": "134-141",
+   "article-number": null,
+   "published": [
+    [
+     2012,
+     8
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Alessandro Pellegrini",
+    "Roberto Vitali",
+    "Sebastiano Peluso",
+    "Francesco Quaglia"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/6298173/"
+  },
+  {
+   "sim": 0.317,
+   "DOI": "10.1207/s15566935eed0304_2",
+   "type": "journal-article",
+   "title": "Ethological Studies of the Categorization of Children's Social Behavior in Preschool: A Review",
+   "container": "Early Education &amp; Development",
+   "event": null,
+   "volume": "3",
+   "issue": "4",
+   "page": "284-297",
+   "article-number": null,
+   "published": [
+    [
+     1992,
+     10
+    ]
+   ],
+   "publisher": "Informa UK Limited",
+   "authors": [
+    "A. D. Pellegrini"
+   ],
+   "url": "http://www.tandfonline.com/doi/abs/10.1207/s15566935eed0304_2"
+  }
+ ],
+ "UCY": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1111/j.1467-8659.2007.01089.x",
+   "type": "journal-article",
+   "title": "Crowds by Example",
+   "container": "Computer Graphics Forum",
+   "event": null,
+   "volume": "26",
+   "issue": "3",
+   "page": "655-664",
+   "article-number": null,
+   "published": [
+    [
+     2007,
+     9
+    ]
+   ],
+   "publisher": "Wiley",
+   "authors": [
+    "Alon Lerner",
+    "Yiorgos Chrysanthou",
+    "Dani Lischinski"
+   ],
+   "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1467-8659.2007.01089.x"
+  },
+  {
+   "sim": 0.333,
+   "DOI": "10.1145/3486609.3491064",
+   "type": "proceedings-article",
+   "title": "Live programming and programming by example: better together (keynote)",
+   "container": "Proceedings of the 20th ACM SIGPLAN International Conference on Generative Programming: Concepts and Experiences",
+   "event": "GPCE '21: Concepts and Experiences",
+   "volume": null,
+   "issue": null,
+   "page": "1-1",
+   "article-number": null,
+   "published": [
+    [
+     2021,
+     10,
+     17
+    ]
+   ],
+   "publisher": "ACM",
+   "authors": [
+    "Sorin Lerner"
+   ],
+   "url": "https://dl.acm.org/doi/10.1145/3486609.3491064"
+  },
+  {
+   "sim": 0.282,
+   "DOI": "10.7330/9781607328810.c018",
+   "type": "book-chapter",
+   "title": "Appendix D Example of Hyperresearch Coding Environment",
+   "container": "Reformers, Teachers, Writers",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "155-155",
+   "article-number": null,
+   "published": [
+    [
+     2019,
+     5,
+     17
+    ]
+   ],
+   "publisher": "Utah State University Press",
+   "authors": [
+    "Neal Lerner"
+   ],
+   "url": "https://www.degruyterbrill.com/document/doi/10.7330/9781607328810.c018/html"
+  },
+  {
+   "sim": 0.245,
+   "DOI": "10.1007/978-3-642-10347-6_7",
+   "type": "book-chapter",
+   "title": "Data Driven Evaluation of Crowds",
+   "container": "Lecture Notes in Computer Science",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "75-83",
+   "article-number": null,
+   "published": [
+    [
+     2009
+    ]
+   ],
+   "publisher": "Springer Berlin Heidelberg",
+   "authors": [
+    "Alon Lerner",
+    "Yiorgos Chrysanthou",
+    "Ariel Shamir",
+    "Daniel Cohen-Or"
+   ],
+   "url": "http://link.springer.com/10.1007/978-3-642-10347-6_7"
+  },
+  {
+   "sim": 0.211,
+   "DOI": "10.30861/9781407301266",
+   "type": "monograph",
+   "title": "Lithic Raw Material Variability and the Reduction of Short-Term-Use Implements: An example from northwestern New Mexico",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": [
+    [
+     2007
+    ]
+   ],
+   "publisher": "University of Michigan Press",
+   "authors": [
+    "Harry Joseph Lerner"
+   ],
+   "url": "https://www.fulcrum.org/concern/monographs/4t64gp90p"
+  }
+ ],
+ "SocialLSTM": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1109/cvpr.2016.110",
+   "type": "proceedings-article",
+   "title": "Social LSTM: Human Trajectory Prediction in Crowded Spaces",
+   "container": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "event": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "volume": null,
+   "issue": null,
+   "page": "961-971",
+   "article-number": null,
+   "published": [
+    [
+     2016,
+     6
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Alexandre Alahi",
+    "Kratarth Goel",
+    "Vignesh Ramanathan",
+    "Alexandre Robicquet",
+    "Li Fei-Fei",
+    "Silvio Savarese"
+   ],
+   "url": "http://ieeexplore.ieee.org/document/7780479/"
+  },
+  {
+   "sim": 0.702,
+   "DOI": "10.1007/978-3-319-46484-8_33",
+   "type": "book-chapter",
+   "title": "Learning Social Etiquette: Human Trajectory Understanding In Crowded Scenes",
+   "container": "Lecture Notes in Computer Science",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "549-565",
+   "article-number": null,
+   "published": [
+    [
+     2016
+    ]
+   ],
+   "publisher": "Springer International Publishing",
+   "authors": [
+    "Alexandre Robicquet",
+    "Amir Sadeghian",
+    "Alexandre Alahi",
+    "Silvio Savarese"
+   ],
+   "url": "http://link.springer.com/10.1007/978-3-319-46484-8_33"
+  },
+  {
+   "sim": 0.7,
+   "DOI": "10.1109/tits.2025.3594889",
+   "type": "journal-article",
+   "title": "Social-Pose: Enhancing Trajectory Prediction With Human Body Pose",
+   "container": "IEEE Transactions on Intelligent Transportation Systems",
+   "event": null,
+   "volume": "26",
+   "issue": "11",
+   "page": "21309-21319",
+   "article-number": null,
+   "published": [
+    [
+     2025,
+     11
+    ]
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "Yang Gao",
+    "Saeed Saadatnejad",
+    "Alexandre Alahi"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/11124353/"
+  },
+  {
+   "sim": 0.542,
+   "DOI": "10.1109/icra.2017.7989311",
+   "type": "proceedings-article",
+   "title": "Unsupervised camera localization in crowded spaces",
+   "container": "2017 IEEE International Conference on Robotics and Automation (ICRA)",
+   "event": "2017 IEEE International Conference on Robotics and Automation (ICRA)",
+   "volume": null,
+   "issue": null,
+   "page": "2666-2673",
+   "article-number": null,
+   "published": [
+    [
+     2017,
+     5
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Alexandre Alahi",
+    "Judson Wilson",
+    "Li Fei-Fei",
+    "Silvio Savarese"
+   ],
+   "url": "http://ieeexplore.ieee.org/document/7989311/"
+  },
+  {
+   "sim": 0.51,
+   "DOI": "10.1016/b978-0-12-809276-7.00007-2",
+   "type": "book-chapter",
+   "title": "Tracking Millions of Humans in Crowded Spaces",
+   "container": "Group and Crowd Behavior for Computer Vision",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "115-135",
+   "article-number": null,
+   "published": [
+    [
+     2017
+    ]
+   ],
+   "publisher": "Elsevier",
+   "authors": [
+    "Alexandre Alahi",
+    "Vignesh Ramanathan",
+    "Li Fei-Fei"
+   ],
+   "url": "https://linkinghub.elsevier.com/retrieve/pii/B9780128092767000072"
+  }
+ ],
+ "FanDRL": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1177/0278364920916531",
+   "type": "journal-article",
+   "title": "Distributed multi-robot collision avoidance via deep reinforcement learning for navigation in complex scenarios",
+   "container": "The International Journal of Robotics Research",
+   "event": null,
+   "volume": "39",
+   "issue": "7",
+   "page": "856-892",
+   "article-number": null,
+   "published": [
+    [
+     2020,
+     5,
+     31
+    ]
+   ],
+   "publisher": "SAGE Publications",
+   "authors": [
+    "Tingxiang Fan",
+    "Pinxin Long",
+    "Wenxi Liu",
+    "Jia Pan"
+   ],
+   "url": "https://journals.sagepub.com/doi/10.1177/0278364920916531"
+  },
+  {
+   "sim": 0.804,
+   "DOI": "10.1109/iros47612.2022.9981803",
+   "type": "proceedings-article",
+   "title": "Vision-based Distributed Multi-UAV Collision Avoidance via Deep Reinforcement Learning for Navigation",
+   "container": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "event": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "volume": null,
+   "issue": null,
+   "page": "13745-13752",
+   "article-number": null,
+   "published": [
+    [
+     2022,
+     10,
+     23
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Huaxing Huang",
+    "Guijie Zhu",
+    "Zhun Fan",
+    "Hao Zhai",
+    "Yuwei Cai",
+    "Ze Shi",
+    "Zhaohui Dong",
+    "Zhifeng Hao"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/9981803/"
+  },
+  {
+   "sim": 0.622,
+   "DOI": "10.3390/jmse11040812",
+   "type": "journal-article",
+   "title": "An Intelligent Algorithm for USVs Collision Avoidance Based on Deep Reinforcement Learning Approach with Navigation Characteristics",
+   "container": "Journal of Marine Science and Engineering",
+   "event": null,
+   "volume": "11",
+   "issue": "4",
+   "page": "812",
+   "article-number": null,
+   "published": [
+    [
+     2023,
+     4,
+     11
+    ]
+   ],
+   "publisher": "MDPI AG",
+   "authors": [
+    "Zhe Sun",
+    "Yunsheng Fan",
+    "Guofeng Wang"
+   ],
+   "url": "https://www.mdpi.com/2077-1312/11/4/812"
+  },
+  {
+   "sim": 0.367,
+   "DOI": "10.1109/iros45743.2020.9341805",
+   "type": "proceedings-article",
+   "title": "DeepMNavigate: Deep Reinforced Multi-Robot Navigation Unifying Local &amp; Global Collision Avoidance",
+   "container": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "event": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "volume": null,
+   "issue": null,
+   "page": "6952-6959",
+   "article-number": null,
+   "published": [
+    [
+     2020,
+     10,
+     24
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Qingyang Tan",
+    "Tingxiang Fan",
+    "Jia Pan",
+    "Dinesh Manocha"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/9341805/"
+  },
+  {
+   "sim": 0.356,
+   "DOI": "10.1109/tevc.2025.3535954/mm1",
+   "type": "component",
+   "title": "A Deep Reinforcement Learning-Assisted Multimodal Multi-Objective Bi-Level Optimization Method for Multi-Robot Task Allocation_supp1-3535954.pdf",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": null,
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "qinqin fan"
+   ],
+   "url": "https://ieeexplore.ieee.org/ielx8/4235/11018639/10856849/supp1-3535954.pdf?arnumber=10856849"
+  }
+ ],
+ "SisbotHAMP": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1109/tro.2007.904911",
+   "type": "journal-article",
+   "title": "A Human Aware Mobile Robot Motion Planner",
+   "container": "IEEE Transactions on Robotics",
+   "event": null,
+   "volume": "23",
+   "issue": "5",
+   "page": "874-883",
+   "article-number": null,
+   "published": [
+    [
+     2007,
+     10
+    ]
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "E.A. Sisbot",
+    "L.F. Marin-Urias",
+    "R. Alami",
+    "T. Simeon"
+   ],
+   "url": "http://ieeexplore.ieee.org/document/4339546/"
+  },
+  {
+   "sim": 0.757,
+   "DOI": "10.1109/tro.2012.2196303",
+   "type": "journal-article",
+   "title": "A Human-Aware Manipulation Planner",
+   "container": "IEEE Transactions on Robotics",
+   "event": null,
+   "volume": "28",
+   "issue": "5",
+   "page": "1045-1057",
+   "article-number": null,
+   "published": [
+    [
+     2012,
+     10
+    ]
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "E. A. Sisbot",
+    "R. Alami"
+   ],
+   "url": "http://ieeexplore.ieee.org/document/6197743/"
+  },
+  {
+   "sim": 0.532,
+   "DOI": "10.1109/roman.2006.314487",
+   "type": "proceedings-article",
+   "title": "Implementing a Human-Aware Robot System",
+   "container": "ROMAN 2006 - The 15th IEEE International Symposium on Robot and Human Interactive Communication",
+   "event": "ROMAN 2006 - The 15th IEEE International Symposium on Robot and Human Interactive Communication",
+   "volume": null,
+   "issue": null,
+   "page": "727-732",
+   "article-number": null,
+   "published": [
+    [
+     2006,
+     9
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "E. Sisbot",
+    "Aurelie Clodic",
+    "Luis Marin U.",
+    "Mathias Fontmarty",
+    "Ludovic Brethes",
+    "Rachid Alami"
+   ],
+   "url": "http://ieeexplore.ieee.org/document/4107895/"
+  },
+  {
+   "sim": 0.509,
+   "DOI": "10.1109/icra.2011.5980048",
+   "type": "proceedings-article",
+   "title": "Planning human-aware motions using a sampling-based costmap planner",
+   "container": "2011 IEEE International Conference on Robotics and Automation",
+   "event": "2011 IEEE International Conference on Robotics and Automation (ICRA)",
+   "volume": null,
+   "issue": null,
+   "page": "5012-5017",
+   "article-number": null,
+   "published": [
+    [
+     2011,
+     5
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Jim Mainprice",
+    "E. Akin Sisbot",
+    "Leonard Jaillet",
+    "Juan Cortes",
+    "Rachid Alami",
+    "Thierry Simeon"
+   ],
+   "url": "http://ieeexplore.ieee.org/document/5980048/"
+  },
+  {
+   "sim": 0.314,
+   "DOI": "10.1145/1349822.1349865",
+   "type": "proceedings-article",
+   "title": "Supervision and motion planning for a mobile manipulator interacting with humans",
+   "container": "Proceedings of the 3rd ACM/IEEE international conference on Human robot interaction",
+   "event": "HRI '08: International Conference on Human Robot Interaction",
+   "volume": null,
+   "issue": null,
+   "page": "327-334",
+   "article-number": null,
+   "published": [
+    [
+     2008,
+     3,
+     12
+    ]
+   ],
+   "publisher": "ACM",
+   "authors": [
+    "Emrah Akin Sisbot",
+    "Aurelie Clodic",
+    "Rachid Alami",
+    "Maxime Ransan"
+   ],
+   "url": "https://dl.acm.org/doi/10.1145/1349822.1349865"
+  }
+ ],
+ "SocialGAN": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1109/cvpr.2018.00240",
+   "type": "proceedings-article",
+   "title": "Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks",
+   "container": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+   "event": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "volume": null,
+   "issue": null,
+   "page": "2255-2264",
+   "article-number": null,
+   "published": [
+    [
+     2018,
+     6
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Agrim Gupta",
+    "Justin Johnson",
+    "Li Fei-Fei",
+    "Silvio Savarese",
+    "Alexandre Alahi"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/8578338/"
+  },
+  {
+   "sim": 0.573,
+   "DOI": "10.21437/interspeech.2018-1883",
+   "type": "proceedings-article",
+   "title": "On Enhancing Speech Emotion Recognition Using Generative Adversarial Networks",
+   "container": "Interspeech 2018",
+   "event": "Interspeech 2018",
+   "volume": null,
+   "issue": null,
+   "page": "3693-3697",
+   "article-number": null,
+   "published": [
+    [
+     2018,
+     9,
+     2
+    ]
+   ],
+   "publisher": "ISCA",
+   "authors": [
+    "Saurabh Sahu",
+    "Rahul Gupta",
+    "Carol Espy-Wilson"
+   ],
+   "url": "https://www.isca-archive.org/interspeech_2018/sahu18_interspeech.html"
+  },
+  {
+   "sim": 0.55,
+   "DOI": "10.1109/spin60856.2024.10511789",
+   "type": "proceedings-article",
+   "title": "Synthesis of Wilms tumor images using Generative Adversarial Networks",
+   "container": "2024 11th International Conference on Signal Processing and Integrated Networks (SPIN)",
+   "event": "2024 11th International Conference on Signal Processing and Integrated Networks (SPIN)",
+   "volume": null,
+   "issue": null,
+   "page": "89-92",
+   "article-number": null,
+   "published": [
+    [
+     2024,
+     3,
+     21
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Manika Jha",
+    "Richa Gupta",
+    "Rajiv Saxena"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/10511789/"
+  },
+  {
+   "sim": 0.526,
+   "DOI": "10.1201/9781003083177-5",
+   "type": "book-chapter",
+   "title": "Image Formation Using Deep Convolutional Generative Adversarial Networks",
+   "container": "Predictive Analytics",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "81-88",
+   "article-number": null,
+   "published": [
+    [
+     2021,
+     1,
+     13
+    ]
+   ],
+   "publisher": "CRC Press",
+   "authors": [
+    "Astha Bathla",
+    "Aakanshi Gupta"
+   ],
+   "url": "https://www.taylorfrancis.com/books/9781000332865/chapters/10.1201/9781003083177-5"
+  },
+  {
+   "sim": 0.302,
+   "DOI": "10.1016/b978-0-12-823519-5.00030-0",
+   "type": "book-chapter",
+   "title": "Super-resolution-based GAN for image processing: Recent advances and future trends",
+   "container": "Generative Adversarial Networks for Image-to-Image Translation",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "1-15",
+   "article-number": null,
+   "published": [
+    [
+     2021
+    ]
+   ],
+   "publisher": "Elsevier",
+   "authors": [
+    "Meenu Gupta",
+    "Meet Kumari",
+    "Rachna Jain",
+    "Lakshay"
+   ],
+   "url": "https://linkinghub.elsevier.com/retrieve/pii/B9780128235195000300"
+  }
+ ],
+ "SocialGym": [
+  {
+   "sim": 0.845,
+   "DOI": "10.1609/aaai.v38i21.30562",
+   "type": "journal-article",
+   "title": "SOCIALGYM 2.0: Simulator for Multi-Robot Learning and Navigation in Shared Human Spaces",
+   "container": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "event": null,
+   "volume": "38",
+   "issue": "21",
+   "page": "23778-23780",
+   "article-number": null,
+   "published": [
+    [
+     2024,
+     3,
+     24
+    ]
+   ],
+   "publisher": "Association for the Advancement of Artificial Intelligence (AAAI)",
+   "authors": [
+    "Rohan Chandra",
+    "Zayne Sprague",
+    "Joydeep Biswas"
+   ],
+   "url": "https://ojs.aaai.org/index.php/AAAI/article/view/30562"
+  },
+  {
+   "sim": 0.422,
+   "DOI": "10.1167/jov.24.10.1216",
+   "type": "journal-article",
+   "title": "Sustained stimulus-selective multi-unit activity in human primary visual cortex",
+   "container": "Journal of Vision",
+   "event": null,
+   "volume": "24",
+   "issue": "10",
+   "page": "1216",
+   "article-number": null,
+   "published": [
+    [
+     2024,
+     9,
+     15
+    ]
+   ],
+   "publisher": "Association for Research in Vision and Ophthalmology (ARVO)",
+   "authors": [
+    "Lucas Nadolskis",
+    "Galen Pogoncheff",
+    "Jacob Granley",
+    "Alfonso Rodil",
+    "Leili Soo",
+    "Lily Turkstra",
+    "Thomas Sprague",
+    "Arantxa Alfaro Saez",
+    "Cristina Soto Sanchez",
+    "Eduardo Fernandez Jover",
+    "Michael Beyeler"
+   ],
+   "url": "https://jov.arvojournals.org/article.aspx?articleid=2801869"
+  },
+  {
+   "sim": 0.284,
+   "DOI": "10.1037/12182-000",
+   "type": "book",
+   "title": "Considerations on some of the elements and conditions of social welfare and human progress, being academic and occasional discourses and other pieces.",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": [
+    [
+     1861
+    ]
+   ],
+   "publisher": "D Appleton & Company",
+   "authors": [
+    "Caleb Sprague Henry"
+   ],
+   "url": "https://content.apa.org/books/12182-000"
+  }
+ ],
+ "NaVILA": [
+  {
+   "sim": 1.0,
+   "DOI": "10.15607/rss.2025.xxi.018",
+   "type": "proceedings-article",
+   "title": "NaVILA: Legged Robot Vision-Language-Action Model for Navigation",
+   "container": "Robotics: Science and Systems XXI",
+   "event": "Robotics: Science and Systems 2025",
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": [
+    [
+     2025,
+     6,
+     21
+    ]
+   ],
+   "publisher": "Robotics: Science and Systems Foundation",
+   "authors": [
+    "An-Chieh Cheng",
+    "Yandong Ji",
+    "Zhaojing Yang",
+    "Zaitian Gongye",
+    "Xueyan Zou",
+    "Jan Kautz",
+    "Erdem Biyik",
+    "Hongxu Yin",
+    "Sifei Liu",
+    "Xiaolong Wang"
+   ],
+   "url": "https://www.roboticsproceedings.org/rss21/p018.pdf"
+  },
+  {
+   "sim": 0.509,
+   "DOI": "10.31224/6733",
+   "type": "posted-content",
+   "title": "Graph-Fused Vision-Language-Action Models for Semantically Safe Dual-Robot Control via Control Barrier Functions",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": [
+    [
+     2026,
+     4,
+     1
+    ]
+   ],
+   "publisher": "Open Engineering Inc",
+   "authors": [
+    "Jiajun Gu",
+    "Weihao Cheng",
+    "Longsen Gao"
+   ],
+   "url": "https://engrxiv.org/preprint/view/6733/version/8759"
+  },
+  {
+   "sim": 0.339,
+   "DOI": "10.1109/aris.2015.7158229",
+   "type": "proceedings-article",
+   "title": "Vision-based coverage navigation for robot trash collection task",
+   "container": "2015 International Conference on Advanced Robotics and Intelligent Systems (ARIS)",
+   "event": "2015 International Conference on Advanced Robotics and Intelligent Systems (ARIS)",
+   "volume": null,
+   "issue": null,
+   "page": "1-6",
+   "article-number": null,
+   "published": [
+    [
+     2015,
+     5
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Cheng-Hsiung Chiang"
+   ],
+   "url": "http://ieeexplore.ieee.org/document/7158229/"
+  },
+  {
+   "sim": 0.313,
+   "DOI": "10.5772/17346",
+   "type": "book-chapter",
+   "title": "A Distributed Mobile Robot Navigation by Snake Coordinated Vision Sensors",
+   "container": "Advances in Robot Navigation",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": [
+    [
+     2011,
+     6,
+     15
+    ]
+   ],
+   "publisher": "InTech",
+   "authors": [
+    "Yongqiang Cheng",
+    "Ping Jiang",
+    "Yim Fun"
+   ],
+   "url": "http://www.intechopen.com/books/advances-in-robot-navigation/a-distributed-mobile-robot-navigation-by-snake-coordinated-vision-sensors"
+  },
+  {
+   "sim": 0.247,
+   "DOI": "10.1016/j.displa.2026.103724",
+   "type": "journal-article",
+   "title": "HAVEN: A unified monocular RGB vision-and-language navigation framework for wheeled-legged robots",
+   "container": "Displays",
+   "event": null,
+   "volume": "96",
+   "issue": null,
+   "page": "103724",
+   "article-number": "103724",
+   "published": [
+    [
+     2027,
+     1
+    ]
+   ],
+   "publisher": "Elsevier BV",
+   "authors": [
+    "Mingyu Dai",
+    "ChenXi Huang",
+    "Boyuan Zheng",
+    "Zhenqing Cheng",
+    "Wenzhou Dong",
+    "Liang Wu"
+   ],
+   "url": "https://linkinghub.elsevier.com/retrieve/pii/S0141938226003872"
+  }
+ ],
+ "HuNavSim": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1109/lra.2023.3316072",
+   "type": "journal-article",
+   "title": "HuNavSim: A ROS 2 Human Navigation Simulator for Benchmarking Human-Aware Robot Navigation",
+   "container": "IEEE Robotics and Automation Letters",
+   "event": null,
+   "volume": "8",
+   "issue": "11",
+   "page": "7130-7137",
+   "article-number": null,
+   "published": [
+    [
+     2023,
+     11
+    ]
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "No\u00e9 P\u00e9rez-Higueras",
+    "Roberto Otero",
+    "Fernando Caballero",
+    "Luis Merino"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/10252030/"
+  },
+  {
+   "sim": 0.921,
+   "DOI": "10.1109/lra.2023.3316072/mm1",
+   "type": "component",
+   "title": "HuNavSim: A ROS 2 Human Navigation Simulator for Benchmarking Human-Aware Robot Navigation_supp1-3316072.mp4",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": null,
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "Noe Perez-Higueras"
+   ],
+   "url": "https://ieeexplore.ieee.org/ielx7/7083369/10254630/10252030/supp1-3316072.mp4?arnumber=10252030"
+  },
+  {
+   "sim": 0.812,
+   "DOI": "10.1007/978-3-032-30156-7_25",
+   "type": "book-chapter",
+   "title": "HuNavSim 2.0: An Enhanced Human Navigation Simulator for\u00a0Human-Aware Robot Navigation",
+   "container": "Lecture Notes in Networks and Systems",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "340-352",
+   "article-number": null,
+   "published": [
+    [
+     2026,
+     9,
+     2
+    ]
+   ],
+   "publisher": "Springer Nature Switzerland",
+   "authors": [
+    "Miguel Escudero-Jim\u00e9nez",
+    "No\u00e9 P\u00e9rez-Higueras",
+    "Andr\u00e9s Mart\u00ednez-Silva",
+    "Fernando Caballero",
+    "Luis Merino"
+   ],
+   "url": "https://link.springer.com/10.1007/978-3-032-30156-7_25"
+  },
+  {
+   "sim": 0.537,
+   "DOI": "10.1109/ro-man72286.2026.11714815",
+   "type": "proceedings-article",
+   "title": "Metrics vs Surveys: An Analysis for Human-Aligned Benchmarking in Social Robot Navigation",
+   "container": "2026 IEEE 35th International Conference on Robot and Human Interactive Communication (RO-MAN)",
+   "event": "2026 IEEE 35th International Conference on Robot and Human Interactive Communication (RO-MAN)",
+   "volume": null,
+   "issue": null,
+   "page": "2483-2489",
+   "article-number": null,
+   "published": [
+    [
+     2026,
+     8
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Stefano Trepella",
+    "Mauro Martini",
+    "Andrea Ostuni",
+    "No\u00e9 P\u00e9rez-Higueras",
+    "Fernando Caballero",
+    "Luis Merino",
+    "Marcello Chiaberge"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/11714815/"
+  },
+  {
+   "sim": 0.494,
+   "DOI": "10.1109/roman.2014.6926347",
+   "type": "proceedings-article",
+   "title": "Transferring human navigation behaviors into a robot local planner",
+   "container": "The 23rd IEEE International Symposium on Robot and Human Interactive Communication",
+   "event": "2014 RO-MAN: The 23rd IEEE International Symposium on Robot and Human Interactive Communication",
+   "volume": null,
+   "issue": null,
+   "page": "774-779",
+   "article-number": null,
+   "published": [
+    [
+     2014,
+     8
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Rafael Ramon-Vigo",
+    "Noe Perez-Higueras",
+    "Fernando Caballero",
+    "Luis Merino"
+   ],
+   "url": "http://ieeexplore.ieee.org/document/6926347/"
+  }
+ ],
+ "MavrogiannisHRI2019": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1109/hri.2019.8673115",
+   "type": "proceedings-article",
+   "title": "Effects of Distinct Robot Navigation Strategies on Human Behavior in a Crowded Environment",
+   "container": "2019 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
+   "event": "2019 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
+   "volume": null,
+   "issue": null,
+   "page": "421-430",
+   "article-number": null,
+   "published": [
+    [
+     2019,
+     3
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Christoforos Mavrogiannis",
+    "Alena M. Hutchinson",
+    "John Macdonald",
+    "Patricia Alves-Oliveira",
+    "Ross A. Knepper"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/8673115/"
+  },
+  {
+   "sim": 0.4,
+   "DOI": "10.1145/3776734.3794499",
+   "type": "proceedings-article",
+   "title": "Rethinking Legibility in Social Robot Navigation: Impact of Intent Representation and Human Attention",
+   "container": "Companion Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction",
+   "event": "HRI '26: 21st ACM/IEEE International Conference on Human-Robot Interaction",
+   "volume": null,
+   "issue": null,
+   "page": "768-772",
+   "article-number": null,
+   "published": [
+    [
+     2026,
+     3,
+     16
+    ]
+   ],
+   "publisher": "ACM",
+   "authors": [
+    "Pranav Goyal",
+    "Andrew Stratton",
+    "Christoforos Mavrogiannis"
+   ],
+   "url": "https://dl.acm.org/doi/10.1145/3776734.3794499"
+  },
+  {
+   "sim": 0.347,
+   "DOI": "10.1109/hri61500.2025.10973854",
+   "type": "proceedings-article",
+   "title": "Implicit Communication in Human-Robot Collaborative Transport",
+   "container": "2025 20th ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
+   "event": "2025 20th ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
+   "volume": null,
+   "issue": null,
+   "page": "23-33",
+   "article-number": null,
+   "published": [
+    [
+     2025,
+     3,
+     4
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Elvin Yang",
+    "Christoforos Mavrogiannis"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/10973854/"
+  },
+  {
+   "sim": 0.333,
+   "DOI": "10.1109/lra.2022.3152594",
+   "type": "journal-article",
+   "title": "B-GAP: Behavior-Rich Simulation and Navigation for Autonomous Driving",
+   "container": "IEEE Robotics and Automation Letters",
+   "event": null,
+   "volume": "7",
+   "issue": "2",
+   "page": "4718-4725",
+   "article-number": null,
+   "published": [
+    [
+     2022,
+     4
+    ]
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "Angelos Mavrogiannis",
+    "Rohan Chandra",
+    "Dinesh Manocha"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/9716825/"
+  },
+  {
+   "sim": 0.303,
+   "DOI": "10.1145/3029798.3034810",
+   "type": "proceedings-article",
+   "title": "Designing Algorithms For Socially Competent Robotic Navigation",
+   "container": "Proceedings of the Companion of the 2017 ACM/IEEE International Conference on Human-Robot Interaction",
+   "event": "HRI '17: ACM/IEEE International Conference on Human-Robot Interaction",
+   "volume": null,
+   "issue": null,
+   "page": "357-358",
+   "article-number": null,
+   "published": [
+    [
+     2017,
+     3,
+     6
+    ]
+   ],
+   "publisher": "ACM",
+   "authors": [
+    "Christoforos Mavrogiannis",
+    "Ross A. Knepper"
+   ],
+   "url": "https://dl.acm.org/doi/10.1145/3029798.3034810"
+  }
+ ],
+ "RGL": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1109/iros45743.2020.9340705",
+   "type": "proceedings-article",
+   "title": "Relational Graph Learning for Crowd Navigation",
+   "container": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "event": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "volume": null,
+   "issue": null,
+   "page": "10007-10013",
+   "article-number": null,
+   "published": [
+    [
+     2020,
+     10,
+     24
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Changan Chen",
+    "Sha Hu",
+    "Payam Nikdel",
+    "Greg Mori",
+    "Manolis Savva"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/9340705/"
+  },
+  {
+   "sim": 0.553,
+   "DOI": "10.1109/lra.2025.3553050",
+   "type": "journal-article",
+   "title": "HeR-DRL:Heterogeneous Relational Deep Reinforcement Learning for Single-Robot and Multi-Robot Crowd Navigation",
+   "container": "IEEE Robotics and Automation Letters",
+   "event": null,
+   "volume": "10",
+   "issue": "5",
+   "page": "4524-4531",
+   "article-number": null,
+   "published": [
+    [
+     2025,
+     5
+    ]
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "Xinyu Zhou",
+    "Songhao Piao",
+    "Wenzheng Chi",
+    "Liguo Chen",
+    "Wei Li"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/10933548/"
+  },
+  {
+   "sim": 0.333,
+   "DOI": "10.1109/icra.2019.8794134",
+   "type": "proceedings-article",
+   "title": "Crowd-Robot Interaction: Crowd-Aware Robot Navigation With Attention-Based Deep Reinforcement Learning",
+   "container": "2019 International Conference on Robotics and Automation (ICRA)",
+   "event": "2019 International Conference on Robotics and Automation (ICRA)",
+   "volume": null,
+   "issue": null,
+   "page": "6015-6022",
+   "article-number": null,
+   "published": [
+    [
+     2019,
+     5
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Changan Chen",
+    "Yuejiang Liu",
+    "Sven Kreiss",
+    "Alexandre Alahi"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/8794134/"
+  },
+  {
+   "sim": 0.299,
+   "DOI": "10.1109/mdm52706.2021.00018",
+   "type": "proceedings-article",
+   "title": "Urban Crowd Density Prediction Based on Multi-relational Graph",
+   "container": "2021 22nd IEEE International Conference on Mobile Data Management (MDM)",
+   "event": "2021 22nd IEEE International Conference on Mobile Data Management (MDM)",
+   "volume": null,
+   "issue": null,
+   "page": "39-48",
+   "article-number": null,
+   "published": [
+    [
+     2021,
+     6
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Qiming Hao",
+    "Le Zhang",
+    "Rui Zha",
+    "Ding Zhou",
+    "Zhe Zhang",
+    "Tong Xu",
+    "Enhong Chen"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/9474899/"
+  },
+  {
+   "sim": 0.255,
+   "DOI": "10.21203/rs.3.rs-1790901/v1",
+   "type": "posted-content",
+   "title": "Robot Navigation in Crowd via DeepReinforcement Learning",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": [
+    [
+     2022,
+     6,
+     27
+    ]
+   ],
+   "publisher": "Research Square Platform LLC",
+   "authors": [
+    "Yixian lin",
+    "Shibo Song",
+    "Junfeng Yao",
+    "Qingqing Chen",
+    "Liling Zheng"
+   ],
+   "url": "https://www.researchsquare.com/article/rs-1790901/v1"
+  }
+ ],
+ "SEAN2": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1109/lra.2022.3196783",
+   "type": "journal-article",
+   "title": "SEAN 2.0: Formalizing and Generating Social Situations for Robot Navigation",
+   "container": "IEEE Robotics and Automation Letters",
+   "event": null,
+   "volume": "7",
+   "issue": "4",
+   "page": "11047-11054",
+   "article-number": null,
+   "published": [
+    [
+     2022,
+     10
+    ]
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "Nathan Tsoi",
+    "Alec Xiang",
+    "Peter Yu",
+    "Samuel S. Sohn",
+    "Greg Schwartz",
+    "Subashri Ramesh",
+    "Mohamed Hussein",
+    "Anjali W. Gupta",
+    "Mubbasir Kapadia",
+    "Marynel Vazquez"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/9851501/"
+  },
+  {
+   "sim": 0.485,
+   "DOI": "10.1145/3434074.3446360",
+   "type": "proceedings-article",
+   "title": "Improving the Robustness of Social Robot Navigation Systems",
+   "container": "Companion of the 2021 ACM/IEEE International Conference on Human-Robot Interaction",
+   "event": "HRI '21: ACM/IEEE International Conference on Human-Robot Interaction",
+   "volume": null,
+   "issue": null,
+   "page": "592-594",
+   "article-number": null,
+   "published": [
+    [
+     2021,
+     3,
+     8
+    ]
+   ],
+   "publisher": "ACM",
+   "authors": [
+    "Nathan Tsoi",
+    "Marynel V\u00e1zquez"
+   ],
+   "url": "https://dl.acm.org/doi/10.1145/3434074.3446360"
+  },
+  {
+   "sim": 0.457,
+   "DOI": "10.1145/3610978.3640636",
+   "type": "proceedings-article",
+   "title": "How Do Robot Experts Measure the Success of Social Robot Navigation?",
+   "container": "Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction",
+   "event": "HRI '24: ACM/IEEE International Conference on Human-Robot Interaction",
+   "volume": null,
+   "issue": null,
+   "page": "1063-1066",
+   "article-number": null,
+   "published": [
+    [
+     2024,
+     3,
+     11
+    ]
+   ],
+   "publisher": "ACM",
+   "authors": [
+    "Nathan Tsoi",
+    "Jessica Romero",
+    "Marynel V\u00e1zquez"
+   ],
+   "url": "https://dl.acm.org/doi/10.1145/3610978.3640636"
+  },
+  {
+   "sim": 0.127,
+   "DOI": "10.1145/3568294.3580039",
+   "type": "proceedings-article",
+   "title": "SEAN-VR",
+   "container": "Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction",
+   "event": "HRI '23: ACM/IEEE International Conference on Human-Robot Interaction",
+   "volume": null,
+   "issue": null,
+   "page": "902-904",
+   "article-number": null,
+   "published": [
+    [
+     2023,
+     3,
+     13
+    ]
+   ],
+   "publisher": "ACM",
+   "authors": [
+    "Qiping Zhang",
+    "Nathan Tsoi",
+    "Marynel V\u00e1zquez"
+   ],
+   "url": "https://dl.acm.org/doi/10.1145/3568294.3580039"
+  },
+  {
+   "sim": 0.104,
+   "DOI": "10.1145/3406499.3418760",
+   "type": "proceedings-article",
+   "title": "SEAN",
+   "container": "Proceedings of the 8th International Conference on Human-Agent Interaction",
+   "event": "HAI '20: 8th International Conference on Human-Agent Interaction",
+   "volume": null,
+   "issue": null,
+   "page": "281-283",
+   "article-number": null,
+   "published": [
+    [
+     2020,
+     11,
+     10
+    ]
+   ],
+   "publisher": "ACM",
+   "authors": [
+    "Nathan Tsoi",
+    "Mohamed Hussein",
+    "Jeacy Espinoza",
+    "Xavier Ruiz",
+    "Marynel V\u00e1zquez"
+   ],
+   "url": "https://dl.acm.org/doi/10.1145/3406499.3418760"
+  }
+ ],
+ "THOR": [
+  {
+   "sim": 0.994,
+   "DOI": "10.1109/lra.2020.2965416",
+   "type": "journal-article",
+   "title": "TH\u00d6R: Human-Robot Navigation Data Collection and Accurate Motion Trajectories Dataset",
+   "container": "IEEE Robotics and Automation Letters",
+   "event": null,
+   "volume": "5",
+   "issue": "2",
+   "page": "676-682",
+   "article-number": null,
+   "published": [
+    [
+     2020,
+     4
+    ]
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "Andrey Rudenko",
+    "Tomasz P. Kucner",
+    "Chittaranjan S. Swaminathan",
+    "Ravi T. Chadalavada",
+    "Kai O. Arras",
+    "Achim J. Lilienthal"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/8954833/"
+  },
+  {
+   "sim": 0.44,
+   "DOI": "10.1109/ro-man60168.2024.10731190",
+   "type": "proceedings-article",
+   "title": "Human Gaze and Head Rotation during Navigation, Exploration and Object Manipulation in Shared Environments with Robots",
+   "container": "2024 33rd IEEE International Conference on Robot and Human Interactive Communication (ROMAN)",
+   "event": "2024 33rd IEEE International Conference on Robot and Human Interactive Communication (ROMAN)",
+   "volume": null,
+   "issue": null,
+   "page": "1258-1265",
+   "article-number": null,
+   "published": [
+    [
+     2024,
+     8,
+     26
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Tim Schreiter",
+    "Andrey Rudenko",
+    "Martin Magnusson",
+    "Achim J. Lilienthal"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/10731190/"
+  },
+  {
+   "sim": 0.284,
+   "DOI": "10.1109/hri61500.2025.10973897",
+   "type": "proceedings-article",
+   "title": "TH\u00d6R-MAGNI Act: Actions for Human Motion Modeling in Robot-Shared Industrial Spaces",
+   "container": "2025 20th ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
+   "event": "2025 20th ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
+   "volume": null,
+   "issue": null,
+   "page": "1083-1087",
+   "article-number": null,
+   "published": [
+    [
+     2025,
+     3,
+     4
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Tiago Rodrigues De Almeida",
+    "Tim Schreiter",
+    "Andrey Rudenko",
+    "Luigi Palmieri",
+    "Johannes A. Stork",
+    "Achim J. Lilienthal"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/10973897/"
+  },
+  {
+   "sim": 0.28,
+   "DOI": "10.1109/ro-man53752.2022.9900656",
+   "type": "proceedings-article",
+   "title": "The Atlas Benchmark: an Automated Evaluation Framework for Human Motion Prediction",
+   "container": "2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+   "event": "2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+   "volume": null,
+   "issue": null,
+   "page": "636-643",
+   "article-number": null,
+   "published": [
+    [
+     2022,
+     8,
+     29
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Andrey Rudenko",
+    "Luigi Palmieri",
+    "Wanting Huang",
+    "Achim J. Lilienthal",
+    "Kai O. Arras"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/9900656/"
+  },
+  {
+   "sim": 0.275,
+   "DOI": "10.1109/lra.2016.2602240",
+   "type": "journal-article",
+   "title": "A Fast Random Walk Approach to Find Diverse Paths for Robot Navigation",
+   "container": "IEEE Robotics and Automation Letters",
+   "event": null,
+   "volume": "2",
+   "issue": "1",
+   "page": "269-276",
+   "article-number": null,
+   "published": [
+    [
+     2017,
+     1
+    ]
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "Luigi Palmieri",
+    "Andrey Rudenko",
+    "Kai O. Arras"
+   ],
+   "url": "http://ieeexplore.ieee.org/document/7549076/"
+  }
+ ],
+ "WangConformity": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1109/arso54254.2022.9802981",
+   "type": "proceedings-article",
+   "title": "Metrics for Evaluating Social Conformity of Crowd Navigation Algorithms",
+   "container": "2022 IEEE International Conference on Advanced Robotics and Its Social Impacts (ARSO)",
+   "event": "2022 IEEE International Conference on Advanced Robotics and Its Social Impacts (ARSO)",
+   "volume": null,
+   "issue": null,
+   "page": "1-6",
+   "article-number": null,
+   "published": [
+    [
+     2022,
+     5,
+     28
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Junxian Wang",
+    "Wesley P. Chan",
+    "Pamela Carreno-Medrano",
+    "Akansel Cosgun",
+    "Elizabeth Croft"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/9802981/"
+  },
+  {
+   "sim": 0.434,
+   "DOI": "10.1145/1655260.1655262",
+   "type": "proceedings-article",
+   "title": "Evaluating emotional algorithms using psychological scales",
+   "container": "Proceedings of the International Workshop on Affective-Aware Virtual Agents and Social Robots",
+   "event": "ICMI-MLMI '09: INTERNATIONAL CONFERENCE ON MULTIMODAL INTERFACES/WORKSHOP ON MACHINE LEARNING FOR MULTIMODAL INTERFACES",
+   "volume": null,
+   "issue": null,
+   "page": "1-6",
+   "article-number": null,
+   "published": [
+    [
+     2009,
+     11,
+     6
+    ]
+   ],
+   "publisher": "ACM",
+   "authors": [
+    "Shangfei Wang",
+    "Xufa Wang"
+   ],
+   "url": "https://dl.acm.org/doi/10.1145/1655260.1655262"
+  },
+  {
+   "sim": 0.301,
+   "DOI": "10.2139/ssrn.7615268",
+   "type": "posted-content",
+   "title": "Following the crowd or being unique? The nonlinear impact of network position on ESG performance conformity in common ownership networks",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": [
+    [
+     2026
+    ]
+   ],
+   "publisher": "Elsevier BV",
+   "authors": [
+    "Pengwei Yuan",
+    "Jiao Li",
+    "Xiaoqing Dong",
+    "Nan Liang",
+    "Xuan Wang"
+   ],
+   "url": "https://www.ssrn.com/abstract=7615268"
+  },
+  {
+   "sim": 0.286,
+   "DOI": "10.32657/10356/46252",
+   "type": "dissertation",
+   "title": "Partitioning algorithms for agent-based crowd simulation",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": null,
+   "publisher": "Nanyang Technological University",
+   "authors": [
+    "Yongwei Wang"
+   ],
+   "url": "http://hdl.handle.net/10356/46252"
+  },
+  {
+   "sim": 0.283,
+   "DOI": "10.1186/s13015-022-00220-0",
+   "type": "journal-article",
+   "title": "Two metrics on rooted unordered trees with labels",
+   "container": "Algorithms for Molecular Biology",
+   "event": null,
+   "volume": "17",
+   "issue": "1",
+   "page": null,
+   "article-number": "13",
+   "published": [
+    [
+     2022,
+     6,
+     6
+    ]
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "authors": [
+    "Yue Wang"
+   ],
+   "url": "https://almob.biomedcentral.com/articles/10.1186/s13015-022-00220-0"
+  }
+ ],
+ "LayeredCostmaps": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1109/iros.2014.6942636",
+   "type": "proceedings-article",
+   "title": "Layered costmaps for context-sensitive navigation",
+   "container": "2014 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+   "event": "2014 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2014)",
+   "volume": null,
+   "issue": null,
+   "page": "709-715",
+   "article-number": null,
+   "published": [
+    [
+     2014,
+     9
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "David V. Lu",
+    "Dave Hershberger",
+    "William D. Smart"
+   ],
+   "url": "http://ieeexplore.ieee.org/document/6942636/"
+  },
+  {
+   "sim": 0.408,
+   "DOI": "10.1061/9780784412688.050",
+   "type": "proceedings-article",
+   "title": "Context Sensitive Solutions for Infrastructure Projects",
+   "container": "ICSDEC 2012",
+   "event": "International Conference on Sustainable Design, Engineering, and Construction 2012",
+   "volume": null,
+   "issue": null,
+   "page": "416-422",
+   "article-number": null,
+   "published": [
+    [
+     2012,
+     11,
+     14
+    ]
+   ],
+   "publisher": "American Society of Civil Engineers",
+   "authors": [
+    "Thomas M. Korman",
+    "Na Lu",
+    "Lonny Simonian"
+   ],
+   "url": "https://ascelibrary.org/doi/10.1061/9780784412688.050"
+  },
+  {
+   "sim": 0.388,
+   "DOI": "10.2139/ssrn.5736213",
+   "type": "posted-content",
+   "title": "Gold Nanostar@Nickel-Cobalt Layered Double Hydroxide Nanozymes for Highly Sensitive Colorimetric Detection of H2O2",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": [
+    [
+     2025
+    ]
+   ],
+   "publisher": "Elsevier BV",
+   "authors": [
+    "Dongxiao Lu",
+    "Xuanxiong Zeng",
+    "Lin Yuan",
+    "Jinhua Li"
+   ],
+   "url": "https://www.ssrn.com/abstract=5736213"
+  },
+  {
+   "sim": 0.323,
+   "DOI": "10.2139/ssrn.5525452",
+   "type": "posted-content",
+   "title": "Context-Sensitive Analysis of Disaster Resilience and Equity through Geospatial Explainable Machine Learning",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": [
+    [
+     2025
+    ]
+   ],
+   "publisher": "Elsevier BV",
+   "authors": [
+    "Yirong Ding",
+    "Lu Zhang",
+    "Yang Zhang"
+   ],
+   "url": "https://www.ssrn.com/abstract=5525452"
+  },
+  {
+   "sim": 0.305,
+   "DOI": "10.1080/09540253.2016.1171296",
+   "type": "journal-article",
+   "title": "Caring teacher and sensitive student: is it a gender issue in the university context?",
+   "container": "Gender and Education",
+   "event": null,
+   "volume": "30",
+   "issue": "1",
+   "page": "74-91",
+   "article-number": null,
+   "published": [
+    [
+     2016,
+     4,
+     11
+    ]
+   ],
+   "publisher": "Informa UK Limited",
+   "authors": [
+    "Hangyan Lu"
+   ],
+   "url": "https://www.tandfonline.com/doi/full/10.1080/09540253.2016.1171296"
+  }
+ ],
+ "RudenkoSurvey": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1177/0278364920917446",
+   "type": "journal-article",
+   "title": "Human motion trajectory prediction: a survey",
+   "container": "The International Journal of Robotics Research",
+   "event": null,
+   "volume": "39",
+   "issue": "8",
+   "page": "895-935",
+   "article-number": null,
+   "published": [
+    [
+     2020,
+     6,
+     7
+    ]
+   ],
+   "publisher": "SAGE Publications",
+   "authors": [
+    "Andrey Rudenko",
+    "Luigi Palmieri",
+    "Michael Herman",
+    "Kris M Kitani",
+    "Dariu M Gavrila",
+    "Kai O Arras"
+   ],
+   "url": "https://journals.sagepub.com/doi/10.1177/0278364920917446"
+  },
+  {
+   "sim": 0.54,
+   "DOI": "10.1109/iros.2018.8594258",
+   "type": "proceedings-article",
+   "title": "Human Motion Prediction Under Social Grouping Constraints",
+   "container": "2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "event": "2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "volume": null,
+   "issue": null,
+   "page": "3358-3364",
+   "article-number": null,
+   "published": [
+    [
+     2018,
+     10
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Andrey Rudenko",
+    "Luigi Palmieri",
+    "Achim J. Lilienthal",
+    "Kai O. Arras"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/8594258/"
+  },
+  {
+   "sim": 0.5,
+   "DOI": "10.1109/icra55743.2025.11128323",
+   "type": "proceedings-article",
+   "title": "UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction",
+   "container": "2025 IEEE International Conference on Robotics and Automation (ICRA)",
+   "event": "2025 IEEE International Conference on Robotics and Automation (ICRA)",
+   "volume": null,
+   "issue": null,
+   "page": "13927-13933",
+   "article-number": null,
+   "published": [
+    [
+     2025,
+     5,
+     19
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Nisarga Nilavadi",
+    "Andrey Rudenko",
+    "Timm Linder"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/11128323/"
+  },
+  {
+   "sim": 0.371,
+   "DOI": "10.1109/ro-man53752.2022.9900656",
+   "type": "proceedings-article",
+   "title": "The Atlas Benchmark: an Automated Evaluation Framework for Human Motion Prediction",
+   "container": "2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+   "event": "2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+   "volume": null,
+   "issue": null,
+   "page": "636-643",
+   "article-number": null,
+   "published": [
+    [
+     2022,
+     8,
+     29
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Andrey Rudenko",
+    "Luigi Palmieri",
+    "Wanting Huang",
+    "Achim J. Lilienthal",
+    "Kai O. Arras"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/9900656/"
+  },
+  {
+   "sim": 0.312,
+   "DOI": "10.1109/icra.2018.8460527",
+   "type": "proceedings-article",
+   "title": "Joint Long-Term Prediction of Human Motion Using a Planning-Based Social Force Approach",
+   "container": "2018 IEEE International Conference on Robotics and Automation (ICRA)",
+   "event": "2018 IEEE International Conference on Robotics and Automation (ICRA)",
+   "volume": null,
+   "issue": null,
+   "page": "4571-4577",
+   "article-number": null,
+   "published": [
+    [
+     2018,
+     5
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Andrey Rudenko",
+    "Luigi Palmieri",
+    "Kai O. Arras"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/8460527/"
+  }
+ ],
+ "SocNav2": [
+  {
+   "sim": 0.846,
+   "DOI": "10.3390/data5010007",
+   "type": "journal-article",
+   "title": "SocNav1: A Dataset to Benchmark and Learn Social Navigation Conventions",
+   "container": "Data",
+   "event": null,
+   "volume": "5",
+   "issue": "1",
+   "page": "7",
+   "article-number": null,
+   "published": [
+    [
+     2020,
+     1,
+     14
+    ]
+   ],
+   "publisher": "MDPI AG",
+   "authors": [
+    "Luis J. Manso",
+    "Pedro Nu\u00f1ez",
+    "Luis V. Calderita",
+    "Diego R. Faria",
+    "Pilar Bachiller"
+   ],
+   "url": "https://www.mdpi.com/2306-5729/5/1/7"
+  },
+  {
+   "sim": 0.667,
+   "DOI": "10.1109/ro-man57019.2023.10309591",
+   "type": "proceedings-article",
+   "title": "SocNavGym: A Reinforcement Learning Gym for Social Navigation",
+   "container": "2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+   "event": "2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+   "volume": null,
+   "issue": null,
+   "page": "2010-2017",
+   "article-number": null,
+   "published": [
+    [
+     2023,
+     8,
+     28
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Aditya Kapoor",
+    "Sushant Swamy",
+    "Pilar Bachiller",
+    "Luis J. Manso"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/10309591/"
+  },
+  {
+   "sim": 0.284,
+   "DOI": "10.5209/rev_cuts.2014.v27.n2.44540",
+   "type": "journal-article",
+   "title": "Procesos de \u201catrincheramiento\u201d: un an\u00e1lisis etnogr\u00e1fico sobre las din\u00e1micas de consolidaci\u00f3n en la situaci\u00f3n de calle",
+   "container": "Cuadernos de Trabajo Social",
+   "event": null,
+   "volume": "27",
+   "issue": "2",
+   "page": "375-383",
+   "article-number": null,
+   "published": [
+    [
+     2014,
+     12,
+     4
+    ]
+   ],
+   "publisher": "Universidad Complutense de Madrid (UCM)",
+   "authors": [
+    "Santiago Bachiller"
+   ],
+   "url": "https://revistas.ucm.es/index.php/CUTS/article/view/44540"
+  },
+  {
+   "sim": 0.203,
+   "DOI": "10.7770/cuhso-v19n1-art305",
+   "type": "journal-article",
+   "title": "El aislamiento social como supuesto articulador de las teor\u00edas sobre la exclusi\u00f3n y el sinhogarismo: cr\u00edticas y aportes etnogr\u00e1ficos",
+   "container": "REVISTA CUHSO",
+   "event": null,
+   "volume": "19",
+   "issue": "1",
+   "page": "9-21",
+   "article-number": null,
+   "published": [
+    [
+     2024,
+     6,
+     10
+    ]
+   ],
+   "publisher": "Universidad Catolica de Temuco",
+   "authors": [
+    "Santiago Bachiller"
+   ],
+   "url": "https://cuhso.uct.cl/index.php/CUHSO/article/view/299"
+  },
+  {
+   "sim": 0.132,
+   "DOI": "10.34096/cas.i61.15824",
+   "type": "journal-article",
+   "title": "Definiciones restringidas del espacio p\u00fablico, expulsi\u00f3n urbana e invisibilizaci\u00f3n de las personas en situaci\u00f3n de calle en la Ciudad Aut\u00f3noma de Buenos Aires",
+   "container": "Cuadernos de antropolog\u00eda social",
+   "event": null,
+   "volume": null,
+   "issue": "61",
+   "page": "7-26",
+   "article-number": null,
+   "published": [
+    [
+     2025,
+     6,
+     10
+    ]
+   ],
+   "publisher": "Universidad de Buenos Aires",
+   "authors": [
+    "Santiago Bachiller"
+   ],
+   "url": "http://revistascientificas.filo.uba.ar/index.php/CAS/article/view/15824"
+  }
+ ],
+ "GazeNav-Chen2020": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1109/lra.2020.2972868",
+   "type": "journal-article",
+   "title": "Robot Navigation in Crowds by Graph Convolutional Networks With Attention Learned From Human Gaze",
+   "container": "IEEE Robotics and Automation Letters",
+   "event": null,
+   "volume": "5",
+   "issue": "2",
+   "page": "2754-2761",
+   "article-number": null,
+   "published": [
+    [
+     2020,
+     4
+    ]
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "Yuying Chen",
+    "Congcong Liu",
+    "Bertram E. Shi",
+    "Ming Liu"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/8990034/"
+  },
+  {
+   "sim": 0.493,
+   "DOI": "10.1145/3778534.3778669",
+   "type": "proceedings-article",
+   "title": "Financial Asset Pricing and Risk Management Based on Graph Convolutional Networks and Graph Attention Networks",
+   "container": "Proceedings of the 4th International Conference on Artificial Intelligence and Intelligent Information Processing",
+   "event": "AIIIP 2025: 2025 4th International Conference on Artificial Intelligence and Intelligent Information Processing",
+   "volume": null,
+   "issue": null,
+   "page": "870-874",
+   "article-number": null,
+   "published": [
+    [
+     2025,
+     10,
+     24
+    ]
+   ],
+   "publisher": "ACM",
+   "authors": [
+    "Wennan Wang",
+    "Mengjing Chen",
+    "Yunjing Chen"
+   ],
+   "url": "https://dl.acm.org/doi/10.1145/3778534.3778669"
+  },
+  {
+   "sim": 0.446,
+   "DOI": "10.5220/0014746200004818",
+   "type": "proceedings-article",
+   "title": "Predicting Traffic Flow Using Attention and Spatiotemporal Graph Convolutional Networks",
+   "container": "Proceedings of the 3rd International Conference on Data Analysis and Machine Learning",
+   "event": "International Conference on Data Analysis and Machine Learning",
+   "volume": null,
+   "issue": null,
+   "page": "50-55",
+   "article-number": null,
+   "published": [
+    [
+     2025
+    ]
+   ],
+   "publisher": "SCITEPRESS - Science and Technology Publications",
+   "authors": [
+    "Chuxin Chen"
+   ],
+   "url": "https://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0014746200004818"
+  },
+  {
+   "sim": 0.391,
+   "DOI": "10.21203/rs.3.rs-3261017/v1",
+   "type": "posted-content",
+   "title": "Tactile-GAT: Tactile Graph Attention Networks for Robot Tactile Perception Classification",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": [
+    [
+     2023,
+     8,
+     31
+    ]
+   ],
+   "publisher": "Research Square Platform LLC",
+   "authors": [
+    "Lun Chen",
+    "Yingzhao Zhu"
+   ],
+   "url": "https://www.researchsquare.com/article/rs-3261017/v1"
+  },
+  {
+   "sim": 0.246,
+   "DOI": "10.1609/aaai.v40i22.38941",
+   "type": "journal-article",
+   "title": "Learning from Human Gaze: Human-like Robot Social Navigation in Dense Crowds",
+   "container": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "event": null,
+   "volume": "40",
+   "issue": "22",
+   "page": "18728-18736",
+   "article-number": null,
+   "published": [
+    [
+     2026,
+     3,
+     14
+    ]
+   ],
+   "publisher": "Association for the Advancement of Artificial Intelligence (AAAI)",
+   "authors": [
+    "Zhecheng Yu",
+    "Yan Lyu",
+    "Chen Yang",
+    "Tao Chen",
+    "Yishuang Zhang",
+    "Bo Ling",
+    "Peng Wang",
+    "Guanyu Gao",
+    "Weiwei Wu",
+    "Brian Y. Lim"
+   ],
+   "url": "https://ojs.aaai.org/index.php/AAAI/article/view/38941"
+  }
+ ],
+ "Okunevich": [
+  {
+   "sim": 0.991,
+   "DOI": "10.1109/lra.2025.3557309",
+   "type": "journal-article",
+   "title": "Online Context Learning for Socially Compliant Navigation",
+   "container": "IEEE Robotics and Automation Letters",
+   "event": null,
+   "volume": "10",
+   "issue": "5",
+   "page": "5042-5049",
+   "article-number": null,
+   "published": [
+    [
+     2025,
+     5
+    ]
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "Iaroslav Okunevich",
+    "Alexandre Lombard",
+    "Tomas Krajnik",
+    "Yassine Ruichek",
+    "Zhi Yan"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/10947499/"
+  },
+  {
+   "sim": 0.949,
+   "DOI": "10.70675/39ee8d37z3ddez4ca2za227z281e93145ae1",
+   "type": "dissertation",
+   "title": "Online context learning for socially-compliant robot navigation",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": null,
+   "publisher": "Agence Bibliographique de l'Enseignement Sup\u00e9rieur",
+   "authors": [
+    "Iaroslav Okunevich"
+   ],
+   "url": "https://theses.fr/2024UBFCA019"
+  },
+  {
+   "sim": 0.875,
+   "DOI": "10.1109/lra.2025.3557309/mm1",
+   "type": "component",
+   "title": "Online Context Learning for Socially Compliant Navigation_supp1-3557309.mp4",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": null,
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "Iaroslav Okunevich"
+   ],
+   "url": "https://ieeexplore.ieee.org/ielx8/7083369/10935293/10947499/supp1-3557309.mp4?arnumber=10947499"
+  },
+  {
+   "sim": 0.727,
+   "DOI": "10.1109/ecmr59166.2023.10256378",
+   "type": "proceedings-article",
+   "title": "Human-centered Benchmarking for Socially-Compliant Robot Navigation",
+   "container": "2023 European Conference on Mobile Robots (ECMR)",
+   "event": "2023 European Conference on Mobile Robots (ECMR)",
+   "volume": null,
+   "issue": null,
+   "page": "1-7",
+   "article-number": null,
+   "published": [
+    [
+     2023,
+     9,
+     4
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Iaroslav Okunevich",
+    "Vincent Hilaire",
+    "Stephane Galland",
+    "Olivier Lamotte",
+    "Liubov Shilova",
+    "Yassine Ruichek",
+    "Zhi Yan"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/10256378/"
+  },
+  {
+   "sim": 0.515,
+   "DOI": "10.1177/02783649261447305",
+   "type": "journal-article",
+   "title": "NavWareSet: A dataset of socially compliant and non-compliant robot navigation",
+   "container": "The International Journal of Robotics Research",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": "02783649261447305",
+   "published": [
+    [
+     2026,
+     5,
+     24
+    ]
+   ],
+   "publisher": "SAGE Publications",
+   "authors": [
+    "Johnata Brayan",
+    "Sihao Deng",
+    "Armando Alves Neto",
+    "Iaroslav Okunevich",
+    "Tomas Krajnik",
+    "Francois Bremond",
+    "Zhi Yan"
+   ],
+   "url": "https://journals.sagepub.com/doi/10.1177/02783649261447305"
+  }
+ ],
+ "GazeNav-2026": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1609/aaai.v40i22.38941",
+   "type": "journal-article",
+   "title": "Learning from Human Gaze: Human-like Robot Social Navigation in Dense Crowds",
+   "container": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "event": null,
+   "volume": "40",
+   "issue": "22",
+   "page": "18728-18736",
+   "article-number": null,
+   "published": [
+    [
+     2026,
+     3,
+     14
+    ]
+   ],
+   "publisher": "Association for the Advancement of Artificial Intelligence (AAAI)",
+   "authors": [
+    "Zhecheng Yu",
+    "Yan Lyu",
+    "Chen Yang",
+    "Tao Chen",
+    "Yishuang Zhang",
+    "Bo Ling",
+    "Peng Wang",
+    "Guanyu Gao",
+    "Weiwei Wu",
+    "Brian Y. Lim"
+   ],
+   "url": "https://ojs.aaai.org/index.php/AAAI/article/view/38941"
+  },
+  {
+   "sim": 0.448,
+   "DOI": "10.1075/bct.81.05xu",
+   "type": "book-chapter",
+   "title": "Cooperative gazing behaviors in human multi-robot interaction",
+   "container": "Benjamins Current Topics",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "71-98",
+   "article-number": null,
+   "published": [
+    [
+     2015,
+     12,
+     14
+    ]
+   ],
+   "publisher": "John Benjamins Publishing Company",
+   "authors": [
+    "Tian Xu",
+    "Hui Zhang",
+    "Chen Yu"
+   ],
+   "url": "https://benjamins.com/catalog/bct.81.05xu"
+  },
+  {
+   "sim": 0.448,
+   "DOI": "10.1075/is.14.3.05xu",
+   "type": "journal-article",
+   "title": "Cooperative gazing behaviors in human multi-robot interaction",
+   "container": "Interaction Studies. Social Behaviour and Communication in Biological and Artificial Systems",
+   "event": null,
+   "volume": "14",
+   "issue": "3",
+   "page": "390-418",
+   "article-number": null,
+   "published": [
+    [
+     2013,
+     12,
+     31
+    ]
+   ],
+   "publisher": "John Benjamins Publishing Company",
+   "authors": [
+    "Tian Xu",
+    "Hui Zhang",
+    "Chen Yu"
+   ],
+   "url": "http://www.jbe-platform.com/content/journals/10.1075/is.14.3.05xu"
+  },
+  {
+   "sim": 0.402,
+   "DOI": "10.1109/ro-man60168.2024.10731195",
+   "type": "proceedings-article",
+   "title": "Enhancing Human Perception of Direct Gaze from a Social Robot through Eye-Head Coordination",
+   "container": "2024 33rd IEEE International Conference on Robot and Human Interactive Communication (ROMAN)",
+   "event": "2024 33rd IEEE International Conference on Robot and Human Interactive Communication (ROMAN)",
+   "volume": null,
+   "issue": null,
+   "page": "2037-2043",
+   "article-number": null,
+   "published": [
+    [
+     2024,
+     8,
+     26
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Yu Fang",
+    "Jos\u00e9 Manuel P\u00e9rez-Moler\u00f3n",
+    "Luis Merino",
+    "Randy Gomez"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/10731195/"
+  },
+  {
+   "sim": 0.312,
+   "DOI": "10.1109/ro-man72286.2026.11714979",
+   "type": "proceedings-article",
+   "title": "Object-Grounded Visual Dialogue with Gaze-Triggered Joint Attention for Social Human-Robot Interaction",
+   "container": "2026 IEEE 35th International Conference on Robot and Human Interactive Communication (RO-MAN)",
+   "event": "2026 IEEE 35th International Conference on Robot and Human Interactive Communication (RO-MAN)",
+   "volume": null,
+   "issue": null,
+   "page": "2523-2529",
+   "article-number": null,
+   "published": [
+    [
+     2026,
+     8
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Shuo Dai",
+    "Jinyao Yu",
+    "Yang Guo",
+    "Fanggeng Xiong",
+    "Yu Fang",
+    "Minghao Zhang",
+    "Eric Nichols",
+    "Randy Gomez",
+    "Guangliang Li"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/11714979/"
+  }
+ ],
+ "ProactiveVLMdistill": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1109/iccvw69036.2025.00262",
+   "type": "proceedings-article",
+   "title": "Towards Proactive Social Robots: Distilling Visual Knowledge from Large Vision-Language Models",
+   "container": "2025 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+   "event": "2025 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+   "volume": null,
+   "issue": null,
+   "page": "2513-2523",
+   "article-number": null,
+   "published": [
+    [
+     2025,
+     10,
+     19
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Giuseppe De Simone",
+    "Loris Roveda",
+    "Alessia Saggese",
+    "Mario Vento"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/11375265/"
+  },
+  {
+   "sim": 0.527,
+   "DOI": "10.1145/3811427.3811525",
+   "type": "proceedings-article",
+   "title": "Towards Design Guidelines to Support Young Adults' Digital Wellbeing with Large Language Models",
+   "container": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+   "event": "AVI '26: International Conference on Advanced Visual Interfaces",
+   "volume": null,
+   "issue": null,
+   "page": "1-3",
+   "article-number": null,
+   "published": [
+    [
+     2026,
+     6,
+     7
+    ]
+   ],
+   "publisher": "ACM",
+   "authors": [
+    "Giuseppe Arbore",
+    "Luigi De Russis"
+   ],
+   "url": "https://dl.acm.org/doi/10.1145/3811427.3811525"
+  },
+  {
+   "sim": 0.481,
+   "DOI": "10.3390/electronics12041022",
+   "type": "journal-article",
+   "title": "Distilling Monolingual Models from Large Multilingual Transformers",
+   "container": "Electronics",
+   "event": null,
+   "volume": "12",
+   "issue": "4",
+   "page": "1022",
+   "article-number": null,
+   "published": [
+    [
+     2023,
+     2,
+     18
+    ]
+   ],
+   "publisher": "MDPI AG",
+   "authors": [
+    "Pranaydeep Singh",
+    "Orph\u00e9e De Clercq",
+    "Els Lefever"
+   ],
+   "url": "https://www.mdpi.com/2079-9292/12/4/1022"
+  },
+  {
+   "sim": 0.48,
+   "DOI": "10.1109/icassp49660.2025.10889996",
+   "type": "proceedings-article",
+   "title": "Distilling Knowledge from Large Video Models for Driver Visual Attention Prediction",
+   "container": "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+   "event": "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+   "volume": null,
+   "issue": null,
+   "page": "1-5",
+   "article-number": null,
+   "published": [
+    [
+     2025,
+     4,
+     6
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Morteza Moradi",
+    "Mohammad Moradi",
+    "Concetto Spampinato",
+    "Ali Borji",
+    "Simone Palazzo"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/10889996/"
+  },
+  {
+   "sim": 0.29,
+   "DOI": "10.1016/b978-0-443-33592-1.00004-8",
+   "type": "book-chapter",
+   "title": "Large language models in interpreting legal documents",
+   "container": "Challenges and Applications of Generative Large Language Models",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "83-106",
+   "article-number": null,
+   "published": [
+    [
+     2026
+    ]
+   ],
+   "publisher": "Elsevier",
+   "authors": [
+    "Simone Corbo"
+   ],
+   "url": "https://linkinghub.elsevier.com/retrieve/pii/B9780443335921000048"
+  }
+ ],
+ "SocialNav-Map": [],
+ "Habitat3": [
+  {
+   "sim": 0.336,
+   "DOI": "10.3390/f11080855",
+   "type": "journal-article",
+   "title": "Mice and Habitat Complexity Attract Carnivorans to Recently Burnt Forests",
+   "container": "Forests",
+   "event": null,
+   "volume": "11",
+   "issue": "8",
+   "page": "855",
+   "article-number": null,
+   "published": [
+    [
+     2020,
+     8,
+     6
+    ]
+   ],
+   "publisher": "MDPI AG",
+   "authors": [
+    "Roger Puig-Giron\u00e8s",
+    "Pere Pons"
+   ],
+   "url": "https://www.mdpi.com/1999-4907/11/8/855"
+  },
+  {
+   "sim": 0.282,
+   "DOI": "10.7325/galemys.2014.a5",
+   "type": "journal-article",
+   "title": "Algerian hedgehog (Atelerix algirus Lereboullet, 1842) habitat selection at the northern limit of its range",
+   "container": "Galemys, Spanish Journal of Mammalogy",
+   "event": null,
+   "volume": "26",
+   "issue": null,
+   "page": "49-56",
+   "article-number": null,
+   "published": [
+    [
+     2014,
+     12,
+     31
+    ]
+   ],
+   "publisher": "Sociedad Iberica para la Conservacion y Estudio de los Mamiferos",
+   "authors": [
+    "Sergi Garc\u00eda-Rodr\u00edguez",
+    "Xavier Puig-Montserrat"
+   ],
+   "url": "https://www.secem.es/galemys/galemys-26-2014-a5/"
+  },
+  {
+   "sim": 0.247,
+   "DOI": "10.4995/thesis/10251/177643",
+   "type": "dissertation",
+   "title": "Remote Sensing and UAVs for the Geomorphological and Habitat Analysis in Ephemeral and Permanent Mediterranean Streams",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": null,
+   "publisher": "Universitat Politecnica de Valencia",
+   "authors": [
+    "Carlos Antonio Puig Mengual"
+   ],
+   "url": "https://riunet.upv.es/handle/10251/177643"
+  },
+  {
+   "sim": 0.193,
+   "DOI": "10.1016/j.biocon.2022.109661",
+   "type": "journal-article",
+   "title": "Aridity, fire severity and proximity of populations affect the temporal responses of open-habitat birds to wildfires",
+   "container": "Biological Conservation",
+   "event": null,
+   "volume": "272",
+   "issue": null,
+   "page": "109661",
+   "article-number": "109661",
+   "published": [
+    [
+     2022,
+     8
+    ]
+   ],
+   "publisher": "Elsevier BV",
+   "authors": [
+    "Roger Puig-Giron\u00e8s",
+    "Llu\u00eds Brotons",
+    "Pere Pons"
+   ],
+   "url": "https://linkinghub.elsevier.com/retrieve/pii/S0006320722002142"
+  },
+  {
+   "sim": 0.178,
+   "DOI": "10.1007/s10344-026-02101-y",
+   "type": "journal-article",
+   "title": "Assessing the resilience of ground-feeding insectivorous mammals to fire-induced habitat changes",
+   "container": "European Journal of Wildlife Research",
+   "event": null,
+   "volume": "72",
+   "issue": "3",
+   "page": null,
+   "article-number": "71",
+   "published": [
+    [
+     2026,
+     5,
+     13
+    ]
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "authors": [
+    "Roger Puig-Giron\u00e8s"
+   ],
+   "url": "https://link.springer.com/10.1007/s10344-026-02101-y"
+  }
+ ],
+ "SocialMomentum": [
+  {
+   "sim": 0.52,
+   "DOI": "10.1145/3495244",
+   "type": "journal-article",
+   "title": "Social Momentum: Design and Evaluation of a Framework for Socially Competent Robot Navigation",
+   "container": "ACM Transactions on Human-Robot Interaction",
+   "event": null,
+   "volume": "11",
+   "issue": "2",
+   "page": "1-37",
+   "article-number": null,
+   "published": [
+    [
+     2022,
+     2,
+     8
+    ]
+   ],
+   "publisher": "Association for Computing Machinery (ACM)",
+   "authors": [
+    "Christoforos Mavrogiannis",
+    "Patr\u00edcia Alves-Oliveira",
+    "Wil Thomason",
+    "Ross A. Knepper"
+   ],
+   "url": "https://dl.acm.org/doi/10.1145/3495244"
+  },
+  {
+   "sim": 0.518,
+   "DOI": "10.1109/iros.2017.8206601",
+   "type": "proceedings-article",
+   "title": "Socially competent navigation planning by deep learning of multi-agent path topologies",
+   "container": "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "event": "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "volume": null,
+   "issue": null,
+   "page": "6817-6824",
+   "article-number": null,
+   "published": [
+    [
+     2017,
+     9
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Christoforos I. Mavrogiannis",
+    "Valts Blukis",
+    "Ross A. Knepper"
+   ],
+   "url": "http://ieeexplore.ieee.org/document/8206601/"
+  },
+  {
+   "sim": 0.426,
+   "DOI": "10.1007/978-3-030-43089-4_56",
+   "type": "book-chapter",
+   "title": "Decentralized Multi-Agent Navigation Planning with Braids",
+   "container": "Springer Proceedings in Advanced Robotics",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "880-895",
+   "article-number": null,
+   "published": [
+    [
+     2020
+    ]
+   ],
+   "publisher": "Springer International Publishing",
+   "authors": [
+    "Christoforos I. Mavrogiannis",
+    "Ross A. Knepper"
+   ],
+   "url": "http://link.springer.com/10.1007/978-3-030-43089-4_56"
+  },
+  {
+   "sim": 0.333,
+   "DOI": "10.1177/0278364918781016",
+   "type": "journal-article",
+   "title": "Multi-agent path topology in support of socially competent navigation planning",
+   "container": "The International Journal of Robotics Research",
+   "event": null,
+   "volume": "38",
+   "issue": "2-3",
+   "page": "338-356",
+   "article-number": null,
+   "published": [
+    [
+     2018,
+     6,
+     19
+    ]
+   ],
+   "publisher": "SAGE Publications",
+   "authors": [
+    "Christoforos I Mavrogiannis",
+    "Ross A Knepper"
+   ],
+   "url": "https://journals.sagepub.com/doi/10.1177/0278364918781016"
+  },
+  {
+   "sim": 0.3,
+   "DOI": "10.1145/3171221.3171255",
+   "type": "proceedings-article",
+   "title": "Social Momentum",
+   "container": "Proceedings of the 2018 ACM/IEEE International Conference on Human-Robot Interaction",
+   "event": "HRI '18: ACM/IEEE International Conference on Human-Robot Interaction",
+   "volume": null,
+   "issue": null,
+   "page": "361-369",
+   "article-number": null,
+   "published": [
+    [
+     2018,
+     2,
+     26
+    ]
+   ],
+   "publisher": "ACM",
+   "authors": [
+    "Christoforos I. Mavrogiannis",
+    "Wil B. Thomason",
+    "Ross A. Knepper"
+   ],
+   "url": "https://dl.acm.org/doi/10.1145/3171221.3171255"
+  }
+ ],
+ "JRDB": [
+  {
+   "sim": 0.475,
+   "DOI": "10.1007/s00371-008-0289-x",
+   "type": "journal-article",
+   "title": "Visual\u2013haptic perception of compliant objects in artificially generated environments",
+   "container": "The Visual Computer",
+   "event": null,
+   "volume": "24",
+   "issue": "10",
+   "page": "923-931",
+   "article-number": null,
+   "published": [
+    [
+     2008,
+     8,
+     7
+    ]
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "authors": [
+    "Martin Kuschel",
+    "Franziska Freyberger",
+    "Berthold F\u00e4rber",
+    "Martin Buss"
+   ],
+   "url": "http://link.springer.com/10.1007/s00371-008-0289-x"
+  },
+  {
+   "sim": 0.388,
+   "DOI": "10.1007/978-1-4471-4781-7_18",
+   "type": "book-chapter",
+   "title": "Assessing the Built Environment",
+   "container": "Design and Management of Sustainable Built Environments",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "359-384",
+   "article-number": null,
+   "published": [
+    [
+     2013
+    ]
+   ],
+   "publisher": "Springer London",
+   "authors": [
+    "Martin Townsend"
+   ],
+   "url": "https://link.springer.com/10.1007/978-1-4471-4781-7_18"
+  },
+  {
+   "sim": 0.373,
+   "DOI": "10.1109/case48305.2020.9216770",
+   "type": "proceedings-article",
+   "title": "Bridging Visual Perception with Contextual Semantics for Understanding Robot Manipulation Tasks",
+   "container": "2020 IEEE 16th International Conference on Automation Science and Engineering (CASE)",
+   "event": "2020 IEEE 16th International Conference on Automation Science and Engineering (CASE)",
+   "volume": null,
+   "issue": null,
+   "page": "1447-1452",
+   "article-number": null,
+   "published": [
+    [
+     2020,
+     8
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Chen Jiang",
+    "Martin Jagersand"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/9216770/"
+  },
+  {
+   "sim": 0.344,
+   "DOI": "10.1109/cw.2007.17",
+   "type": "proceedings-article",
+   "title": "Perception of Compliant Environments through a Visual-Haptic Human System Interface",
+   "container": "2007 International Conference on Cyberworlds (CW'07)",
+   "event": "2007 International Conference on Cyberworlds",
+   "volume": null,
+   "issue": null,
+   "page": "314-321",
+   "article-number": null,
+   "published": [
+    [
+     2007,
+     10
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Franziska K.B. Freyberger",
+    "Martin Kuschel",
+    "Martin Buss",
+    "Berthold Farber"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/4390935/"
+  },
+  {
+   "sim": 0.295,
+   "DOI": "10.3389/frobt.2026.1821019",
+   "type": "journal-article",
+   "title": "Long-term visual localization in dynamic benthic environments: the SEALOC dataset, footprint-based ground truth, and visual place recognition benchmark",
+   "container": "Frontiers in Robotics and AI",
+   "event": null,
+   "volume": "13",
+   "issue": null,
+   "page": null,
+   "article-number": "1821019",
+   "published": [
+    [
+     2026,
+     6,
+     8
+    ]
+   ],
+   "publisher": "Frontiers Media SA",
+   "authors": [
+    "Martin Kvisvik Larsen",
+    "Oscar Pizarro"
+   ],
+   "url": "https://www.frontiersin.org/articles/10.3389/frobt.2026.1821019/full"
+  }
+ ],
+ "GMPC": [
+  {
+   "sim": 0.629,
+   "DOI": "10.1109/lra.2022.3232270",
+   "type": "journal-article",
+   "title": "Curiosity-based Robot Navigation under Uncertainty in Crowded Environments",
+   "container": "IEEE Robotics and Automation Letters",
+   "event": null,
+   "volume": "8",
+   "issue": "2",
+   "page": "800-807",
+   "article-number": null,
+   "published": [
+    [
+     2023,
+     2
+    ]
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "Kuanqi Cai",
+    "Weinan Chen",
+    "Chaoqun Wang",
+    "Hong Zhang",
+    "Max Q.-H. Meng"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/9999328/"
+  },
+  {
+   "sim": 0.597,
+   "DOI": "10.1109/aris59192.2023.10268571",
+   "type": "proceedings-article",
+   "title": "Deep Reinforcement Learning with Pedestrian Trajectory Prediction Model for Service Robot Navigation in Crowded Environments",
+   "container": "2023 International Conference on Advanced Robotics and Intelligent Systems (ARIS)",
+   "event": "2023 International Conference on Advanced Robotics and Intelligent Systems (ARIS)",
+   "volume": null,
+   "issue": null,
+   "page": "1-6",
+   "article-number": null,
+   "published": [
+    [
+     2023,
+     8,
+     30
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Shih-Hao Wang",
+    "Yu-Hsiung Wu",
+    "Tzuu-Hseng S. Li"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/10268571/"
+  },
+  {
+   "sim": 0.589,
+   "DOI": "10.1109/icra57385.2026.11697150",
+   "type": "proceedings-article",
+   "title": "An End-to-End Trajectory Planner for Safe and Efficient Navigation in Crowded Dynamic Environments",
+   "container": "2026 IEEE International Conference on Robotics and Automation (ICRA)",
+   "event": "2026 IEEE International Conference on Robotics and Automation (ICRA)",
+   "volume": null,
+   "issue": null,
+   "page": "4982-4989",
+   "article-number": null,
+   "published": [
+    [
+     2026,
+     6
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Shuting Zhang",
+    "Haowen Wang",
+    "Guangchen Li"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/11697150/"
+  },
+  {
+   "sim": 0.519,
+   "DOI": "10.1108/ir-12-2023-0337",
+   "type": "journal-article",
+   "title": "Multi-robot navigation based on velocity obstacle prediction in dynamic crowded environments",
+   "container": "Industrial Robot: the international journal of robotics research and application",
+   "event": null,
+   "volume": "51",
+   "issue": "4",
+   "page": "607-616",
+   "article-number": null,
+   "published": [
+    [
+     2024,
+     4,
+     8
+    ]
+   ],
+   "publisher": "Emerald",
+   "authors": [
+    "Yimei Chen",
+    "Yixin Wang",
+    "Baoquan Li",
+    "Tohru Kamiya"
+   ],
+   "url": "http://www.emerald.com/ir/article/51/4/607-616/1217008"
+  },
+  {
+   "sim": 0.476,
+   "DOI": "10.1109/icus50048.2020.9274867",
+   "type": "proceedings-article",
+   "title": "Optimizing INS/GNSS/UWB Integrated Vehicle Collaboration Navigation Based on Performance Analysis Under Crowded environments",
+   "container": "2020 3rd International Conference on Unmanned Systems (ICUS)",
+   "event": "2020 3rd International Conference on Unmanned Systems (ICUS)",
+   "volume": null,
+   "issue": null,
+   "page": "1042-1046",
+   "article-number": null,
+   "published": [
+    [
+     2020,
+     11,
+     27
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Lina Zhong",
+    "Rong Wang",
+    "Yuxi Wang",
+    "Yiyang Ni",
+    "Xiao Liu",
+    "Lina Wang"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/9274867/"
+  }
+ ],
+ "SELFI": [
+  {
+   "sim": 0.609,
+   "DOI": "10.1109/lra.2023.3329626",
+   "type": "journal-article",
+   "title": "SACSoN: Scalable Autonomous Control for Social Navigation",
+   "container": "IEEE Robotics and Automation Letters",
+   "event": null,
+   "volume": "9",
+   "issue": "1",
+   "page": "49-56",
+   "article-number": null,
+   "published": [
+    [
+     2024,
+     1
+    ]
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "Noriaki Hirose",
+    "Dhruv Shah",
+    "Ajay Sridhar",
+    "Sergey Levine"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/10305270/"
+  },
+  {
+   "sim": 0.549,
+   "DOI": "10.1109/lra.2023.3329626/mm1",
+   "type": "component",
+   "title": "SACSoN: Scalable Autonomous Control for Social Navigation_supp1-3329626.mp4",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": null,
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "authors": [
+    "Noriaki Hirose"
+   ],
+   "url": "https://ieeexplore.ieee.org/ielx7/7083369/10320104/10305270/supp1-3329626.mp4?arnumber=10305270"
+  },
+  {
+   "sim": 0.299,
+   "DOI": "10.1163/9789004480667_006",
+   "type": "book-chapter",
+   "title": "Toward an Understanding of the Self-Organizing Nature of the World",
+   "container": "A Social Theory of International Law",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "87-119",
+   "article-number": null,
+   "published": [
+    [
+     2003,
+     1,
+     1
+    ]
+   ],
+   "publisher": "Brill | Nijhoff",
+   "authors": [
+    "Kazuko Hirose Kawaguchi"
+   ],
+   "url": "https://brill.com/view/book/9789004480667/B9789004480667_s006.xml"
+  },
+  {
+   "sim": 0.299,
+   "DOI": "10.1007/978-94-017-4978-7_4",
+   "type": "book-chapter",
+   "title": "Toward an Understanding of the Self-Organizing Nature of the World",
+   "container": "A Social Theory of International Law",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "87-119",
+   "article-number": null,
+   "published": [
+    [
+     2003
+    ]
+   ],
+   "publisher": "Springer Netherlands",
+   "authors": [
+    "Kazuko Hirose Kawaguchi"
+   ],
+   "url": "http://link.springer.com/10.1007/978-94-017-4978-7_4"
+  },
+  {
+   "sim": 0.288,
+   "DOI": "10.1016/0921-8890(95)00074-7",
+   "type": "journal-article",
+   "title": "A code of conduct for robots coexisting with human beings",
+   "container": "Robotics and Autonomous Systems",
+   "event": null,
+   "volume": "18",
+   "issue": "1-2",
+   "page": "101-107",
+   "article-number": null,
+   "published": [
+    [
+     1996,
+     7
+    ]
+   ],
+   "publisher": "Elsevier BV",
+   "authors": [
+    "Shigeo Hirose"
+   ],
+   "url": "https://linkinghub.elsevier.com/retrieve/pii/0921889095000747"
+  }
+ ],
+ "MoussaidGroups": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1371/journal.pone.0010047",
+   "type": "journal-article",
+   "title": "The Walking Behaviour of Pedestrian Social Groups and Its Impact on Crowd Dynamics",
+   "container": "PLoS ONE",
+   "event": null,
+   "volume": "5",
+   "issue": "4",
+   "page": "e10047",
+   "article-number": null,
+   "published": [
+    [
+     2010,
+     4,
+     7
+    ]
+   ],
+   "publisher": "Public Library of Science (PLoS)",
+   "authors": [
+    "Mehdi Moussa\u00efd",
+    "Niriaska Perozo",
+    "Simon Garnier",
+    "Dirk Helbing",
+    "Guy Theraulaz"
+   ],
+   "url": "https://dx.plos.org/10.1371/journal.pone.0010047"
+  },
+  {
+   "sim": 0.473,
+   "DOI": "10.1073/pnas.1016507108",
+   "type": "journal-article",
+   "title": "How simple rules determine pedestrian behavior and crowd disasters",
+   "container": "Proceedings of the National Academy of Sciences",
+   "event": null,
+   "volume": "108",
+   "issue": "17",
+   "page": "6884-6888",
+   "article-number": null,
+   "published": [
+    [
+     2011,
+     4,
+     18
+    ]
+   ],
+   "publisher": "National Academy of Sciences",
+   "authors": [
+    "Mehdi Moussa\u00efd",
+    "Dirk Helbing",
+    "Guy Theraulaz"
+   ],
+   "url": "https://pnas.org/doi/full/10.1073/pnas.1016507108"
+  },
+  {
+   "sim": 0.423,
+   "DOI": "10.3389/frobt.2018.00082",
+   "type": "journal-article",
+   "title": "Virtual Sensing and Virtual Reality: How New Technologies Can Boost Research on Crowd Dynamics",
+   "container": "Frontiers in Robotics and AI",
+   "event": null,
+   "volume": "5",
+   "issue": null,
+   "page": null,
+   "article-number": "82",
+   "published": [
+    [
+     2018,
+     7,
+     13
+    ]
+   ],
+   "publisher": "Frontiers Media SA",
+   "authors": [
+    "Mehdi Moussa\u00efd",
+    "Victor R. Schinazi",
+    "Mubbasir Kapadia",
+    "Tyler Thrash"
+   ],
+   "url": "https://www.frontiersin.org/article/10.3389/frobt.2018.00082/full"
+  },
+  {
+   "sim": 0.292,
+   "DOI": "10.1101/771014",
+   "type": "posted-content",
+   "title": "The social dynamics of collective problem-solving",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": [
+    [
+     2019,
+     9,
+     16
+    ]
+   ],
+   "publisher": "openRxiv",
+   "authors": [
+    "Kyanoush Seyed Yahosseini",
+    "Mehdi Moussa\u00efd"
+   ],
+   "url": "http://biorxiv.org/lookup/doi/10.1101/771014"
+  },
+  {
+   "sim": 0.277,
+   "DOI": "10.1007/978-3-319-02447-9_5",
+   "type": "book-chapter",
+   "title": "Simple Heuristics and the Modelling of Crowd Behaviours",
+   "container": "Pedestrian and Evacuation Dynamics 2012",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "75-90",
+   "article-number": null,
+   "published": [
+    [
+     2013,
+     12,
+     6
+    ]
+   ],
+   "publisher": "Springer International Publishing",
+   "authors": [
+    "Mehdi Moussa\u00efd",
+    "Jonathan D. Nelson"
+   ],
+   "url": "https://link.springer.com/10.1007/978-3-319-02447-9_5"
+  }
+ ],
+ "PIVOT": [],
+ "NaVid": [
+  {
+   "sim": 1.0,
+   "DOI": "10.15607/rss.2024.xx.079",
+   "type": "proceedings-article",
+   "title": "NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation",
+   "container": "Robotics: Science and Systems XX",
+   "event": "Robotics: Science and Systems 2024",
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": [
+    [
+     2024,
+     7,
+     15
+    ]
+   ],
+   "publisher": "Robotics: Science and Systems Foundation",
+   "authors": [
+    "Jiazhao Zhang",
+    "Kunyu Wang",
+    "Rongtao Xu",
+    "Gengze Zhou",
+    "Yicong Hong",
+    "Xiaomeng Fang",
+    "Qi Wu",
+    "Zhizheng Zhang",
+    "He Wang"
+   ],
+   "url": "http://www.roboticsproceedings.org/rss20/p079.pdf"
+  },
+  {
+   "sim": 0.525,
+   "DOI": "10.15607/rss.2025.xxi.013",
+   "type": "proceedings-article",
+   "title": "Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks",
+   "container": "Robotics: Science and Systems XXI",
+   "event": "Robotics: Science and Systems 2025",
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": [
+    [
+     2025,
+     6,
+     21
+    ]
+   ],
+   "publisher": "Robotics: Science and Systems Foundation",
+   "authors": [
+    "Jiazhao Zhang",
+    "Kunyu Wang",
+    "Shaoan Wang",
+    "Minghan Li",
+    "Haoran Liu",
+    "Songlin Wei",
+    "Zhongyuan Wang",
+    "Zhizheng Zhang",
+    "He Wang"
+   ],
+   "url": "https://www.roboticsproceedings.org/rss21/p013.pdf"
+  },
+  {
+   "sim": 0.469,
+   "DOI": "10.22541/au.175131560.00300188/v1",
+   "type": "posted-content",
+   "title": "MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation",
+   "container": "",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": null,
+   "article-number": null,
+   "published": [
+    [
+     2025,
+     6,
+     30
+    ]
+   ],
+   "publisher": "Wiley",
+   "authors": [
+    "Lingfeng Zhang",
+    "Xiaoshuai Hao",
+    "Qinwen Xu",
+    "Qiang Zhang",
+    "Xinyao Zhang",
+    "Pengwei Wang",
+    "Jing Zhang",
+    "Zhongyuan Wang",
+    "Shanghang Zhang",
+    "Renjing Xu"
+   ],
+   "url": "https://www.authorea.com/doi/full/10.22541/au.175131560.00300188/v1"
+  },
+  {
+   "sim": 0.469,
+   "DOI": "10.18653/v1/2025.acl-long.638",
+   "type": "proceedings-article",
+   "title": "MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation",
+   "container": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+   "event": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+   "volume": null,
+   "issue": null,
+   "page": "13032-13056",
+   "article-number": null,
+   "published": [
+    [
+     2025
+    ]
+   ],
+   "publisher": "Association for Computational Linguistics",
+   "authors": [
+    "Lingfeng Zhang",
+    "Xiaoshuai Hao",
+    "Qinwen Xu",
+    "Qiang Zhang",
+    "Xinyao Zhang",
+    "Pengwei Wang",
+    "Jing Zhang",
+    "Zhongyuan Wang",
+    "Shanghang Zhang",
+    "Renjing Xu"
+   ],
+   "url": "https://aclanthology.org/2025.acl-long.638"
+  },
+  {
+   "sim": 0.418,
+   "DOI": "10.1109/iros60139.2025.11246682",
+   "type": "proceedings-article",
+   "title": "VLM See, Robot Do: Human Demo Video to Robot Action Plan via Vision Language Model",
+   "container": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "event": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+   "volume": null,
+   "issue": null,
+   "page": "17215-17222",
+   "article-number": null,
+   "published": [
+    [
+     2025,
+     10,
+     19
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Beichen Wang",
+    "Juexiao Zhang",
+    "Shuwen Dong",
+    "Irving Fang",
+    "Chen Feng"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/11246682/"
+  }
+ ],
+ "VLN-CE": [
+  {
+   "sim": 1.0,
+   "DOI": "10.1007/978-3-030-58604-1_7",
+   "type": "book-chapter",
+   "title": "Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments",
+   "container": "Lecture Notes in Computer Science",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "104-120",
+   "article-number": null,
+   "published": [
+    [
+     2020
+    ]
+   ],
+   "publisher": "Springer International Publishing",
+   "authors": [
+    "Jacob Krantz",
+    "Erik Wijmans",
+    "Arjun Majumdar",
+    "Dhruv Batra",
+    "Stefan Lee"
+   ],
+   "url": "https://link.springer.com/10.1007/978-3-030-58604-1_7"
+  },
+  {
+   "sim": 0.795,
+   "DOI": "10.1007/978-3-031-19842-7_34",
+   "type": "book-chapter",
+   "title": "Sim-2-Sim Transfer for\u00a0Vision-and-Language Navigation in\u00a0Continuous Environments",
+   "container": "Lecture Notes in Computer Science",
+   "event": null,
+   "volume": null,
+   "issue": null,
+   "page": "588-603",
+   "article-number": null,
+   "published": [
+    [
+     2022
+    ]
+   ],
+   "publisher": "Springer Nature Switzerland",
+   "authors": [
+    "Jacob Krantz",
+    "Stefan Lee"
+   ],
+   "url": "https://link.springer.com/10.1007/978-3-031-19842-7_34"
+  },
+  {
+   "sim": 0.64,
+   "DOI": "10.1109/iccv48922.2021.01488",
+   "type": "proceedings-article",
+   "title": "Waypoint Models for Instruction-guided Navigation in Continuous Environments",
+   "container": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+   "event": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+   "volume": null,
+   "issue": null,
+   "page": "15142-15151",
+   "article-number": null,
+   "published": [
+    [
+     2021,
+     10
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Jacob Krantz",
+    "Aaron Gokaslan",
+    "Dhruv Batra",
+    "Stefan Lee",
+    "Oleksandr Maksymets"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/9710310/"
+  },
+  {
+   "sim": 0.584,
+   "DOI": "10.1109/cvpr52729.2023.01433",
+   "type": "proceedings-article",
+   "title": "Iterative Vision-and-Language Navigation",
+   "container": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "event": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "volume": null,
+   "issue": null,
+   "page": "14921-14930",
+   "article-number": null,
+   "published": [
+    [
+     2023,
+     6
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Jacob Krantz",
+    "Shurjo Banerjee",
+    "Wang Zhu",
+    "Jason Corso",
+    "Peter Anderson",
+    "Stefan Lee",
+    "Jesse Thomason"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/10205430/"
+  },
+  {
+   "sim": 0.567,
+   "DOI": "10.1109/cvpr52734.2025.00364",
+   "type": "proceedings-article",
+   "title": "Do Visual Imaginations Improve Vision-and-Language Navigation Agents?",
+   "container": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "event": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "volume": null,
+   "issue": null,
+   "page": "3846-3855",
+   "article-number": null,
+   "published": [
+    [
+     2025,
+     6,
+     10
+    ]
+   ],
+   "publisher": "IEEE",
+   "authors": [
+    "Akhil Perincherry",
+    "Jacob Krantz",
+    "Stefan Lee"
+   ],
+   "url": "https://ieeexplore.ieee.org/document/11094881/"
+  }
+ ]
+}

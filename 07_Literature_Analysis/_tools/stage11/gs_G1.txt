@@ -1,0 +1,12 @@
+QUERY: "social navigation" "vision-language model" robot
+FIELD: Google Scholar (full text); RANGE: 2023-2026; RUN: 2026-10-26 via browser; RAW RESULTS: 202 (reported "About 202 results"); only page 1 (10 results) retrieved: page 2 returned a CAPTCHA, which was not attempted. Google Scholar is therefore NOT a systematic source in this search.
+SocialNav: Training human-inspired foundation model for socially-aware embodied navigation | openaccess.thecvf.com CVPR 2026 | Z Chen
+Vlm-social-nav: Socially aware robot navigation through scoring using vision-language models | ieeexplore 10777573 | D Song
+Autospatial: Visual-language reasoning for social robot navigation through efficient spatial reasoning learning | ieeexplore 11245987 | Y Kong
+Socialnav-sub: Benchmarking vlms for scene understanding in social robot navigation | arXiv 2509.08757 | MJ Munje
+Social-LLaVA: Enhancing social robot navigation through human-language reasoning | ieeexplore 11247618 | A Payandeh
+Socialnav-moe: A mixture-of-experts vision language model for socially compliant navigation with reinforcement fine-tuning | arXiv 2512.14757 | T Kawabata
+From obstacles to etiquette: Robot social navigation with vlm-informed path selection | ieeexplore 11373887 | Z Fang
+Maction-socialnav: Multi-action socially compliant navigation via reasoning-enhanced prompt tuning | ieeexplore 11576553 | Z Wang
+Lisn: Language-instructed social navigation with vlm-based controller modulating | ieeexplore 11695757 | J Chen
+Walk with me: Long-horizon social navigation for human-centric outdoor assistance | arXiv 2604.26839 | L Zhang

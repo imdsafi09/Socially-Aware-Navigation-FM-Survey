@@ -1,0 +1,158 @@
+{
+ "ORCA": [
+  "Reciprocal n-body collision avoidance",
+  "van den Berg"
+ ],
+ "TrautmanIJRR2015": [
+  "Robot navigation in dense human crowds: Statistical models and experimental studies of human-robot cooperation",
+  "Trautman"
+ ],
+ "RiosMartinez": [
+  "From proxemics theory to socially-aware navigation: A survey",
+  "Rios-Martinez"
+ ],
+ "GA3C-CADRL": [
+  "Motion planning among dynamic, decision-making agents with deep reinforcement learning",
+  "Everett"
+ ],
+ "Habitat3": [
+  "Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots",
+  "Puig"
+ ],
+ "PirkProtocol": [
+  "A protocol for validating social navigation policies",
+  "Pirk"
+ ],
+ "SocialMomentum": [
+  "Social Momentum: A Framework for Legible Navigation in Dynamic Multi-Agent Environments",
+  "Mavrogiannis"
+ ],
+ "CrowdNav++": [
+  "Intention aware robot crowd navigation with attention-based interaction graph",
+  "Liu"
+ ],
+ "JRDB": [
+  "JRDB: A Dataset and Benchmark of Egocentric Robot Visual Perception of Humans in Built Environments",
+  "Martin-Martin"
+ ],
+ "DS-RNN": [
+  "Decentralized structural-RNN for robot crowd navigation with deep reinforcement learning",
+  "Liu"
+ ],
+ "GMPC": [
+  "Group-based Motion Prediction for Navigation in Crowded Environments",
+  "Wang"
+ ],
+ "Kathuria": [
+  "Learning implicit social navigation behavior using deep inverse reinforcement learning",
+  "Kathuria"
+ ],
+ "SELFI": [
+  "SELFI: Autonomous Self-Improvement with Reinforcement Learning for Social Navigation",
+  "Hirose"
+ ],
+ "ETH": [
+  "You'll never walk alone: Modeling social behavior for multi-target tracking",
+  "Pellegrini"
+ ],
+ "UCY": [
+  "Crowds by example",
+  "Lerner"
+ ],
+ "SocialLSTM": [
+  "Social LSTM: Human trajectory prediction in crowded spaces",
+  "Alahi"
+ ],
+ "FanDRL": [
+  "Distributed multi-robot collision avoidance via deep reinforcement learning for navigation in complex scenarios",
+  "Fan"
+ ],
+ "SisbotHAMP": [
+  "A human aware mobile robot motion planner",
+  "Sisbot"
+ ],
+ "SocialGAN": [
+  "Social GAN: Socially acceptable trajectories with generative adversarial networks",
+  "Gupta"
+ ],
+ "SocialGym": [
+  "SocialGym 2.0: Simulator for multi-agent social robot navigation in shared human spaces",
+  "Sprague"
+ ],
+ "NaVILA": [
+  "NaVILA: Legged robot vision-language-action model for navigation",
+  "Cheng"
+ ],
+ "HuNavSim": [
+  "HuNavSim: A ROS 2 human navigation simulator for benchmarking human-aware robot navigation",
+  "Perez-Higueras"
+ ],
+ "MavrogiannisHRI2019": [
+  "Effects of distinct robot navigation strategies on human behavior in a crowded environment",
+  "Mavrogiannis"
+ ],
+ "MoussaidGroups": [
+  "The walking behaviour of pedestrian social groups and its impact on crowd dynamics",
+  "Moussa\u00efd"
+ ],
+ "RGL": [
+  "Relational graph learning for crowd navigation",
+  "Chen"
+ ],
+ "SEAN2": [
+  "SEAN 2.0: Formalizing and generating social situations for robot navigation",
+  "Tsoi"
+ ],
+ "THOR": [
+  "THOR: Human-robot navigation data collection and accurate motion trajectories dataset",
+  "Rudenko"
+ ],
+ "WangConformity": [
+  "Metrics for evaluating social conformity of crowd navigation algorithms",
+  "Wang"
+ ],
+ "LayeredCostmaps": [
+  "Layered costmaps for context-sensitive navigation",
+  "Lu"
+ ],
+ "PIVOT": [
+  "PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs",
+  "Nasiriany"
+ ],
+ "RudenkoSurvey": [
+  "Human motion trajectory prediction: A survey",
+  "Rudenko"
+ ],
+ "SocNav2": [
+  "SocNav2: A dataset for learning social navigation conventions",
+  "Bachiller"
+ ],
+ "GazeNav-Chen2020": [
+  "Robot navigation in crowds by graph convolutional networks with attention learned from human gaze",
+  "Chen"
+ ],
+ "Okunevich": [
+  "Online context learning for socially-compliant navigation",
+  "Okunevich"
+ ],
+ "GazeNav-2026": [
+  "Learning from human gaze: Human-like robot social navigation in dense crowds",
+  "Yu"
+ ],
+ "ProactiveVLMdistill": [
+  "Towards proactive social robots: Distilling visual knowledge from large vision-language models",
+  "De Simone"
+ ],
+ "SocialNav-Map": [
+  "SocialNav-Map",
+  ""
+ ],
+ "NaVid": [
+  "NaVid: Video-based VLM plans the next step for vision-and-language navigation",
+  "Zhang"
+ ],
+ "VLN-CE": [
+  "Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments",
+  "Krantz"
+ ]
+}

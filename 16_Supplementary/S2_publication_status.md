@@ -1,0 +1,104 @@
+# Table S2. Publication status of all 98 corpus works
+
+98 rows. Machine-readable version: `S2_publication_status.csv`.
+
+| Cite key | Category | Year | Venue | Status class | Peer reviewed | DOI | arXiv relation |
+|---|---|---|---|---|---|---|---|
+| Helbing1995SocialForce | S1 | 1995 | Physical Review E | A: published, peer-reviewed | Yes | 10.1103/PhysRevE.51.4282 | arXiv copy posted 1998 after journal publication; journal version authoritative |
+| Trautman2010UnfreezingIGP | S1 | 2010 | 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) | A: published, peer-reviewed | Yes | 10.1109/IROS.2010.5654369 | Corpus copy is the published version |
+| Kuderer2012FeatureBasedPrediction | S2 | 2012 | Robotics: Science and Systems VIII (RSS 2012) | A: published, peer-reviewed | Yes | 10.15607/RSS.2012.VIII.025 | Corpus copy is the published version |
+| Kruse2013HumanAwareNavigationSurvey | S0 | 2013 | Robotics and Autonomous Systems | A: published, peer-reviewed | Yes | 10.1016/j.robot.2013.05.007 | Corpus copy is the published version |
+| Kretzschmar2016SociallyCompliantIRL | S2 | 2016 | The International Journal of Robotics Research | A: published, peer-reviewed | Yes | 10.1177/0278364915619772 | Corpus copy is an author manuscript; journal version authoritative |
+| Okal2016BayesianIRL | S2 | 2016 | 2016 IEEE International Conference on Robotics and Automation (ICRA) | A: published, peer-reviewed | Yes | 10.1109/ICRA.2016.7487452 | Corpus copy is the published version |
+| Charalampous2017SocialAwareNavigationSurvey | S0 | 2017 | Robotics and Autonomous Systems | A: published, peer-reviewed | Yes | 10.1016/j.robot.2017.03.002 | Corpus copy is the published version |
+| Chen2017CADRL | S2 | 2017 | 2017 IEEE International Conference on Robotics and Automation (ICRA) | A: published, peer-reviewed | Yes | 10.1109/ICRA.2017.7989037 | Corpus copy is the arXiv author version; published version authoritative |
+| Chen2017SACADRL | S2 | 2017 | 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) | A: published, peer-reviewed | Yes | 10.1109/IROS.2017.8202312 | Corpus copy is the arXiv author version; published version authoritative |
+| Tai2018GAILDepth | S2 | 2018 | 2018 IEEE International Conference on Robotics and Automation (ICRA) | A: published, peer-reviewed | Yes | 10.1109/ICRA.2018.8460968 | Corpus copy is the arXiv author version; published version authoritative |
+| Chen2019SARLCrowdNav | S2 | 2019 | 2019 International Conference on Robotics and Automation (ICRA) | A: published, peer-reviewed | Yes | 10.1109/ICRA.2019.8794134 | Corpus copy is the arXiv author version; published version authoritative |
+| Tsoi2020SEAN | S6 | 2020 | Proceedings of the 8th International Conference on Human-Agent Interaction (HAI  | A: published, peer-reviewed | Yes | 10.1145/3406499.3418760 | Corpus copy is the arXiv author version; published version authoritative |
+| Kastner2021ArenaRosnav | S6 | 2021 | 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) | A: published, peer-reviewed | Yes | 10.1109/IROS51168.2021.9636226 | Corpus copy is the published IEEE version |
+| Moller2021HumanAwareNavigationSurvey | S0 | 2021 | Robotics and Autonomous Systems | A: published, peer-reviewed | Yes | 10.1016/j.robot.2021.103837 | Corpus copy is the arXiv author version; published version authoritative |
+| Ichter2022SayCan | S3 | 2022 | Proceedings of The 6th Conference on Robot Learning (CoRL 2022), PMLR 205 | A: published, peer-reviewed | Yes | none | Corpus copy is the PMLR published version; arXiv 2204.01691v2 alternate |
+| Biswas2022SocNavBench | S6 | 2022 | ACM Transactions on Human-Robot Interaction | A: published, peer-reviewed | Yes | 10.1145/3476413 | Corpus copy is the arXiv author version; published version authoritative |
+| Gao2022EvaluationSANReview | S0 | 2022 | Frontiers in Robotics and AI | A: published, peer-reviewed | Yes | 10.3389/frobt.2021.721317 | Corpus copy is the published version |
+| Karnan2022SCAND | S6 | 2022 | IEEE Robotics and Automation Letters | A: published, peer-reviewed | Yes | 10.1109/LRA.2022.3184025 | Corpus copy is the arXiv author version; published version authoritative |
+| Kim2022GroupEstimation | S2 | 2022 | 2022 22nd International Conference on Control, Automation and Systems (ICCAS) | A: published, peer-reviewed | Yes | 10.23919/ICCAS55662.2022.10003761 | Corpus copy is the published version |
+| Shah2022LMNav | S3 | 2022 | Proceedings of The 6th Conference on Robot Learning (CoRL 2022), PMLR 205 | A: published, peer-reviewed | Yes | none | Corpus copy is the PMLR published version; arXiv 2207.04429v2 alternate |
+| Zitkovich2023RT2 | S3 | 2023 | Proceedings of The 7th Conference on Robot Learning (CoRL 2023), PMLR 229 | A: published, peer-reviewed | Yes | none | Corpus copy is the PMLR published version; arXiv 2307.15818v1 alternate |
+| Driess2023PaLME | S3 | 2023 | Proceedings of the 40th International Conference on Machine Learning (ICML 2023) | A: published, peer-reviewed | Yes | none | Corpus copy is the PMLR published version; arXiv 2303.03378v1 alternate |
+| Huang2023VLMaps | S3 | 2023 | 2023 IEEE International Conference on Robotics and Automation (ICRA) | A: published, peer-reviewed | Yes | 10.1109/ICRA48891.2023.10160969 | Corpus copy is the arXiv author version; published version authoritative |
+| Huang2023VoxPoser | S3 | 2023 | Proceedings of The 7th Conference on Robot Learning (CoRL 2023), PMLR 229 | A: published, peer-reviewed | Yes | none | Corpus copy is the PMLR published version; arXiv 2307.05973v2 alternate |
+| Liang2023CodeasPolicies | S3 | 2023 | 2023 IEEE International Conference on Robotics and Automation (ICRA) | A: published, peer-reviewed | Yes | 10.1109/ICRA48891.2023.10160591 | Corpus copy is the arXiv author version; published version authoritative |
+| Mavrogiannis2023CoreChallengesSurvey | S0 | 2023 | ACM Transactions on Human-Robot Interaction | A: published, peer-reviewed | Yes | 10.1145/3583741 | Corpus copy is the arXiv author version; published version authoritative |
+| Nguyen2023MuSoHu | S6 | 2023 | 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) | A: published, peer-reviewed | Yes | 10.1109/IROS55552.2023.10342447 | Not reported |
+| Shah2023GNM | S3 | 2023 | 2023 IEEE International Conference on Robotics and Automation (ICRA) | A: published, peer-reviewed | Yes | 10.1109/ICRA48891.2023.10161227 | Corpus copy is the arXiv author version; published version authoritative |
+| Shah2023ViNT | S3 | 2023 | Proceedings of The 7th Conference on Robot Learning (CoRL 2023), PMLR 229 | A: published, peer-reviewed | Yes | none | Corpus copy is arXiv v2; PMLR version authoritative |
+| Wang2023NaviSTAR | S2 | 2023 | 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) | A: published, peer-reviewed | Yes | 10.1109/IROS55552.2023.10341395 | Corpus copy is the arXiv author version; published version authoritative |
+| Hirose2024SACSoN | S6 | 2024 | IEEE Robotics and Automation Letters | A: published, peer-reviewed | Yes | 10.1109/LRA.2023.3329626 | Not reported |
+| Holk2024PREDILECT | S4 | 2024 | Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interac | A: published, peer-reviewed | Yes | 10.1145/3610977.3634970 | Not reported |
+| Karwowski2024RequirementsPlanningEvaluationReview | S0 | 2024 | Sensors | A: published, peer-reviewed | Yes | 10.3390/s24092794 | Corpus copy is the published version |
+| Li2024HAVLN | S6 | 2024 | Advances in Neural Information Processing Systems 37 (NeurIPS 2024, Datasets and | A: published, peer-reviewed | Yes | 10.52202/079017-3795 | Corpus copy is the arXiv author version; published version authoritative |
+| Marpally2026SocRATES | S6 | 2026 | IEEE Robotics and Automation Letters | A: published, peer-reviewed | Yes | 10.1109/LRA.2026.3737041 | arXiv v1 (different title) is the corpus copy; RA-L version authoritative |
+| Mirsky2024ConflictAvoidanceSurvey | S0 | 2024 | ACM Transactions on Human-Robot Interaction | A: published, peer-reviewed | Yes | 10.1145/3647983 | Corpus copy is the arXiv author version; published version authoritative |
+| Raj2024HybridSocialNav | S2 | 2024 | 2024 IEEE International Conference on Robotics and Automation (ICRA) | A: published, peer-reviewed | Yes | 10.1109/ICRA57147.2024.10611710 | Corpus copy is the arXiv author version; published version authoritative |
+| Sathyamoorthy2024CoNVOI | S4 | 2024 | 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) | A: published, peer-reviewed | Yes | 10.1109/IROS58592.2024.10802716 | Corpus copy is the arXiv author version; published version authoritative |
+| Shcherbyna2025Arena40 | S6 | 2025 | 2025 IEEE International Conference on Robotics and Automation (ICRA) | A: published, peer-reviewed | Yes | 10.1109/ICRA55743.2025.11127635 | Corpus copy is the arXiv author version; published version authoritative |
+| Singamaneni2024SANTaxonomySurvey | S0 | 2024 | The International Journal of Robotics Research | A: published, peer-reviewed | Yes | 10.1177/02783649241230562 | Corpus copy is the arXiv author version; published version authoritative |
+| Sridhar2024NoMaD | S3 | 2024 | 2024 IEEE International Conference on Robotics and Automation (ICRA) | A: published, peer-reviewed | Yes | 10.1109/ICRA57147.2024.10610665 | Corpus copy is the arXiv author version; published version authoritative |
+| Wang2024SALM | S5 | 2024 | arXiv preprint (arXiv:2403.15648v3) | C: preprint only | No | none | Not reported |
+| Yokoyama2024VLFM | S3 | 2024 | 2024 IEEE International Conference on Robotics and Automation (ICRA) | A: published, peer-reviewed | Yes | 10.1109/ICRA57147.2024.10610712 | Corpus copy is the arXiv author version; published version authoritative |
+| Yu2024PANav | S5 | 2024 | arXiv preprint (arXiv:2410.04302v1) | C: preprint only | No | none | Not reported |
+| Zhou2024NavGPT | S3 | 2024 | Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-24) | A: published, peer-reviewed | Yes | 10.1609/aaai.v38i7.28597 | Corpus copy is the arXiv author version; published version authoritative |
+| Alyassi2025LearningSocialNavReviewBenchmark | S0 | 2025 | Frontiers in Robotics and AI | A: published, peer-reviewed | Yes | 10.3389/frobt.2025.1658643 | Corpus copy is the published version |
+| Francis2025PrinciplesGuidelines | S0 | 2025 | ACM Transactions on Human-Robot Interaction | A: published, peer-reviewed | Yes | 10.1145/3700599 | Corpus copy is the arXiv author version; published version authoritative |
+| Kawabata2025SocialNavMoE | S5 | 2025 | arXiv:2512.14757v1 [cs.CV], 15 Dec 2025 | C: preprint only | No | none | arXiv only |
+| Kong2025AutoSpatial | S4 | 2025 | 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) | A: published, peer-reviewed | Yes | 10.1109/IROS60139.2025.11245987 | Corpus copy is the arXiv author version; published version authoritative |
+| Liang2025MOSU | S5 | 2025 | International Symposium on Experimental Robotics (ISER) 2025 - per citation in F | B: accepted/presented per citing paper; proceedings not indexed | Accepted (not yet indexed) | none | Not reported |
+| Luo2025GSON | S4 | 2025 | IEEE Robotics and Automation Letters | A: published, peer-reviewed | Yes | 10.1109/LRA.2025.3595038 | Corpus copy is the arXiv author version; published version authoritative |
+| MartinezBaselga2025HeyRobot | S4 | 2025 | 2025 IEEE International Conference on Robotics and Automation (ICRA) | A: published, peer-reviewed | Yes | 10.1109/ICRA55743.2025.11128826 | Not reported |
+| Munje2025SocialNavSUB | S6 | 2025 | Proceedings of The 9th Conference on Robot Learning (CoRL 2025), PMLR 305 | A: published, peer-reviewed | Yes | none | Corpus copy is the PMLR published version; arXiv 2509.08757v1 alternate |
+| Narasimhan2025OLiViaNav | S4 | 2025 | 2025 IEEE International Conference on Robotics and Automation (ICRA) | A: published, peer-reviewed | Yes | 10.1109/ICRA55743.2025.11128004 | Corpus copy is the arXiv author version; published version authoritative |
+| Payandeh2025SocialLLaVA | S4 | 2025 | 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) | A: published, peer-reviewed | Yes | 10.1109/IROS60139.2025.11247618 | Corpus copy is the published IROS version; arXiv 2501.09024 carries a different title (alt |
+| Ruo2025LLMSocialCues | S4 | 2025 | 2025 34th IEEE International Conference on Robot and Human Interactive Communica | A: published, peer-reviewed | Yes | 10.1109/RO-MAN63969.2025.11217843 | Not reported |
+| Saito2025VLMCrowdMapping | S4 | 2025 | 2025 IEEE International Conference on Real-time Computing and Robotics (RCAR) | A: published, peer-reviewed | Yes | 10.1109/RCAR65431.2025.11139707 | Not reported |
+| Song2025VLTGS | S3 | 2025 | IEEE Robotics and Automation Letters | A: published, peer-reviewed | Yes | 10.1109/LRA.2025.3559822 | Corpus copy is the arXiv author version; published version authoritative |
+| Song2025VLMSocialNav | S4 | 2025 | IEEE Robotics and Automation Letters | A: published, peer-reviewed | Yes | 10.1109/LRA.2024.3511409 | Corpus copy is the arXiv author version; published version authoritative |
+| Sotomi2025TransparentSocialNavVLM | S4 | 2025 | 2025 34th IEEE International Conference on Robot and Human Interactive Communica | A: published, peer-reviewed | Yes | 10.1109/RO-MAN63969.2025.11217693 | Not reported |
+| Wang2025SAMALM | S5 | 2025 | arXiv preprint (arXiv:2503.09758v1) | C: preprint only | No | none | Not reported |
+| Weerakoon2025BehAV | S4 | 2025 | 2025 IEEE International Conference on Robotics and Automation (ICRA) | A: published, peer-reviewed | Yes | 10.1109/ICRA55743.2025.11127890 | Corpus copy is the arXiv author version; published version authoritative |
+| Wen2025HSACLLM | S4 | 2025 | 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) | A: published, peer-reviewed | Yes | 10.1109/IROS60139.2025.11246738 | Corpus copy is the arXiv author version; published version authoritative |
+| Zhang2025FewShotPerception | S6 | 2025 | arXiv preprint (arXiv:2512.16019v1) | C: preprint only | No | none | Not reported |
+| Ahmadi2026HUMA | S5 | 2026 | arXiv preprint (arXiv:2607.10991v1) | C: preprint only (CoRL 2026 submission per arXiv comment; not an acceptance) | No | none | Not reported |
+| BejaranoSepulveda2026PAD | S4 | 2026 | Companion Proceedings of the 21st ACM/IEEE International Conference on Human-Rob | A: published, peer-reviewed | Yes | 10.1145/3776734.3794394 | Corpus copy is the published version |
+| Cai2026VLMDeployableSRNSurvey | S0 | 2026 | arXiv preprint (arXiv:2606.28760v1 [cs.RO], 27 Jun 2026) | C: preprint only | No | none | arXiv only; v1 only |
+| Chen2026LISN | S4 | 2026 | 2026 IEEE International Conference on Robotics and Automation (ICRA) | A: published, peer-reviewed | Yes | 10.1109/ICRA57385.2026.11695757 | Not reported |
+| Chen2026SocialNavCVPR | S4 | 2026 | Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio | A: published, peer-reviewed | Yes | none | Corpus copy is the CVF open-access version; arXiv 2511.21135v2 alternate. IEEE Xplore DOI  |
+| Dai2026DPedVLN | S6 | 2026 | arXiv preprint (arXiv:2609.21504v1) | C: preprint only | No | none | Not reported |
+| Dong2026HAVLN20 | S6 | 2026 | arXiv:2503.14229v5 [cs.AI], 18 Aug 2026 (document dated July 10, 2026) | B: accepted per authors/arXiv; proceedings not yet available | Accepted (not yet indexed) | none | arXiv only; published version not yet available |
+| Elnoor2026ViLAM | S5 | 2026 | arXiv:2503.09820v2 [cs.RO], 6 Mar 2026 | C: preprint only | No | none | arXiv only; no venue on UMD project page |
+| Fang2026GroupJoining | S5 | 2026 | arXiv preprint (arXiv:2609.28467v1) | C: preprint only | No | none | Not reported |
+| Fang2026ObstaclestoEtiquette | S4 | 2026 | IEEE Robotics and Automation Letters | A: published, peer-reviewed | Yes | 10.1109/LRA.2026.3662586 | Corpus copy is the arXiv author version; published version authoritative |
+| Gandotra2026RBTLR | S5 | 2026 | Companion Proceedings of the 21st ACM/IEEE International Conference on Human-Rob | D: conference paper; acceptance verified, peer review not established | Not established | 10.1145/3776734.3794437 | Not reported |
+| Hu2026SPARKVLN | S5 | 2026 | arXiv preprint (arXiv:2607.16806v1) | C: preprint only | No | none | Not reported |
+| Huang2026SONG | S6 | 2026 | arXiv preprint (arXiv:2607.25219v1) | C: preprint only | No | none | Not reported |
+| Huo2026NORMNav | S4 | 2026 | 2026 IEEE International Conference on Robotics and Automation (ICRA) | A: published, peer-reviewed | Yes | 10.1109/ICRA57385.2026.11696526 | Not reported |
+| Kabir2026DRLSANSurvey | S0 | 2026 | Applied Intelligence | A: published, peer-reviewed | Yes | 10.1007/s10489-025-06982-5 | Corpus copy is the arXiv author version; published version authoritative |
+| Liao2026G2Nav | S5 | 2026 | arXiv:2607.16956v1 [cs.RO], 18 Jul 2026 | B: accepted per authors/arXiv; proceedings not yet available | Accepted (not yet indexed) | none | arXiv only; published version not yet available |
+| Liu2026MUSON | S6 | 2026 | arXiv:2512.22867v2 [cs.CV], 3 Jul 2026 | C: preprint only | No | none | arXiv only; dataset on Hugging Face (MARSLab/MUSON) |
+| Oush2026VLATurtleBot | S4 | 2026 | 2026 11th International Conference on Control and Robotics Engineering (ICCRE) | A: published, peer-reviewed | Yes | 10.1109/ICCRE69951.2026.11593560 | Not reported |
+| Pan2026FoundationLMNavigationReview | S0 | 2026 | ACM Computing Surveys | A: published, peer-reviewed | Yes | 10.1145/3802539 | Corpus copy is the published version |
+| Park2026TACET | S5 | 2026 | arXiv preprint (arXiv:2610.03828v1) | C: preprint only | No | none | Not reported |
+| Payandeh2026Narrate2Nav | S4 | 2026 | 2026 IEEE International Conference on Robotics and Automation (ICRA) | A: published, peer-reviewed | Yes | 10.1109/ICRA57385.2026.11696112 | Not reported |
+| Sethuraman2026ContextAwarePreferences | S5 | 2026 | arXiv preprint (arXiv:2603.17510v2) | C: preprint only | No | none | Not reported |
+| Wang2026LENav | S4 | 2026 | IEEE Transactions on Automation Science and Engineering | A: published, peer-reviewed | Yes | 10.1109/TASE.2026.3673004 | Not reported |
+| Wang2026MActionSocialNav | S4 | 2026 | IEEE Robotics and Automation Letters | A: published, peer-reviewed | Yes | 10.1109/LRA.2026.3706951 | Corpus copy is the arXiv author version; published version authoritative |
+| Wang2026SALSA | S5 | 2026 | arXiv preprint (arXiv:2606.10495v2) | C: preprint only | No | none | Not reported |
+| Xiao2026ESocialNav | S4 | 2026 | ICASSP 2026 - IEEE International Conference on Acoustics, Speech and Signal Proc | A: published, peer-reviewed | Yes | 10.1109/ICASSP55912.2026.11462076 | Corpus copy is the arXiv author version; published version authoritative |
+| Xiao2026PromptingVLMsJSAI | S5 | 2026 | Proceedings of the Annual Conference of JSAI, JSAI2026 (40th Annual Conference o | D: conference paper; acceptance verified, peer review not established | Not established | 10.11517/pjsai.JSAI2026.0_2E5GS10o01 | Corpus copy is the JSAI proceedings PDF; arXiv 2601.14622 is a related, differently titled |
+| Xu2026HCSG | S5 | 2026 | arXiv:2605.13321v1 [cs.RO], 13 May 2026 | C: preprint only | No | none | arXiv only |
+| Zhang2026AHeadVLN | S4 | 2026 | Proceedings of the Thirty-Fifth International Joint Conference on Artificial Int | A: published, peer-reviewed | Yes | 10.24963/ijcai.2026/696 | Not reported |
+| Zhang2026GCL | S5 | 2026 | arXiv:2603.11447v1 [cs.RO], 12 Mar 2026 (LNCS-style template) | C: preprint only | No | none | arXiv only; an IEICE technical report is a related (non-archival) version |
+| Zhang2026SAATTNav | S5 | 2026 | arXiv preprint (arXiv:2603.13698v2) | C: preprint only (arXiv comment: submitted to IROS 2026; acceptance not found) | No | none | Not reported |
+| Zhang2026SOPDSocialNav | S5 | 2026 | arXiv:2607.19850v1 [cs.RO], 22 Jul 2026 | B: accepted per authors/arXiv; proceedings not yet available | Accepted (not yet indexed) | none | arXiv only; published version not yet available |
+| Zhang2026WalkWithMe | S5 | 2026 | arXiv preprint (arXiv:2604.26839v1) | C: preprint only | No | none | Not reported |
+| Zhao2026EvoNav | S5 | 2026 | arXiv preprint (arXiv:2605.11859v1) | C: preprint only | No | none | Not reported |

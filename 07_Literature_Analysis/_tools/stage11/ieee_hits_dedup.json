@@ -1,0 +1,664 @@
+{
+ "run": "2026-10-26",
+ "source": "ieee",
+ "families": [
+  {
+   "family": "ieee_I1",
+   "query": "(\"social navigation\" OR \"socially aware navigation\" OR \"human-aware navigation\" OR \"crowd navigation\" OR \"socially compliant navigation\") AND (\"large language model\" OR LLM OR \"vision-language\" OR VLM OR \"foundation model\" OR \"vision-language-action\" OR \"multimodal large language model\")",
+   "meta": "FIELD: All Metadata (IEEE Xplore default); RANGE: 2023-2026; RUN: 2026-10-26 via browser; RAW RESULTS: 18",
+   "raw_results": 18,
+   "listed": 18
+  },
+  {
+   "family": "ieee_I2",
+   "query": "(\"social robot navigation\" OR \"pedestrian-aware\" OR \"norm-aware\" OR \"social norms\" OR \"group navigation\" OR \"F-formation\" OR legibility OR politeness OR \"social reasoning\" OR \"social instruction\" OR \"context-aware navigation\" OR \"human-robot interaction\" OR pedestrians OR \"human-centric\") AND \"robot navigation\" AND (\"large language model\" OR LLM OR \"vision-language\" OR VLM OR \"foundation model\" OR \"vision-language-action\" OR \"multimodal large language model\" OR \"large multimodal model\")",
+   "meta": "FIELD: All Metadata; RANGE: 2023-2026; RUN: 2026-10-26 via browser; RAW RESULTS: 48",
+   "raw_results": 48,
+   "listed": 48
+  },
+  {
+   "family": "ieee_I3",
+   "query": "(\"Document Title\":social OR \"Document Title\":socially OR \"Document Title\":human-aware OR \"Document Title\":crowd OR \"Document Title\":pedestrian OR \"Document Title\":human-centric) AND (\"Document Title\":navigation OR \"Document Title\":navigate) AND (\"large language model\" OR LLM OR \"vision-language\" OR \"vision language\" OR VLM OR \"foundation model\" OR \"vision-language-action\" OR MLLM OR \"large multimodal model\" OR GPT)",
+   "meta": "FIELD: title terms + All Metadata; RANGE: 2023-2026; RUN: 2026-10-26 via browser; RAW RESULTS: 20",
+   "raw_results": 20,
+   "listed": 20
+  }
+ ],
+ "hits": [
+  {
+   "title": "Vision Language Action for TurtleBot Mobile Robot Path Planning",
+   "url": "/document/11593560/",
+   "venue": "ICCRE 2026",
+   "families": [
+    "ieee_I1"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "MAction-SocialNav: Multi-Action Socially Compliant Navigation via Reasoning-Enhanced Prompt Tuning",
+   "url": "/document/11576553/",
+   "venue": "RA-L 2026",
+   "families": [
+    "ieee_I1",
+    "ieee_I2",
+    "ieee_I3"
+   ],
+   "status": "corpus",
+   "match": "2026_Wang_MAction-SocialNav"
+  },
+  {
+   "title": "VLM-Social-Nav: Socially Aware Robot Navigation Through Scoring Using Vision-Language Models",
+   "url": "/document/10777573/",
+   "venue": "RA-L 2025",
+   "families": [
+    "ieee_I1",
+    "ieee_I2",
+    "ieee_I3"
+   ],
+   "status": "corpus",
+   "match": "2025_Song_VLM-Social-Nav"
+  },
+  {
+   "title": "OLiVia-Nav: An Online Lifelong Vision Language Approach for Mobile Robot Social Navigation",
+   "url": "/document/11128004/",
+   "venue": "ICRA 2025",
+   "families": [
+    "ieee_I1",
+    "ieee_I2",
+    "ieee_I3"
+   ],
+   "status": "corpus",
+   "match": "2025_Narasimhan_OLiVia-Nav"
+  },
+  {
+   "title": "From Obstacles to Etiquette: Robot Social Navigation With VLM-Informed Path Selection",
+   "url": "/document/11373887/",
+   "venue": "RA-L 2026",
+   "families": [
+    "ieee_I1",
+    "ieee_I2",
+    "ieee_I3"
+   ],
+   "status": "corpus",
+   "match": "2026_Fang_Obstacles-to-Etiquette"
+  },
+  {
+   "title": "LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating",
+   "url": "/document/11695757/",
+   "venue": "ICRA 2026",
+   "families": [
+    "ieee_I1",
+    "ieee_I3"
+   ],
+   "status": "corpus",
+   "match": "2026_Chen_LISN"
+  },
+  {
+   "title": "Transparent Social Navigation for Autonomous Mobile Robots Via Vision-Language Models",
+   "url": "/document/11217693/",
+   "venue": "RO-MAN 2025",
+   "families": [
+    "ieee_I1",
+    "ieee_I2",
+    "ieee_I3"
+   ],
+   "status": "corpus",
+   "match": "2025_Sotomi_Transparent-Social-Nav-VLM"
+  },
+  {
+   "title": "SOPD-SocialNav: Selective On-Policy Distillation for Vision-Language Social Navigation",
+   "url": "/document/11732522/",
+   "venue": "WRC SARA 2026",
+   "families": [
+    "ieee_I1",
+    "ieee_I2",
+    "ieee_I3"
+   ],
+   "status": "corpus",
+   "match": "2026_Zhang_SOPD-SocialNav"
+  },
+  {
+   "title": "Arena-Bench 2.0: A Comprehensive Benchmark of Social Navigation Approaches in Collaborative Environments",
+   "url": "/document/11246895/",
+   "venue": "IROS 2025",
+   "families": [
+    "ieee_I1",
+    "ieee_I3"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications",
+   "url": "/document/11147864/",
+   "venue": "CVPRW 2025",
+   "families": [
+    "ieee_I1"
+   ],
+   "status": "screened_stage2",
+   "match": "EXCLUDE"
+  },
+  {
+   "title": "Uncertainty-Calibrated Hamilton-Jacobi Value Learning for Safe Crowd Navigation",
+   "url": "/document/11694282/",
+   "venue": "RA-L 2026",
+   "families": [
+    "ieee_I1",
+    "ieee_I3"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "Evaluating Efficiency and Engagement in Scripted and LLM-Enhanced Human-Robot Interactions",
+   "url": "/document/10974124/",
+   "venue": "HRI 2025",
+   "families": [
+    "ieee_I1"
+   ],
+   "status": "screened_stage2",
+   "match": "EXCLUDE"
+  },
+  {
+   "title": "Language and Sketching: An LLM-driven Interactive Multimodal Multitask Robot Navigation Framework",
+   "url": "/document/10611462/",
+   "venue": "ICRA 2024",
+   "families": [
+    "ieee_I1",
+    "ieee_I2"
+   ],
+   "status": "screened_stage2",
+   "match": "EXCLUDE"
+  },
+  {
+   "title": "Socially-Aware Robot Navigation Enhanced by Bidirectional Natural Language Conversations Using Large Language Models",
+   "url": "/document/11246738/",
+   "venue": "IROS 2025",
+   "families": [
+    "ieee_I1",
+    "ieee_I2",
+    "ieee_I3"
+   ],
+   "status": "corpus",
+   "match": "2025_Wen_HSAC-LLM"
+  },
+  {
+   "title": "An LLM-based Architecture for Socially Intelligent Robot Navigation based on Social Cues",
+   "url": "/document/11217843/",
+   "venue": "RO-MAN 2025",
+   "families": [
+    "ieee_I1",
+    "ieee_I2",
+    "ieee_I3"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "MAPF-World: Action World Model for Multi-Agent Path Finding",
+   "url": "/document/11663072/",
+   "venue": "RA-L 2026",
+   "families": [
+    "ieee_I1"
+   ],
+   "status": "screened_stage2",
+   "match": "EXCLUDE"
+  },
+  {
+   "title": "PREDILECT: Preferences Delineated with Zero-Shot Language-based Reasoning in Reinforcement Learning",
+   "url": "/document/10661065/",
+   "venue": "HRI 2024",
+   "families": [
+    "ieee_I1",
+    "ieee_I2"
+   ],
+   "status": "corpus",
+   "match": "2024_Holk_PREDILECT"
+  },
+  {
+   "title": "Social-LLaVA: Enhancing Social Robot Navigation through Human-Language Reasoning",
+   "url": "/document/11247618/",
+   "venue": "IROS 2025",
+   "families": [
+    "ieee_I1",
+    "ieee_I2",
+    "ieee_I3"
+   ],
+   "status": "corpus",
+   "match": "2025_Payandeh_Social-LLaVA"
+  },
+  {
+   "title": "Human-robot Interactive Task Parsing Method Based on Large Language Model",
+   "url": "/document/10792719/",
+   "venue": "2024",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "Multi-Functional AI Robotics: Integrating SLAM, LLM, and Expressive Motion for Human Companionship",
+   "url": "/document/11400771/",
+   "venue": "2025",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "Texting-While-Walking Detection in Real-World Environments Using Vision-Language Models with Prompt Engineering",
+   "url": "/document/11404653/",
+   "venue": "2026",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "LLM-Enhanced Mobile Robot Navigation and Scene Description for Indoor Environments",
+   "url": "/document/11121634/",
+   "venue": "2025",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "LLM - Driven Adaptive Autonomous Robot Navigation via Multimodal Fusion for Diverse Environments",
+   "url": "/document/11097694/",
+   "venue": "2025",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "Reducing Latency in LLM-Based Natural Language Commands Processing for Robot Navigation",
+   "url": "/document/11338698/",
+   "venue": "2025",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "CoNVOI: Context-aware Navigation using Vision Language Models in Outdoor and Indoor Environments",
+   "url": "/document/10802716/",
+   "venue": "2024",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "corpus",
+   "match": "2024_Sathyamoorthy_CoNVOI"
+  },
+  {
+   "title": "SAHABAT: An Interactive LLM-Powered Tour Guide Robot for IIUM Gallery",
+   "url": "/document/11726310/",
+   "venue": "2026",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "How do Foundation Models Compare to Skeleton-Based Approaches for Gesture Recognition in Human-Robot Interaction?",
+   "url": "/document/11217528/",
+   "venue": "2025",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "LLM-Guided Multi-Agent System for Natural Language-Based Robot Navigation",
+   "url": "/document/11105295/",
+   "venue": "2025",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "Agentic Llm-Driven Human-Robot Interaction",
+   "url": "/document/11623576/",
+   "venue": "2026",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "Exophora Resolution of Linguistic Instructions with a Demonstrative based on Real-World Multimodal Information",
+   "url": "/document/10309487/",
+   "venue": "2023",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "GSON: A Group-Based Social Navigation Framework With Large Multimodal Model",
+   "url": "/document/11106758/",
+   "venue": "2025",
+   "families": [
+    "ieee_I2",
+    "ieee_I3"
+   ],
+   "status": "corpus",
+   "match": "2025_Luo_GSON"
+  },
+  {
+   "title": "Spatial Context-Aware VLM-Assisted Goal Reasoning for Navigation in Guide Service Robots",
+   "url": "/document/11602162/",
+   "venue": "2026",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "A Vision-Language Framework for Assistive Home Robotics",
+   "url": "/document/11163226/",
+   "venue": "2025",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "Temporal Semantic Grounding for Vision-Language Navigation: A Multi-Agent Approach to Persistent Object Tracking in Indoor Environments",
+   "url": "/document/11716806/",
+   "venue": "2026",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "CogAAL: A Privacy-Preserving, Full-Stack Cognitive Architecture Integrating Local VLMs, Heterogeneous Robotics, and IoT for Proactive Ambient Assisted Living",
+   "url": "/document/11659911/",
+   "venue": "2026",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "RSG-VLN: Relevance Semantic Map Guided Vision-Language Navigation",
+   "url": "/document/11423232/",
+   "venue": "2025",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "RO-VLMap: Real-Time Occupancy-Aware Visual Language Mapping for Robust Robot Navigation",
+   "url": "/document/11677832/",
+   "venue": "2026",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "Navigation Explainability for Object Avoidance with LLMs for Assistive Robots",
+   "url": "/document/11715000/",
+   "venue": "2026",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "Standards-Aligned Ethical Gating and Decision Telemetry for LLM-Assisted Mobile Robot Navigation: A Simulation Study",
+   "url": "/document/11654303/",
+   "venue": "2026",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "Intelligent Indoor Navigation for Home Robots based on Large Language Models",
+   "url": "/document/11163777/",
+   "venue": "2025",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "TrustNavGPT: Modeling Uncertainty to Improve Trustworthiness of Audio-Guided LLM-Based Robot Navigation",
+   "url": "/document/10801932/",
+   "venue": "2024",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "Hey Robot! Personalizing Robot Navigation Through Model Predictive Control with a Large Language Model",
+   "url": "/document/11128826/",
+   "venue": "2025",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "corpus",
+   "match": "2025_Martinez-Baselga_Hey-Robot"
+  },
+  {
+   "title": "LLM-RLNav: Grounding Natural Language Instructions for Robots via LLM Decomposition and Reinforcement Learning",
+   "url": "/document/11468430/",
+   "venue": "2025",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "LLM-Based Task Planning for Mobile Robots Using a Novel SLAM Method for Materials Distribution",
+   "url": "/document/10977631/",
+   "venue": "2025",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "Language as Cost: Proactive Hazard Mapping using VLM for Robot Navigation",
+   "url": "/document/11246665/",
+   "venue": "2025",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "screened_stage2",
+   "match": "EXCLUDE"
+  },
+  {
+   "title": "Behav: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes",
+   "url": "/document/11127890/",
+   "venue": "2025",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "corpus",
+   "match": "2025_Weerakoon_BehAV"
+  },
+  {
+   "title": "Chat-Driven Reconfiguration of Model Predictive Control",
+   "url": "/document/11540166/",
+   "venue": "2026",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "LAD-VF: LLM-Automatic Differentiation Enables Fine-Tuning-Free Robot Planning from Formal Methods Feedback",
+   "url": "/document/11695863/",
+   "venue": "2026",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "Multi-modal Knowledge Distillation-based Human Trajectory Forecasting",
+   "url": "/document/11094547/",
+   "venue": "2025",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "Leveraging Large Language Models for Modular Robot Navigation",
+   "url": "/document/11140161/",
+   "venue": "2025",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "Narrate2Nav: Real-Time Visual Navigation with Implicit Language Reasoning in Human-Centric Environments",
+   "url": "/document/11696112/",
+   "venue": "2026",
+   "families": [
+    "ieee_I2",
+    "ieee_I3"
+   ],
+   "status": "corpus",
+   "match": "2026_Payandeh_Narrate2Nav"
+  },
+  {
+   "title": "Lightweight Visual Reasoning for Socially-Aware Robots",
+   "url": "/document/11696256/",
+   "venue": "2026",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "screened_stage2",
+   "match": "EXCLUDE"
+  },
+  {
+   "title": "SSR-ZSON: Zero-Shot Object Navigation via Spatial-Semantic Relations within a Hierarchical Exploration Framework",
+   "url": "/document/11697341/",
+   "venue": "2026",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "Robotic-CLIP: Fine-Tuning CLIP on Action Data for Robotic Applications",
+   "url": "/document/11127829/",
+   "venue": "2025",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "Learning Semantic Traversability With Egocentric Video and Automated Annotation Strategy",
+   "url": "/document/10705064/",
+   "venue": "2024",
+   "families": [
+    "ieee_I2"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "IndoNav: A Benchmark Dataset of Indonesian Pedestrian Scenes for Assistive Navigation of Vision-Impaired People",
+   "url": "/document/11630537/",
+   "venue": "2026",
+   "families": [
+    "ieee_I3"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "E-Socialnav: Efficient Socially Compliant Navigation with Language Models",
+   "url": "/document/11462076/",
+   "venue": "2026",
+   "families": [
+    "ieee_I3"
+   ],
+   "status": "corpus",
+   "match": "2026_Xiao_E-SocialNav"
+  },
+  {
+   "title": "GameChat: Multi-LLM Dialogue for Safe, Agile, and Socially Optimal Multi-Agent Navigation in Constrained Environments",
+   "url": "/document/11357267/",
+   "venue": "2025",
+   "families": [
+    "ieee_I3"
+   ],
+   "status": "screened_stage2",
+   "match": "EXCLUDE"
+  },
+  {
+   "title": "LLM-Powered Social Robots for an Indoor Navigation Assistant",
+   "url": "/document/11348564/",
+   "venue": "2025",
+   "families": [
+    "ieee_I3"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "Autonomous Drone Navigation with Natural Language Processing for Human-Centric Smart Manufacturing",
+   "url": "/document/11349154/",
+   "venue": "2025",
+   "families": [
+    "ieee_I3"
+   ],
+   "status": "new",
+   "match": ""
+  },
+  {
+   "title": "AutoSpatial: Visual-Language Reasoning for Social Robot Navigation through Efficient Spatial Reasoning Learning",
+   "url": "/document/11245987/",
+   "venue": "2025",
+   "families": [
+    "ieee_I3"
+   ],
+   "status": "corpus",
+   "match": "2025_Kong_AutoSpatial"
+  }
+ ]
+}

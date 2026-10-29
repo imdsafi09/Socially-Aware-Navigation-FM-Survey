@@ -1,0 +1,10 @@
+{
+ "latency_reported": "Yes = numeric FM/system inference time or rate reported (s, Hz, FPS); Partial = only qualitative/figure; No = not reported; NA = survey",
+ "safety_mechanism": "Yes = explicit safety layer independent of the FM in the deployed/evaluated system (collision checking, CBF, obstacle-cost planner, reflex/velocity filter, restriction to collision-free candidates); No = none reported; NA = survey or non-FM paper",
+ "uncertainty_treatment": "Yes = explicit uncertainty quantification used in decisions; Partial = indirect (likelihoods propagated, multi-answer/ambiguity sets, stochastic prediction outside FM); No; NA = survey or non-FM paper",
+ "hallucination_treatment": "Yes = structural mitigation (FM output restricted to pre-verified options/bounded scores, or verification step) ; Partial = prompt-level or training-level mitigation claimed without verification; No; NA = survey or non-FM paper",
+ "code_released": "Yes = code available or stated available; Promised = to be released; Partial = partial/related code; No = not reported or not released; NA = survey",
+ "new_dataset_released": "Yes = paper introduces and releases/makes public a new dataset/benchmark; No = new data created but not stated released; NA = no new dataset or survey",
+ "real_robot": "Systematic = evidence >= E3; Demo = qualitative real-robot demonstration only; No; NA = survey",
+ "human_subject_study": "Yes = formal human evaluation of robot behaviour (E4); Text-raters = humans rated model text/annotations only; No; NA = survey"
+}

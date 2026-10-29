@@ -1,0 +1,22 @@
+panel,code,label,direct_n,direct_addressed,direct_evaluated_or_share,prefm_n,prefm_value
+a,A1,Kinematic agent,45,,21,40,31
+a,A2,Predicted motion,45,,7,40,14
+a,A3,Social-space field,45,,11,40,12
+a,A4,Relational structure,45,,3,40,17
+a,A5,Linguistic / symbolic,45,,30,40,1
+a,A6,Implicit / latent,45,,15,40,5
+b,SAF1,Collision avoidance,45,32,17,40,12
+b,SAF2,Near-collision or risk margin,45,12,7,40,6
+b,SPA1,Personal space,45,26,13,40,4
+b,SPA2,Group and conversation space,45,13,3,40,4
+b,SPA3,Encounter conventions,45,28,8,40,4
+b,SPA4,Crowd navigation,45,22,1,40,11
+b,HUM1,Motion understanding or prediction,45,21,0,40,5
+b,HUM2,Intention or activity inference,45,16,2,40,0
+b,NOR1,Etiquette and politeness,45,26,3,40,2
+b,NOR2,Social-instruction following,45,15,8,40,0
+b,NOR3,Context-dependent conduct,45,36,9,40,1
+b,NOR4,Cultural or norm adaptation,45,0,0,40,0
+b,EXP1,Perceived safety and comfort,45,13,2,40,4
+b,EXP2,Legibility and predictability,45,6,0,40,2
+b,EXP3,Naturalness,45,14,1,40,3
