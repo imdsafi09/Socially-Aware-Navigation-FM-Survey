@@ -6,20 +6,20 @@ The corpus contains 98 works, including 45 direct foundation-model (FM) social-n
 
 ## Copyright of the reviewed articles
 
-The reviewed articles are **not** included in this repository, because most of them are under publisher copyright. Each work is listed below with a link to its DOI, publisher page or arXiv abstract page; readers obtain the articles from these sources. The version used for coding is recorded in `16_Supplementary/S2_publication_status.csv`. The paper notes in `08_Paper_Notes/` are the authors' structured summaries with page references, not copies of the articles.
+The reviewed articles are **not** included in this repository, because most of them are under publisher copyright. Each work is listed below with a link to its DOI, publisher page or arXiv abstract page; readers obtain the articles from these sources. The version used for coding is recorded in [`16_Supplementary/S2_publication_status.csv`](16_Supplementary/S2_publication_status.csv). The paper notes in `08_Paper_Notes/` are the authors' structured summaries with page references, not copies of the articles.
 
 ## Repository contents
 
 | Path | Content |
 |---|---|
-| `08_Paper_Notes/` | One structured note per corpus work (YAML front matter with the final coding, followed by a summary) |
-| `07_Literature_Analysis/` | Coding matrices generated from the notes (direct papers, capabilities, evidence, deployment, metrics, reproducibility, datasets), the pre-FM comparison set, and the search and screening scripts and records (`_tools/stage2`: expansion search and screening; `_tools/stage11`: final coverage search; `_tools/stage9`: pre-FM comparison set) |
-| `10_PreWriting/` | `quantitative_findings.json`: every count reported in the survey, with numerator, denominator, population and source (`build_findings.py`) |
-| `11_Tables/` | Generated tables (CSV and Markdown) |
-| `12_Figures/` | Figure scripts (pycairo, deterministic vector output) and the generated figures; no generative image model is used |
-| `13_References/` | Verified bibliographic metadata and the generated reference database |
-| `16_Supplementary/` | Supplementary material: Tables S1–S13 (CSV and Markdown), Figs. S1–S4, the supplement PDF and its LaTeX source |
-| `15_Manuscript/references.bib` | Bibliography used by the supplement build |
+| [`08_Paper_Notes/`](08_Paper_Notes) | One structured note per corpus work (YAML front matter with the final coding, followed by a summary) |
+| [`07_Literature_Analysis/`](07_Literature_Analysis) | Coding matrices generated from the notes (direct papers, capabilities, evidence, deployment, metrics, reproducibility, datasets), the pre-FM comparison set, and the search and screening scripts and records (`_tools/stage2`: expansion search and screening; `_tools/stage11`: final coverage search; `_tools/stage9`: pre-FM comparison set) |
+| [`10_PreWriting/`](10_PreWriting) | `quantitative_findings.json`: every count reported in the survey, with numerator, denominator, population and source (`build_findings.py`) |
+| [`11_Tables/`](11_Tables) | Generated tables (CSV and Markdown) |
+| [`12_Figures/`](12_Figures) | Figure scripts (pycairo, deterministic vector output) and the generated figures; no generative image model is used |
+| [`13_References/`](13_References) | Verified bibliographic metadata and the generated reference database |
+| [`16_Supplementary/`](16_Supplementary) | Supplementary material: Tables S1–S13 (CSV and Markdown), Figs. S1–S4, the supplement PDF and its LaTeX source |
+| [`15_Manuscript/references.bib`](15_Manuscript/references.bib) | Bibliography used by the supplement build |
 
 ## Rebuilding
 
@@ -33,7 +33,7 @@ The build regenerates the pre-FM comparison set, the reference database, the qua
 
 ## Licence
 
-Code (`*.py`, `*.sh`): MIT licence (`LICENSE`). Data, notes, tables and figures: Creative Commons Attribution 4.0 International (`LICENSE-DATA.md`). Bibliographic metadata of the reviewed works and short quotations remain subject to the rights of their owners.
+Code (`*.py`, `*.sh`): MIT licence ([`LICENSE`](LICENSE)). Data, notes, tables and figures: Creative Commons Attribution 4.0 International ([`LICENSE-DATA.md`](LICENSE-DATA.md)). Bibliographic metadata of the reviewed works and short quotations remain subject to the rights of their owners.
 
 ## Reviewed works
 

@@ -1,3 +1,5 @@
+> **Note (public repository).** This file documents the original stage-1 pipeline. Steps that read the source articles (`extract.py`, `extracted_text/`) or write internal reports (`09_Project_Reports/`) refer to files that are not included here for copyright reasons; the reproducible build starts from the coding matrices and notes (see `build.sh` in the repository root).
+
 # Stage-1 analysis pipeline
 
 Notes (`08_Paper_Notes/*.md`, YAML front matter) are the single source of truth. Everything else is generated.
